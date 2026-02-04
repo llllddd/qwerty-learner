@@ -4,6 +4,6 @@ services:
   qwertylearner:
     build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: Dockerfile_sds
     ports:
       - '8990:5173'
