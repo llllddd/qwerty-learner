@@ -1,6 +1,31 @@
 import type { Dictionary, DictionaryResource } from '@/typings/index'
 import { calcChapterCount } from '@/utils'
 
+// Norweigian
+const norweigianDicts: DictionaryResource[] = [
+  {
+    id: 'now1',
+    name: 'NOW-1',
+    description: 'Norweigian on the web',
+    category: 'Norweigian',
+    tags: ['Norweigian'],
+    url: '/dicts/nor/NOW1.json',
+    length: 1112,
+    language: 'no',
+    languageCategory: 'no',
+  },
+  {
+    id: 'now1-ch2',
+    name: 'NOW1-ch2',
+    description: 'NOW1 chapter 2',
+    category: 'Norweigian',
+    tags: ['Norweigian'],
+    url: '/dicts/nor/NOW1_ch2.json',
+    length: 105,
+    language: 'no',
+    languageCategory: 'no',
+  },
+]
 // 中国考试
 const chinaExam: DictionaryResource[] = [
   {
@@ -4166,8 +4191,7 @@ export const dictionaryResources: DictionaryResource[] = [
   ...programming,
   ...japaneseExam,
   ...germanExam,
-  ...kazakhHapinDicts,
-  ...indonesianDicts,
+  ...norweigianDicts,
 
   // {
   //   id: 'zhtest',
@@ -4189,6 +4213,7 @@ export const dictionaryResources: DictionaryResource[] = [
   // },
 ]
 
+//TODO: 根据章节标签区分章节
 export const dictionaries: Dictionary[] = dictionaryResources.map((resource) => ({
   ...resource,
   chapterCount: calcChapterCount(resource.length),

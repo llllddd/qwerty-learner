@@ -8,8 +8,8 @@ import { isOpenDarkModeAtom } from '@/store'
 import { Analytics } from '@vercel/analytics/react'
 import 'animate.css'
 import { useAtomValue } from 'jotai'
-import mixpanel from 'mixpanel-browser'
-import process from 'process'
+// import mixpanel from 'mixpanel-browser'
+//import process from 'process'
 import React, { Suspense, lazy, useEffect, useState } from 'react'
 import 'react-app-polyfill/stable'
 import { createRoot } from 'react-dom/client'
@@ -18,13 +18,14 @@ import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
 const AnalysisPage = lazy(() => import('./pages/Analysis'))
 const GalleryPage = lazy(() => import('./pages/Gallery-N'))
 
-if (process.env.NODE_ENV === 'production') {
-  // for prod
-  mixpanel.init('bdc492847e9340eeebd53cc35f321691')
-} else {
-  // for dev
-  mixpanel.init('5474177127e4767124c123b2d7846e2a', { debug: true })
-}
+// Cancel the Google Analytics
+// if (process.env.NODE_ENV === 'production') {
+//   // for prod
+//   mixpanel.init('bdc492847e9340eeebd53cc35f321691')
+// } else {
+//   // for dev
+//   mixpanel.init('5474177127e4767124c123b2d7846e2a', { debug: true })
+// }
 
 function Root() {
   const darkMode = useAtomValue(isOpenDarkModeAtom)
