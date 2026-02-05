@@ -14,45 +14,45 @@ import { useAtomValue } from 'jotai'
 import mixpanel from 'mixpanel-browser'
 import { useCallback } from 'react'
 
+/**
+ * 安全调用 Mixpanel 的包装函数
+ * 防止 Mixpanel 未初始化或被插件拦截时导致应用崩溃
+ */
+const safeTrack = (event: string, props?: Record<string, any>) => {
+  try {
+    // 检查 mixpanel 是否存在，且内部 config 是否已就绪
+    if (typeof mixpanel !== 'undefined' && mixpanel) {
+      mixpanel.track(event, props)
+    }
+  } catch (e) {
+    console.warn(`Mixpanel track failed for event: ${event}`, e)
+  }
+}
+
 export type starAction = 'star' | 'dismiss'
 
 export function recordStarAction(action: starAction) {
-  const props = {
-    action,
-  }
-  mixpanel.track('star', props)
+  safeTrack('star', { action })
 }
 
 export type openInfoPanelLocation = 'footer' | 'resultScreen'
 export function recordOpenInfoPanelAction(type: InfoPanelType, location: openInfoPanelLocation) {
-  const props = {
-    type,
-    location,
-  }
-  mixpanel.track('openInfoPanel', props)
+  safeTrack('openInfoPanel', { type, location })
 }
 
 export type shareType = 'open' | 'download'
 export function recordShareAction(type: shareType) {
-  mixpanel.track('share', { type })
+  safeTrack('share', { type })
 }
 
 export type analysisType = 'open'
 export function recordAnalysisAction(type: analysisType) {
-  const props = {
-    type,
-  }
-
-  mixpanel.track('analysis', props)
+  safeTrack('analysis', { type })
 }
 
 export type errorBookType = 'open' | 'detail'
 export function recordErrorBookAction(type: errorBookType) {
-  const props = {
-    type,
-  }
-
-  mixpanel.track('error-book', props)
+  safeTrack('error-book', { type })
 }
 
 export type donateCardInfo = {
@@ -66,11 +66,7 @@ export type donateCardInfo = {
 }
 
 export function reportDonateCard(info: donateCardInfo) {
-  const props = {
-    ...info,
-  }
-
-  mixpanel.track('donate-card', props)
+  safeTrack('donate-card', { ...info })
 }
 
 /**
@@ -80,11 +76,9 @@ export type ModeInfo = {
   modeDictation: boolean
   modeDark: boolean
   modeShuffle: boolean
-
   enabledKeyboardSound: boolean
   enabledPhotonicsSymbol: boolean
   enabledSingleWordLoop: boolean
-
   pronunciationAuto: boolean
   pronunciationOption: PronunciationType | 'none'
 }
@@ -136,7 +130,7 @@ export function useMixPanelWordLogUploader(typingState: TypingState) {
         pronunciationAuto: pronunciationConfig.isOpen,
         pronunciationOption: pronunciationConfig.isOpen === false ? 'none' : pronunciationConfig.type,
       }
-      mixpanel.track('Word', props)
+      safeTrack('Word', props)
     },
     [
       typingState,
@@ -181,7 +175,7 @@ export function useMixPanelChapterLogUploader(typingState: TypingState) {
       pronunciationAuto: pronunciationConfig.isOpen,
       pronunciationOption: pronunciationConfig.isOpen === false ? 'none' : pronunciationConfig.type,
     }
-    mixpanel.track('Chapter', props)
+    safeTrack('Chapter', props)
   }, [
     typingState,
     currentChapter,
@@ -207,14 +201,7 @@ export function recordDataAction({
   wordCount: number
   chapterCount: number
 }) {
-  const props = {
-    type,
-    size,
-    wordCount,
-    chapterCount,
-  }
-
-  mixpanel.track('dataAction', props)
+  safeTrack('dataAction', { type, size, wordCount, chapterCount })
 }
 
 export function getUtcStringForMixpanel() {

@@ -49,6 +49,7 @@ export type TypingState = {
   isShowSkip: boolean
   isTransVisible: boolean
   isLoopSingleWord: boolean
+  isWordVisible: boolean
   // 是否正在保存数据
   isSavingRecord: boolean
 }

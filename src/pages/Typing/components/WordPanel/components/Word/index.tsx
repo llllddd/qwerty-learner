@@ -51,7 +51,11 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
 
   const [showTipAlert, setShowTipAlert] = useState(false)
   const wordPronunciationIconRef = useRef<WordPronunciationIconRef>(null)
-
+  const isSkipableChar = (char: string) => {
+    // 包含空格、特殊的 EXPLICIT_SPACE、以及常见的标点符号
+    // 你可以根据需求增删这个正则
+    return /[\s\s_.,!?;:()"'“”‘’-]/.test(char) || char === EXPLICIT_SPACE
+  }
   useEffect(() => {
     // run only when word changes
     let headword = ''
@@ -95,6 +99,26 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
     },
     [wordState.hasWrong, setWordState],
   )
+
+  useEffect(() => {
+    const headword = word.name.replace(/ /g, EXPLICIT_SPACE).replace(/…/g, '..')
+
+    const newWordState = structuredClone(initialWordState)
+    newWordState.displayWord = headword
+    const states = new Array(headword.length).fill('normal')
+
+    // 【新增】：初始化时跳过开头的符号
+    let i = 0
+    while (i < headword.length && isSkipableChar(headword[i])) {
+      states[i] = 'correct'
+      i++
+    }
+
+    newWordState.letterStates = states
+    newWordState.startTime = getUtcStringForMixpanel()
+    newWordState.randomLetterVisible = headword.split('').map(() => Math.random() > 0.4)
+    setWordState(newWordState)
+  }, [word, setWordState])
 
   const handleHoverWord = useCallback((checked: boolean) => {
     setIsHoveringWord(checked)
@@ -177,56 +201,41 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
       return
     }
 
+    // 当前用户输入的最后一个字符
     const inputChar = wordState.inputWord[inputLength - 1]
-    const correctChar = wordState.displayWord[inputLength - 1]
-    let isEqual = false
-    if (inputChar != undefined && correctChar != undefined) {
-      isEqual = isIgnoreCase ? inputChar.toLowerCase() === correctChar.toLowerCase() : inputChar === correctChar
-    }
+    // 当前应该对比的展示位（注意：这里不能直接用 inputLength-1，因为前面可能跳过了一些位）
+    // 我们需要找到第一个状态为 'normal' 的位置
+    const targetIndex = wordState.letterStates.findIndex((s) => s === 'normal')
+    if (targetIndex === -1) return
+
+    const correctChar = wordState.displayWord[targetIndex]
+
+    const isEqual = isIgnoreCase ? inputChar.toLowerCase() === correctChar.toLowerCase() : inputChar === correctChar
 
     if (isEqual) {
-      // 输入正确时
-      setWordState((state) => {
-        state.letterTimeArray.push(Date.now())
-        state.correctCount += 1
-      })
+      setWordState((draft) => {
+        draft.letterTimeArray.push(Date.now())
+        draft.correctCount += 1
+        draft.letterStates[targetIndex] = 'correct'
 
-      if (inputLength >= wordState.displayWord.length) {
-        // 完成输入时
-        setWordState((state) => {
-          state.letterStates[inputLength - 1] = 'correct'
-          state.isFinished = true
-          state.endTime = getUtcStringForMixpanel()
-        })
-        playHintSound()
-      } else {
-        setWordState((state) => {
-          state.letterStates[inputLength - 1] = 'correct'
-        })
-        playKeySound()
-      }
-
-      dispatch({ type: TypingStateActionType.REPORT_CORRECT_WORD })
-    } else {
-      // 出错时
-      playBeepSound()
-      setWordState((state) => {
-        state.letterStates[inputLength - 1] = 'wrong'
-        state.hasWrong = true
-        state.hasMadeInputWrong = true
-        state.wrongCount += 1
-        state.letterTimeArray = []
-
-        if (state.letterMistake[inputLength - 1]) {
-          state.letterMistake[inputLength - 1].push(inputChar)
-        } else {
-          state.letterMistake[inputLength - 1] = [inputChar]
+        // 【核心逻辑】：自动跳过后续的空格和特殊符号
+        let nextIndex = targetIndex + 1
+        while (nextIndex < draft.displayWord.length && isSkipableChar(draft.displayWord[nextIndex])) {
+          draft.letterStates[nextIndex] = 'correct' // 自动标记为正确
+          nextIndex++
         }
 
-        const currentState = JSON.parse(JSON.stringify(state))
-        dispatch({ type: TypingStateActionType.REPORT_WRONG_WORD, payload: { letterMistake: currentState.letterMistake } })
+        // 检查是否完成整个单词
+        if (nextIndex >= draft.displayWord.length) {
+          draft.isFinished = true
+          draft.endTime = getUtcStringForMixpanel()
+          playHintSound()
+        } else {
+          playKeySound()
+        }
       })
 
+      dispatch({ type: TypingStateActionType.REPORT_CORRECT_WORD })
       if (currentChapter === 0 && state.chapterData.index === 0 && wordState.wrongCount >= 3) {
         setShowTipAlert(true)
       }
@@ -300,7 +309,14 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
             className={`flex items-center ${isTextSelectable && 'select-all'} justify-center ${wordState.hasWrong ? style.wrong : ''}`}
           >
             {wordState.displayWord.split('').map((t, index) => {
-              return <Letter key={`${index}-${t}`} letter={t} visible={getLetterVisible(index)} state={wordState.letterStates[index]} />
+              return (
+                <Letter
+                  key={`${index}-${t}`}
+                  letter={t === '␣' ? '\u00A0' : t}
+                  visible={getLetterVisible(index)}
+                  state={wordState.letterStates[index]}
+                />
+              )
             })}
           </div>
           {pronunciationIsOpen && (

@@ -84,9 +84,20 @@ export const errorColumns = (onDelete: (word: string) => Promise<void>): ColumnD
 
 export function getRowsFromErrorWordData(data: TErrorWordData[]): ErrorColumn[] {
   return data.map((item) => {
+    // 1. 安全提取 trans
+    const rawTrans = item.originData?.trans
+
+    // 2. 防御性处理：确保不会因为非数组类型崩溃
+    let transDisplay = ''
+    if (Array.isArray(rawTrans)) {
+      transDisplay = rawTrans.join('，')
+    } else if (typeof rawTrans === 'string') {
+      transDisplay = rawTrans
+    }
+
     return {
       word: item.word,
-      trans: item.originData.trans.join('，') ?? '',
+      trans: transDisplay || '', // 如果是 undefined/null 则显示空串
       errorCount: item.errorCount,
       errorChar: item.errorChar,
     }

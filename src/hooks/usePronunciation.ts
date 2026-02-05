@@ -9,9 +9,12 @@ import { useEffect, useMemo, useState } from 'react'
 import useSound from 'use-sound'
 import type { HookOptions } from 'use-sound/dist/types'
 
-const pronunciationApi = 'https://dict.youdao.com/dictvoice?audio='
 export function generateWordSoundSrc(word: string, pronunciation: Exclude<PronunciationType, false>): string {
+  const pronunciationApi = 'https://dict.youdao.com/dictvoice?audio='
+  const norweigianAudioApi = 'https://www.hf.ntnu.no/now/audio/ordliste/publisert/'
   switch (pronunciation) {
+    case 'no':
+      return `${norweigianAudioApi}${word}.mp3`
     case 'uk':
       return `${pronunciationApi}${word}&type=1`
     case 'us':
@@ -72,32 +75,50 @@ export default function usePronunciationSound(word: string, isLoop?: boolean) {
   return { play, stop, isPlaying }
 }
 
+// export function usePrefetchPronunciationSound(word: string | undefined) {
+//   const pronunciationConfig = useAtomValue(pronunciationConfigAtom)
+
+//   useEffect(() => {
+//     if (!word) return
+
+//     const soundUrl = generateWordSoundSrc(word, pronunciationConfig.type)
+//     if (soundUrl === '') return
+
+//     const head = document.head
+//     const isPrefetch = (Array.from(head.querySelectorAll('link[href]')) as HTMLLinkElement[]).some((el) => el.href === soundUrl)
+
+//     if (!isPrefetch) {
+//       const audio = new Audio()
+//       audio.src = soundUrl
+//       audio.preload = 'auto'
+
+//       // gpt 说这这两行能尽可能规避下载插件被触发问题。 本地测试不加也可以，考虑到别的插件可能有问题，所以加上保险
+//       // audio.crossOrigin = 'anonymous'
+//       audio.style.display = 'none'
+
+//       head.appendChild(audio)
+
+//       return () => {
+//         head.removeChild(audio)
+//       }
+//     }
+//   }, [pronunciationConfig.type, word])
+// }
+
 export function usePrefetchPronunciationSound(word: string | undefined) {
   const pronunciationConfig = useAtomValue(pronunciationConfigAtom)
 
   useEffect(() => {
     if (!word) return
-
     const soundUrl = generateWordSoundSrc(word, pronunciationConfig.type)
-    if (soundUrl === '') return
 
-    const head = document.head
-    const isPrefetch = (Array.from(head.querySelectorAll('link[href]')) as HTMLLinkElement[]).some((el) => el.href === soundUrl)
+    // 仅仅创建一个对象触发浏览器缓存，不需要放入 DOM，也不需要常驻内存
+    const audio = new Audio()
+    audio.src = soundUrl
+    audio.preload = 'auto'
 
-    if (!isPrefetch) {
-      const audio = new Audio()
-      audio.src = soundUrl
-      audio.preload = 'auto'
-
-      // gpt 说这这两行能尽可能规避下载插件被触发问题。 本地测试不加也可以，考虑到别的插件可能有问题，所以加上保险
-      audio.crossOrigin = 'anonymous'
-      audio.style.display = 'none'
-
-      head.appendChild(audio)
-
-      return () => {
-        head.removeChild(audio)
-      }
+    return () => {
+      audio.src = '' // 及时释放
     }
-  }, [pronunciationConfig.type, word])
+  }, [word, pronunciationConfig.type])
 }
