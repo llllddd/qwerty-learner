@@ -1,0 +1,1082 @@
+[
+    {
+        "word":"allerede",
+        "name":"allerede",
+        "audio_name":"allerede",
+        "trans":"d, already",
+        "inflection":null,
+        "reference":"04M"
+    },
+    {
+        "word":"annen",
+        "name":"annen",
+        "audio_name":"annen",
+        "trans":"other",
+        "inflection":"anna (f), annet (n), andre (pl)",
+        "reference":"04P"
+    },
+    {
+        "word":"bagett",
+        "name":"en bagett",
+        "audio_name":"en_bagett",
+        "trans":"n, a baguette",
+        "inflection":"bagetten, bagetter, bagettene",
+        "reference":"04M"
+    },
+    {
+        "word":"bakeri",
+        "name":"et bakeri",
+        "audio_name":"et_bakeri",
+        "trans":"n, a bakery",
+        "inflection":"bakeriet, bakerier, bakeriene",
+        "reference":"04M"
+    },
+    {
+        "word":"banan",
+        "name":"en banan",
+        "audio_name":"en_banan",
+        "trans":"n, a banana",
+        "inflection":"bananen, bananer, bananene",
+        "reference":"04K"
+    },
+    {
+        "word":"banke",
+        "name":"å banke",
+        "audio_name":"aa_banke",
+        "trans":"v, to knock",
+        "inflection":"banker, banket, har banket",
+        "reference":"04M"
+    },
+    {
+        "word":"begynne",
+        "name":"å begynne",
+        "audio_name":"aa_begynne",
+        "trans":"v, to begin",
+        "inflection":"begynner, begynte, har begynt",
+        "reference":"04M"
+    },
+    {
+        "word":"bekreftelse",
+        "name":"en bekreftelse",
+        "audio_name":"en_bekreftelse",
+        "trans":"n, a confirmation",
+        "inflection":"bekreftelsen, bekreftelser, bekreftelsene",
+        "reference":"04P"
+    },
+    {
+        "word":"bestemme",
+        "name":"å bestemme",
+        "audio_name":"aa_bestemme",
+        "trans":"v, to determine",
+        "inflection":"bestemmer, bestemte, har bestemt",
+        "reference":"04M"
+    },
+    {
+        "word":"billig",
+        "name":"billig",
+        "audio_name":"billig",
+        "trans":"a, inexpensive, cheap",
+        "inflection":"billig, billige",
+        "reference":"04K"
+    },
+    {
+        "word":"blå",
+        "name":"blå",
+        "audio_name":"blaa",
+        "trans":"a, blue",
+        "inflection":"blått, blåe",
+        "reference":"04A"
+    },
+    {
+        "word":"bok",
+        "name":"ei bok",
+        "audio_name":"ei_bok",
+        "trans":"n, a book",
+        "inflection":"boka, bøker, bøkene",
+        "reference":"04M"
+    },
+    {
+        "word":"bokhandel",
+        "name":"en bokhandel",
+        "audio_name":"en_bokhandel",
+        "trans":"n, a bookstore",
+        "inflection":"bokhandelen, bokhandler, bokhandlene",
+        "reference":"04M"
+    },
+    {
+        "word":"bolle",
+        "name":"ei bolle",
+        "audio_name":"ei_bolle",
+        "trans":"n, a bun",
+        "inflection":"bolla, boller, bollene",
+        "reference":"04K"
+    },
+    {
+        "word":"brev",
+        "name":"et brev",
+        "audio_name":"et_brev",
+        "trans":"n, a letter",
+        "inflection":"brevet, brev, brevene",
+        "reference":"04P"
+    },
+    {
+        "word":"brødhylle",
+        "name":"ei brødhylle",
+        "audio_name":"ei_broedhylle",
+        "trans":"n, a bread rack",
+        "inflection":"brødhylla, brødhyller, brødhyllene",
+        "reference":"04K"
+    },
+    {
+        "word":"butikk",
+        "name":"en butikk",
+        "audio_name":"en_butikk",
+        "trans":"n, a shop",
+        "inflection":"butikken, butikker, butikkene",
+        "reference":"04A"
+    },
+    {
+        "word":"denne",
+        "name":"denne",
+        "audio_name":"denne",
+        "trans":"this",
+        "inflection":"dette, disse",
+        "reference":"04K"
+    },
+    {
+        "word":"derfor",
+        "name":"derfor",
+        "audio_name":"derfor",
+        "trans":"therefore",
+        "inflection":null,
+        "reference":"04P"
+    },
+    {
+        "word":"dessuten",
+        "name":"dessuten",
+        "audio_name":"dessuten",
+        "trans":"d, moreover, besides",
+        "inflection":null,
+        "reference":"04A"
+    },
+    {
+        "word":"dette",
+        "name":"dette",
+        "audio_name":"dette",
+        "trans":"this",
+        "inflection":null,
+        "reference":"04K"
+    },
+    {
+        "word":"disse",
+        "name":"disse",
+        "audio_name":"disse",
+        "trans":"these",
+        "inflection":null,
+        "reference":"04K"
+    },
+    {
+        "word":"dit",
+        "name":"dit",
+        "audio_name":"dit",
+        "trans":"a, there, yonder",
+        "inflection":null,
+        "reference":"04P"
+    },
+    {
+        "word":"dyne",
+        "name":"ei dyne",
+        "audio_name":"ei_dyne",
+        "trans":"n, a quilt",
+        "inflection":"dyna, dyner, dynene",
+        "reference":"04M"
+    },
+    {
+        "word":"dyr",
+        "name":"dyr",
+        "audio_name":"dyr",
+        "trans":"a, expensive",
+        "inflection":"dyrt, dyre",
+        "reference":"04K"
+    },
+    {
+        "word":"eple",
+        "name":"et eple",
+        "audio_name":"et_eple",
+        "trans":"n, an apple",
+        "inflection":"eplet, epler, eplene",
+        "reference":"04K"
+    },
+    {
+        "word":"EØS-land",
+        "name":"et EØS-land",
+        "audio_name":"et_EOES-land",
+        "trans":"n, an EEA country",
+        "inflection":"EØS-landet, EØS-land, EØS-landene",
+        "reference":"04P"
+    },
+    {
+        "word":"faktisk",
+        "name":"faktisk",
+        "audio_name":"faktisk",
+        "trans":"a, actually",
+        "inflection":null,
+        "reference":"04M"
+    },
+    {
+        "word":"fire",
+        "name":"fire",
+        "audio_name":"fire",
+        "trans":"four",
+        "inflection":null,
+        "reference":"04M"
+    },
+    {
+        "word":"for dyr",
+        "name":"for dyr",
+        "audio_name":"for_dyr",
+        "trans":"too expensive",
+        "inflection":"for dyrt, for dyre",
+        "reference":"04M"
+    },
+    {
+        "word":"for å",
+        "name":"for å",
+        "audio_name":"for_aa",
+        "trans":"in order to ...",
+        "inflection":null,
+        "reference":"04M"
+    },
+    {
+        "word":"fornøyd",
+        "name":"fornøyd",
+        "audio_name":"fornoeyd",
+        "trans":"a, satisfied, pleased",
+        "inflection":"fornøyd, fornøyde",
+        "reference":"04A"
+    },
+    {
+        "word":"forresten",
+        "name":"forresten",
+        "audio_name":"forresten",
+        "trans":"d, by the way",
+        "inflection":null,
+        "reference":"04K"
+    },
+    {
+        "word":"fortelle",
+        "name":"å fortelle",
+        "audio_name":"aa_fortelle",
+        "trans":"v, to tell",
+        "inflection":"forteller, fortalte, har fortalt",
+        "reference":"04P"
+    },
+    {
+        "word":"fotoautomat",
+        "name":"en fotoautomat",
+        "audio_name":"en_fotoautomat",
+        "trans":"n, a photo machine",
+        "inflection":"fotoautomaten, fotoautomater, fotoautomatene",
+        "reference":"04P"
+    },
+    {
+        "word":"frimerke",
+        "name":"et frimerke",
+        "audio_name":"et_frimerke",
+        "trans":"n, a stamp",
+        "inflection":"frimerket, frimerker, frimerkene",
+        "reference":"04K"
+    },
+    {
+        "word":"fruktdisk",
+        "name":"en fruktdisk",
+        "audio_name":"en_fruktdisk",
+        "trans":"n, a fruit counter",
+        "inflection":"fruktdisken, fruktdisker, fruktdiskene",
+        "reference":"04K"
+    },
+    {
+        "word":"ganske",
+        "name":"ganske",
+        "audio_name":"ganske",
+        "trans":"d, quite",
+        "inflection":null,
+        "reference":"04A"
+    },
+    {
+        "word":"gebyr",
+        "name":"et gebyr",
+        "audio_name":"et_gebyr",
+        "trans":"n, a fee, charge",
+        "inflection":"gebyret, gebyrer, gebyrene",
+        "reference":"04P"
+    },
+    {
+        "word":"genser",
+        "name":"en genser",
+        "audio_name":"en_genser",
+        "trans":"n, a sweater",
+        "inflection":"genseren, gensere, genserne",
+        "reference":"04A"
+    },
+    {
+        "word":"grønn",
+        "name":"grønn",
+        "audio_name":"groenn",
+        "trans":"a, green",
+        "inflection":"grønt, grønne",
+        "reference":"04A"
+    },
+    {
+        "word":"grå",
+        "name":"grå",
+        "audio_name":"graa",
+        "trans":"a, grey",
+        "inflection":"grått, gråe",
+        "reference":"04A"
+    },
+    {
+        "word":"ha lyst til å …",
+        "name":"å ha lyst til å …",
+        "audio_name":"aa_ha_lyst_til_aa",
+        "trans":"v, want to, would like to",
+        "inflection":"har lyst til, hadde lyst til, har hatt lyst til",
+        "reference":"04M"
+    },
+    {
+        "word":"handle",
+        "name":"å handle",
+        "audio_name":"aa_handle",
+        "trans":"v, to shop",
+        "inflection":"handler, handlet, har handlet",
+        "reference":"04K"
+    },
+    {
+        "word":"handlekurv",
+        "name":"en handlekurv",
+        "audio_name":"en_handlekurv",
+        "trans":"n, a shopping basket",
+        "inflection":"handlekurven, handlekurver, handlekurvene",
+        "reference":"04M"
+    },
+    {
+        "word":"handlevogn",
+        "name":"ei handlevogn",
+        "audio_name":"ei_handlevogn",
+        "trans":"n, a shopping cart",
+        "inflection":"handlevognen, handlevogner, handlevognene",
+        "reference":"04K"
+    },
+    {
+        "word":"heldigvis",
+        "name":"heldigvis",
+        "audio_name":"heldigvis",
+        "trans":"d, fortunately",
+        "inflection":null,
+        "reference":"04K"
+    },
+    {
+        "word":"helseforsikring",
+        "name":"en helseforsikring",
+        "audio_name":"en_helseforsikring",
+        "trans":"n, a health insurance",
+        "inflection":"helseforsikringen, helseforsikringer, helseforsikringene",
+        "reference":"04P"
+    },
+    {
+        "word":"hjem",
+        "name":"hjem",
+        "audio_name":"hjem",
+        "trans":"d, home",
+        "inflection":null,
+        "reference":"04K"
+    },
+    {
+        "word":"hjem",
+        "name":"hjem",
+        "audio_name":"et_hjem",
+        "trans":"d, home",
+        "inflection":null,
+        "reference":"07B"
+    },
+    {
+        "word":"humør",
+        "name":"et humør",
+        "audio_name":"et_humoer",
+        "trans":"n, a mood",
+        "inflection":"humøret (uncountable noun)",
+        "reference":"04M"
+    },
+    {
+        "word":"hvilket",
+        "name":"hvilket",
+        "audio_name":"hvilket",
+        "trans":"which",
+        "inflection":null,
+        "reference":"04K"
+    },
+    {
+        "word":"i dag",
+        "name":"i dag",
+        "audio_name":"i_dag",
+        "trans":"d, today",
+        "inflection":null,
+        "reference":"04A"
+    },
+    {
+        "word":"i stedet",
+        "name":"i stedet",
+        "audio_name":"i_stedet",
+        "trans":"instead",
+        "inflection":null,
+        "reference":"04K"
+    },
+    {
+        "word":"interessant",
+        "name":"interessant",
+        "audio_name":"interessant",
+        "trans":"a, interesting",
+        "inflection":"interessant, interessante",
+        "reference":"04M"
+    },
+    {
+        "word":"interiørbutikk",
+        "name":"en interiørbutikk",
+        "audio_name":"en_interioerbutikk",
+        "trans":"n, interior design shop",
+        "inflection":"interiørbutikken, interiørbutikker, interiørbutikkene",
+        "reference":"04M"
+    },
+    {
+        "word":"invitere",
+        "name":"å invitere",
+        "audio_name":"aa_invitere",
+        "trans":"v, to invite",
+        "inflection":"inviterer, inviterte, har invitert",
+        "reference":"04P"
+    },
+    {
+        "word":"ja visst",
+        "name":"ja visst",
+        "audio_name":"ja_visst",
+        "trans":"surely, certainly",
+        "inflection":null,
+        "reference":"04P"
+    },
+    {
+        "word":"jakke",
+        "name":"ei jakke",
+        "audio_name":"ei_jakke",
+        "trans":"n, a jacket",
+        "inflection":"jakka, jakker, jakkene",
+        "reference":"04A"
+    },
+    {
+        "word":"jernbanestasjon",
+        "name":"en jernbanestasjon",
+        "audio_name":"en_jernbanestasjon",
+        "trans":"n, a railway station",
+        "inflection":"jernbanestasjonen, jernbanestasjoner, jernbanestasjonene",
+        "reference":"04P"
+    },
+    {
+        "word":"kake",
+        "name":"ei kake",
+        "audio_name":"ei_kake",
+        "trans":"n, a cake",
+        "inflection":"kaka, kaker, kakene",
+        "reference":"04M"
+    },
+    {
+        "word":"kakestykke",
+        "name":"et kakestykke",
+        "audio_name":"et_kakestykke",
+        "trans":"n, a piece of cake",
+        "inflection":"kakestykket, kakestykker, kakestykkene",
+        "reference":"04M"
+    },
+    {
+        "word":"kald",
+        "name":"kald",
+        "audio_name":"kald",
+        "trans":"a, cold",
+        "inflection":"kaldt, kalde",
+        "reference":"04A"
+    },
+    {
+        "word":"kasse",
+        "name":"en kasse",
+        "audio_name":"en_kasse",
+        "trans":"n, a cash register",
+        "inflection":"kassen, kasser, kassene",
+        "reference":"04K"
+    },
+    {
+        "word":"kjempebra",
+        "name":"kjempebra",
+        "audio_name":"kjempebra",
+        "trans":"a, awesome",
+        "inflection":"kjempebra, kjempebra",
+        "reference":"04M"
+    },
+    {
+        "word":"kjøledisk",
+        "name":"en kjøledisk",
+        "audio_name":"en_kjoeledisk",
+        "trans":"n, a refrigerating counter",
+        "inflection":"kjøledisken, kjøledisker, kjølediskenedisk",
+        "reference":"04K"
+    },
+    {
+        "word":"klesbutikk",
+        "name":"en klesbutikk",
+        "audio_name":"en_klesbutikk",
+        "trans":"n, a clothing store",
+        "inflection":"klesbutikken, klesbutikker, klesbutikkene",
+        "reference":"04A"
+    },
+    {
+        "word":"klær (pl.)",
+        "name":"klær (pl.)",
+        "audio_name":"klaer",
+        "trans":"n, clothes",
+        "inflection":"klærne",
+        "reference":"04A"
+    },
+    {
+        "word":"kose seg",
+        "name":"å kose seg",
+        "audio_name":"aa_kose_seg",
+        "trans":"v, to have a good time, snuggle up",
+        "inflection":"koser seg, koste seg, har kost seg",
+        "reference":"04M"
+    },
+    {
+        "word":"koselig",
+        "name":"koselig",
+        "audio_name":"koselig",
+        "trans":"a, cosy, nice",
+        "inflection":"koselig, koselige",
+        "reference":"04M"
+    },
+    {
+        "word":"kø",
+        "name":"en kø",
+        "audio_name":"en_koe",
+        "trans":"n, a queue, line",
+        "inflection":"køen, køer, køene",
+        "reference":"04P"
+    },
+    {
+        "word":"kølapp",
+        "name":"en kølapp",
+        "audio_name":"en_koelapp",
+        "trans":"n, a queue number",
+        "inflection":"kølappen, kølapper, kølappene",
+        "reference":"04K"
+    },
+    {
+        "word":"kåpe",
+        "name":"ei kåpe",
+        "audio_name":"ei_kaape",
+        "trans":"n, a coat",
+        "inflection":"kåpa, kåper, kåpene",
+        "reference":"04A"
+    },
+    {
+        "word":"legge ved",
+        "name":"å legge ved",
+        "audio_name":"aa_legge_ved",
+        "trans":"v, to attach",
+        "inflection":"legger ved, la ved, har lagt ved",
+        "reference":"04P"
+    },
+    {
+        "word":"lese",
+        "name":"å lese",
+        "audio_name":"aa_lese",
+        "trans":"v, to read",
+        "inflection":"leser, leste, har lest",
+        "reference":"04M"
+    },
+    {
+        "word":"like",
+        "name":"å like",
+        "audio_name":"aa_like",
+        "trans":"v, to like",
+        "inflection":"liker, likte, har likt",
+        "reference":"04A"
+    },
+    {
+        "word":"lita",
+        "name":"lita",
+        "audio_name":"lita",
+        "trans":"a, small (f)",
+        "inflection":null,
+        "reference":"04M"
+    },
+    {
+        "word":"lite",
+        "name":"lite",
+        "audio_name":"lite",
+        "trans":"a, small (n)",
+        "inflection":null,
+        "reference":"04M"
+    },
+    {
+        "word":"liten",
+        "name":"liten",
+        "audio_name":"liten",
+        "trans":"a, small (m)",
+        "inflection":"lita (f), lite (n), små (pl)",
+        "reference":"04M"
+    },
+    {
+        "word":"lommebok",
+        "name":"ei lommebok",
+        "audio_name":"ei_lommebok",
+        "trans":"n, a wallet",
+        "inflection":"lommeboka, lommebøker, lommebøkene",
+        "reference":"04K"
+    },
+    {
+        "word":"lys",
+        "name":"et lys",
+        "audio_name":"et_lys",
+        "trans":"n, a candle",
+        "inflection":"lyset, lys, lysene",
+        "reference":"04M"
+    },
+    {
+        "word":"lys",
+        "name":"et lys",
+        "audio_name":"lys",
+        "trans":"n, a candle",
+        "inflection":"lyset, lys, lysene",
+        "reference":"06K"
+    },
+    {
+        "word":"lysegrå",
+        "name":"lysegrå",
+        "audio_name":"lysegraa",
+        "trans":"a, light grey",
+        "inflection":"lysegrått, lysegråe",
+        "reference":"04A"
+    },
+    {
+        "word":"lysestake",
+        "name":"en lysestake",
+        "audio_name":"en_lysestake",
+        "trans":"n, a candlestick",
+        "inflection":"lysestaken, lysestaker, lysestakene",
+        "reference":"04M"
+    },
+    {
+        "word":"lyst til (å ha lyst til å ...)",
+        "name":"lyst til (å ha lyst til å ...)",
+        "audio_name":"lyst_til",
+        "trans":"wanting to do something",
+        "inflection":null,
+        "reference":"04M"
+    },
+    {
+        "word":"mange",
+        "name":"mange",
+        "audio_name":"mange",
+        "trans":"many",
+        "inflection":null,
+        "reference":"04M"
+    },
+    {
+        "word":"mer",
+        "name":"mer",
+        "audio_name":"mer",
+        "trans":"a, more",
+        "inflection":null,
+        "reference":"04M"
+    },
+    {
+        "word":"minibank",
+        "name":"en minibank",
+        "audio_name":"en_minibank",
+        "trans":"n, a cash dispenser",
+        "inflection":"minibanken, minibanker, minibankene",
+        "reference":"04K"
+    },
+    {
+        "word":"minutt",
+        "name":"et minutt",
+        "audio_name":"et_minutt",
+        "trans":"n, a minute",
+        "inflection":"minuttet, minutter, minuttene",
+        "reference":"04K"
+    },
+    {
+        "word":"myk",
+        "name":"myk",
+        "audio_name":"myk",
+        "trans":"a, soft",
+        "inflection":"mykt, myke",
+        "reference":"04M"
+    },
+    {
+        "word":"notatbok",
+        "name":"ei notatbok",
+        "audio_name":"ei_notatbok",
+        "trans":"n, a notebook",
+        "inflection":"notatboka, notatbøker, notatbøkene",
+        "reference":"04M"
+    },
+    {
+        "word":"ny",
+        "name":"ny",
+        "audio_name":"ny",
+        "trans":"a, new",
+        "inflection":"nytt, nye",
+        "reference":"04A"
+    },
+    {
+        "word":"om",
+        "name":"om",
+        "audio_name":"om",
+        "trans":"p, about",
+        "inflection":null,
+        "reference":"04M"
+    },
+    {
+        "word":"opp",
+        "name":"opp",
+        "audio_name":"opp",
+        "trans":"d, up",
+        "inflection":null,
+        "reference":"04K"
+    },
+    {
+        "word":"oppholdstillatelse",
+        "name":"en oppholdstillatelse",
+        "audio_name":"en_oppholdstillatelse",
+        "trans":"n, a residence permit",
+        "inflection":"oppholdstillatelsen, oppholdstillatelser, oppholdstillatelsene",
+        "reference":"04P"
+    },
+    {
+        "word":"ordbok",
+        "name":"ei ordbok",
+        "audio_name":"ei_ordbok",
+        "trans":"n, a dictionary",
+        "inflection":"ordboka, ordbøker, ordbøkene",
+        "reference":"04M"
+    },
+    {
+        "word":"passe",
+        "name":"å passe",
+        "audio_name":"aa_passe",
+        "trans":"v, to fit",
+        "inflection":"passer, passet, har passet",
+        "reference":"04A"
+    },
+    {
+        "word":"penger",
+        "name":"penger",
+        "audio_name":"penger",
+        "trans":"n, money",
+        "inflection":"pengene (plural word)",
+        "reference":"04K"
+    },
+    {
+        "word":"penn",
+        "name":"en penn",
+        "audio_name":"en_penn",
+        "trans":"n, a pen",
+        "inflection":"pennen, penner, pennene",
+        "reference":"04M"
+    },
+    {
+        "word":"postkontor",
+        "name":"et postkontor",
+        "audio_name":"et_postkontor",
+        "trans":"n, a post office",
+        "inflection":"postkontoret, postkontor, postkontorene",
+        "reference":"04K"
+    },
+    {
+        "word":"postkort",
+        "name":"et postkort",
+        "audio_name":"et_postkort",
+        "trans":"n, a postcard",
+        "inflection":"postkortet, postkort, postkortene",
+        "reference":"04K"
+    },
+    {
+        "word":"praktisk",
+        "name":"praktisk",
+        "audio_name":"praktisk",
+        "trans":"a, practical",
+        "inflection":"praktisk, praktiske",
+        "reference":"04A"
+    },
+    {
+        "word":"pris",
+        "name":"en pris",
+        "audio_name":"en_pris",
+        "trans":"n, a price",
+        "inflection":"prisen, priser, prisene",
+        "reference":"04K"
+    },
+    {
+        "word":"prosent",
+        "name":"en prosent",
+        "audio_name":"en_prosent",
+        "trans":"n, a percentage",
+        "inflection":"prosenten, prosent, prosentene",
+        "reference":"04M"
+    },
+    {
+        "word":"prøve",
+        "name":"å prøve",
+        "audio_name":"aa_proeve",
+        "trans":"v, to try",
+        "inflection":"prøver, prøvde, har prøvd",
+        "reference":"04A"
+    },
+    {
+        "word":"prøverom",
+        "name":"et prøverom",
+        "audio_name":"et_proeverom",
+        "trans":"n, a fitting room",
+        "inflection":"prøverommet, prøverom, prøverommene",
+        "reference":"04A"
+    },
+    {
+        "word":"pute",
+        "name":"ei pute",
+        "audio_name":"ei_pute",
+        "trans":"n, a pillow, cushion",
+        "inflection":"puta, puter, putene",
+        "reference":"04M"
+    },
+    {
+        "word":"pære",
+        "name":"ei pære",
+        "audio_name":"ei_paere",
+        "trans":"n, a pear",
+        "inflection":"pæra, pærer, pærene",
+        "reference":"04K"
+    },
+    {
+        "word":"på salg",
+        "name":"på salg",
+        "audio_name":"paa_salg",
+        "trans":"on sale",
+        "inflection":null,
+        "reference":"04M"
+    },
+    {
+        "word":"registrere",
+        "name":"å registrere",
+        "audio_name":"aa_registrere",
+        "trans":"v, to register",
+        "inflection":"registrerer, registrerte, har registrert",
+        "reference":"04P"
+    },
+    {
+        "word":"registreringsbevis",
+        "name":"et registreringsbevis",
+        "audio_name":"et_registreringsbevis",
+        "trans":"n, a certificate of registration",
+        "inflection":"registreringsbeviset, registreringsbevis, registreringsbevisene",
+        "reference":"04P"
+    },
+    {
+        "word":"restaurant",
+        "name":"en restaurant",
+        "audio_name":"en_restaurant",
+        "trans":"n, a restaurant",
+        "inflection":"restauranten, restauranter, restaurantene",
+        "reference":"04P"
+    },
+    {
+        "word":"rett ved siden av",
+        "name":"rett ved siden av",
+        "audio_name":"rett_ved_siden_av",
+        "trans":"right next to",
+        "inflection":null,
+        "reference":"04K"
+    },
+    {
+        "word":"roman",
+        "name":"en roman",
+        "audio_name":"en_roman",
+        "trans":"n, a novel",
+        "inflection":"romanen, romaner, romanene",
+        "reference":"04M"
+    },
+    {
+        "word":"salg",
+        "name":"et salg",
+        "audio_name":"et_salg",
+        "trans":"n, a sale",
+        "inflection":"salget, salg, salgene",
+        "reference":"04A"
+    },
+    {
+        "word":"semester",
+        "name":"et semester",
+        "audio_name":"et_semester",
+        "trans":"n, a semester",
+        "inflection":"semesteret, semester, semestrene",
+        "reference":"04M"
+    },
+    {
+        "word":"sende",
+        "name":"å sende",
+        "audio_name":"aa_sende",
+        "trans":"v, to send",
+        "inflection":"sender, sendte, har sendt",
+        "reference":"04K"
+    },
+    {
+        "word":"senter",
+        "name":"et senter",
+        "audio_name":"et_senter",
+        "trans":"n, a centre",
+        "inflection":"senteret, senter, sentrene",
+        "reference":"04K"
+    },
+    {
+        "word":"skjerf",
+        "name":"et skjerf",
+        "audio_name":"et_skjerf",
+        "trans":"n, a scarf",
+        "inflection":"skjerfet, skjerf, skjerfene",
+        "reference":"04A"
+    },
+    {
+        "word":"slappe av",
+        "name":"å slappe av",
+        "audio_name":"aa_slappe_av",
+        "trans":"v, to relax",
+        "inflection":"slapper av, slappet av, har slappet av",
+        "reference":"04K"
+    },
+    {
+        "word":"smør",
+        "name":"smør",
+        "audio_name":"smoer",
+        "trans":"n, butter",
+        "inflection":"smøret (uncountable noun)",
+        "reference":"04K"
+    },
+    {
+        "word":"små",
+        "name":"små",
+        "audio_name":"smaa",
+        "trans":"a, small",
+        "inflection":null,
+        "reference":"04M"
+    },
+    {
+        "word":"størrelse",
+        "name":"en størrelse",
+        "audio_name":"en_stoerrelse",
+        "trans":"n, a size",
+        "inflection":"størrelsen, størrelser, størrelsene",
+        "reference":"04A"
+    },
+    {
+        "word":"svare",
+        "name":"å svare",
+        "audio_name":"aa_svare",
+        "trans":"v, to answer",
+        "inflection":"svarer, svarte, har svart",
+        "reference":"04M"
+    },
+    {
+        "word":"svart",
+        "name":"svart",
+        "audio_name":"svart",
+        "trans":"a, black",
+        "inflection":"svart, svarte",
+        "reference":"04A"
+    },
+    {
+        "word":"sykle",
+        "name":"å sykle",
+        "audio_name":"aa_sykle",
+        "trans":"v, to cycle",
+        "inflection":"sykler, syklet, har syklet",
+        "reference":"04M"
+    },
+    {
+        "word":"ta ut penger",
+        "name":"å ta ut penger",
+        "audio_name":"aa_ta_ut_penger",
+        "trans":"v, to withdraw money",
+        "inflection":null,
+        "reference":"04K"
+    },
+    {
+        "word":"tekopp",
+        "name":"en tekopp",
+        "audio_name":"en_tekopp",
+        "trans":"n, a teacup",
+        "inflection":"tekoppen, tekopper, tekoppene",
+        "reference":"04M"
+    },
+    {
+        "word":"tikroning",
+        "name":"en tikroning",
+        "audio_name":"en_tikroning",
+        "trans":"n, ten-kroner-coin",
+        "inflection":"tikroningen, tikroninger, tikroningene",
+        "reference":"04K"
+    },
+    {
+        "word":"til sammen",
+        "name":"til sammen",
+        "audio_name":"til_sammen",
+        "trans":"a, together, in all",
+        "inflection":null,
+        "reference":"04A"
+    },
+    {
+        "word":"trekke",
+        "name":"å trekke",
+        "audio_name":"aa_trekke",
+        "trans":"v, to draw, pull",
+        "inflection":"trekker, trakk, har trukket",
+        "reference":"04K"
+    },
+    {
+        "word":"trenge",
+        "name":"å trenge",
+        "audio_name":"aa_trenge",
+        "trans":"v, to need",
+        "inflection":"trenger, trengte, har trengt",
+        "reference":"04K"
+    },
+    {
+        "word":"tykk",
+        "name":"tykk",
+        "audio_name":"tykk",
+        "trans":"a, thick",
+        "inflection":"tykt, tykke",
+        "reference":"04A"
+    },
+    {
+        "word":"varm",
+        "name":"varm",
+        "audio_name":"varm",
+        "trans":"a, warm, hot",
+        "inflection":"varmt, varme",
+        "reference":"04A"
+    },
+    {
+        "word":"vise fram",
+        "name":"å vise fram",
+        "audio_name":"aa_vise_fram",
+        "trans":"v, to show",
+        "inflection":"viser fram, viste fram, har vist fram",
+        "reference":"04P"
+    }
+]

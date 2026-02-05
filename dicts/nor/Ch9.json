@@ -1,0 +1,650 @@
+[
+    {
+        "word":"Arne",
+        "name":"Arne",
+        "audio_name":"Arne",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"09A"
+    },
+    {
+        "word":"bløtkake",
+        "name":"ei bløtkake",
+        "audio_name":"ei_bloetkake",
+        "trans":"n, a layer cake",
+        "inflection":"bløtkaka, bløtkaker, bløtkakene",
+        "reference":"09A"
+    },
+    {
+        "word":"brukernavn",
+        "name":"et brukernavn",
+        "audio_name":"et_brukernavn",
+        "trans":"n, a username",
+        "inflection":"brukernavnet, brukernavn, brukernavnene",
+        "reference":"09B"
+    },
+    {
+        "word":"bursdag",
+        "name":"en bursdag",
+        "audio_name":"en_bursdag",
+        "trans":"n, a birthday",
+        "inflection":"bursdagen, bursdager, bursdagene",
+        "reference":"09A"
+    },
+    {
+        "word":"bærbar",
+        "name":"bærbar",
+        "audio_name":"baerbar",
+        "trans":"n, portable",
+        "inflection":"bærbart, bærbare",
+        "reference":"09B"
+    },
+    {
+        "word":"bærbar PC",
+        "name":"en bærbar PC",
+        "audio_name":"en_baerbar_PC",
+        "trans":"n, a laptop",
+        "inflection":null,
+        "reference":"09B"
+    },
+    {
+        "word":"colaboks",
+        "name":"en colaboks",
+        "audio_name":"en_colaboks",
+        "trans":"n, a can of Coke",
+        "inflection":"colaboksen, colabokser, colaboksene",
+        "reference":"09B"
+    },
+    {
+        "word":"del",
+        "name":"en del",
+        "audio_name":"en_del",
+        "trans":"n, a part",
+        "inflection":"delen, deler, delene",
+        "reference":"09A"
+    },
+    {
+        "word":"ditt (din)",
+        "name":"ditt (din)",
+        "audio_name":"ditt",
+        "trans":"your, yours",
+        "inflection":"dine",
+        "reference":"09B"
+    },
+    {
+        "word":"dokument",
+        "name":"et dokument",
+        "audio_name":"et_dokument",
+        "trans":"n, a document",
+        "inflection":"dokumentet, dokumenter, dokumentene",
+        "reference":"09A"
+    },
+    {
+        "word":"dyp",
+        "name":"dyp",
+        "audio_name":"dyp",
+        "trans":"a, deep",
+        "inflection":"dypt, dype",
+        "reference":"09B"
+    },
+    {
+        "word":"egentlig",
+        "name":"egentlig",
+        "audio_name":"egentlig",
+        "trans":"d, really",
+        "inflection":null,
+        "reference":"09A"
+    },
+    {
+        "word":"ekstra",
+        "name":"ekstra",
+        "audio_name":"ekstra",
+        "trans":"a, extra, additional",
+        "inflection":"ekstra, ekstra",
+        "reference":"09A"
+    },
+    {
+        "word":"én",
+        "name":"én",
+        "audio_name":"én",
+        "trans":"one",
+        "inflection":null,
+        "reference":"09A"
+    },
+    {
+        "word":"en gang til",
+        "name":"en gang til",
+        "audio_name":"en_gang_til",
+        "trans":"once more, one more time",
+        "inflection":null,
+        "reference":"09B"
+    },
+    {
+        "word":"Eva",
+        "name":"Eva",
+        "audio_name":"Eva",
+        "trans":"n, proper name ",
+        "inflection":null,
+        "reference":"09A"
+    },
+    {
+        "word":"ferdig",
+        "name":"ferdig",
+        "audio_name":"ferdig",
+        "trans":"a, finished, ready, also slang; exhausted",
+        "inflection":"ferdig, ferdige",
+        "reference":"09A"
+    },
+    {
+        "word":"fikse",
+        "name":"å fikse",
+        "audio_name":"aa_fikse",
+        "trans":"v, to fix, mend, organise",
+        "inflection":"fikser, fikset, har fikset",
+        "reference":"09B"
+    },
+    {
+        "word":"flybillett",
+        "name":"en flybillett",
+        "audio_name":"en_flybillett",
+        "trans":"n, an airline ticket",
+        "inflection":"flybilletten, flybilletter, flybillettene",
+        "reference":"09B"
+    },
+    {
+        "word":"forhånd (på forhånd)",
+        "name":"forhånd (på forhånd)",
+        "audio_name":"forhaand",
+        "trans":"n, beforehand",
+        "inflection":null,
+        "reference":"09A"
+    },
+    {
+        "word":"Ghana",
+        "name":"Ghana",
+        "audio_name":"Ghana",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"09A"
+    },
+    {
+        "word":"gjelde",
+        "name":"å gjelde",
+        "audio_name":"aa_gjelde",
+        "trans":"v, to be valid, to concern",
+        "inflection":"gjelder, gjaldt, har gjeldt",
+        "reference":"09B"
+    },
+    {
+        "word":"gratis",
+        "name":"gratis",
+        "audio_name":"gratis",
+        "trans":"a, free (of charge), gratis",
+        "inflection":"gratis, gratis",
+        "reference":"09B"
+    },
+    {
+        "word":"hele (hel)",
+        "name":"hele (hel)",
+        "audio_name":"hele",
+        "trans":"whole",
+        "inflection":null,
+        "reference":"09B"
+    },
+    {
+        "word":"hotellrom",
+        "name":"et hotellrom",
+        "audio_name":"et_hotellrom",
+        "trans":"n, a hotel room",
+        "inflection":"hotellrommet, hotelrom, hotellrommene",
+        "reference":"09B"
+    },
+    {
+        "word":"hovedpunkt",
+        "name":"et hovedpunkt",
+        "audio_name":"et_hovedpunkt",
+        "trans":"n, a main point",
+        "inflection":"hovedpunktet, hovedpunkt, hovedpunktene",
+        "reference":"09A"
+    },
+    {
+        "word":"huske på",
+        "name":"å huske på",
+        "audio_name":"aa_huske_paa",
+        "trans":"v, to remember",
+        "inflection":"husker på, husket på, har husket på",
+        "reference":"09B"
+    },
+    {
+        "word":"høy",
+        "name":"høy",
+        "audio_name":"hoey",
+        "trans":"a, loud, high, tall",
+        "inflection":"høyt, høye",
+        "reference":"03A"
+    },
+    {
+        "word":"høy",
+        "name":"høy",
+        "audio_name":"hoey",
+        "trans":"a, loud, high, tall",
+        "inflection":"høyt, høye",
+        "reference":"09B"
+    },
+    {
+        "word":"høyt (høy)",
+        "name":"høyt (høy)",
+        "audio_name":"hoeyt",
+        "trans":"a, loud, high, tall",
+        "inflection":null,
+        "reference":"09B"
+    },
+    {
+        "word":"i går kveld",
+        "name":"i går kveld",
+        "audio_name":"i_gaar_kveld",
+        "trans":"d, yesterday evening, last night",
+        "inflection":null,
+        "reference":"09B"
+    },
+    {
+        "word":"India",
+        "name":"India",
+        "audio_name":"India",
+        "trans":"n, India",
+        "inflection":null,
+        "reference":"09A"
+    },
+    {
+        "word":"innlegg",
+        "name":"et innlegg",
+        "audio_name":"et_innlegg",
+        "trans":"n, a presentation, address",
+        "inflection":"innlegget, innlegg, innleggene",
+        "reference":"09B"
+    },
+    {
+        "word":"instituttleder",
+        "name":"en instituttleder",
+        "audio_name":"en_instituttleder",
+        "trans":"n, a head of department",
+        "inflection":"instituttlederen, instituttledere, instituttlederne",
+        "reference":"09A"
+    },
+    {
+        "word":"Internett",
+        "name":"Internett",
+        "audio_name":"Internett",
+        "trans":"n, Internet",
+        "inflection":null,
+        "reference":"09B"
+    },
+    {
+        "word":"internettilgang",
+        "name":"internettilgang",
+        "audio_name":"internettilgang",
+        "trans":"n, Internet access",
+        "inflection":"internettilgangen",
+        "reference":"09B"
+    },
+    {
+        "word":"ja da",
+        "name":"ja da",
+        "audio_name":"ja_da",
+        "trans":"\"Sure\", \"Not to worry\"",
+        "inflection":null,
+        "reference":"09B"
+    },
+    {
+        "word":"jo",
+        "name":"jo",
+        "audio_name":"jo",
+        "trans":"yes",
+        "inflection":null,
+        "reference":"09A"
+    },
+    {
+        "word":"kantine",
+        "name":"ei kantine",
+        "audio_name":"ei_kantine",
+        "trans":"n, a canteen",
+        "inflection":"kantina, kantiner, kantinene",
+        "reference":"09A"
+    },
+    {
+        "word":"kjemisk",
+        "name":"kjemisk",
+        "audio_name":"kjemisk",
+        "trans":"a, chemical",
+        "inflection":"kjemisk, kjemiske",
+        "reference":"09A"
+    },
+    {
+        "word":"konferanse",
+        "name":"en konferanse",
+        "audio_name":"en_konferanse",
+        "trans":"n, a conference",
+        "inflection":"konferansen, konferanser, konferansene",
+        "reference":"09B"
+    },
+    {
+        "word":"korrektur",
+        "name":"en korrektur",
+        "audio_name":"en_korrektur",
+        "trans":"n, a proof, correction ",
+        "inflection":"korrekturen, korrekturer, korrekturene",
+        "reference":"09A"
+    },
+    {
+        "word":"lenge siden",
+        "name":"lenge siden",
+        "audio_name":"lenge_siden",
+        "trans":"long ago",
+        "inflection":null,
+        "reference":"09B"
+    },
+    {
+        "word":"mastergradsstudent",
+        "name":"en mastergradsstudent",
+        "audio_name":"en_mastergradsstudent",
+        "trans":"n, a master student",
+        "inflection":"mastergradsstudenten, mastergradsstudenter, mastergradsstudentene",
+        "reference":"09B"
+    },
+    {
+        "word":"minibar",
+        "name":"en minibar",
+        "audio_name":"en_minibar",
+        "trans":"n, a mini-bar",
+        "inflection":"minibaren, minibarer, minibarene",
+        "reference":"09B"
+    },
+    {
+        "word":"møte",
+        "name":"et møte",
+        "audio_name":"aa_moete",
+        "trans":"n, a meeting",
+        "inflection":"møtet, møter, møtene",
+        "reference":"01M"
+    },
+    {
+        "word":"møte",
+        "name":"et møte",
+        "audio_name":"et_moete",
+        "trans":"n, a meeting",
+        "inflection":"møtet, møter, møtene",
+        "reference":"09A"
+    },
+    {
+        "word":"natt",
+        "name":"ei natt",
+        "audio_name":"ei_natt",
+        "trans":"n, a night",
+        "inflection":"natta, netter, nettene",
+        "reference":"09B"
+    },
+    {
+        "word":"nei da",
+        "name":"nei da",
+        "audio_name":"nei_da",
+        "trans":"Oh no.",
+        "inflection":null,
+        "reference":"09B"
+    },
+    {
+        "word":"nervøs",
+        "name":"nervøs",
+        "audio_name":"nervoes",
+        "trans":"a, nervous",
+        "inflection":"nervøst, nervøse",
+        "reference":"09B"
+    },
+    {
+        "word":"nesten",
+        "name":"nesten",
+        "audio_name":"nesten",
+        "trans":"d, almost, nearly",
+        "inflection":null,
+        "reference":"09B"
+    },
+    {
+        "word":"nyhet",
+        "name":"en nyhet",
+        "audio_name":"en_nyhet",
+        "trans":"n, a piece of news",
+        "inflection":"nyheten, nyheter, nyhetene",
+        "reference":"09B"
+    },
+    {
+        "word":"oppleve",
+        "name":"å oppleve",
+        "audio_name":"aa_oppleve",
+        "trans":"v, to experience, enjoy",
+        "inflection":"opplever, opplevde, har opplevd",
+        "reference":"09B"
+    },
+    {
+        "word":"ordne",
+        "name":"å ordne",
+        "audio_name":"aa_ordne",
+        "trans":"v, to fix, organize",
+        "inflection":"ordner, ordnet, har ordnet",
+        "reference":"09B"
+    },
+    {
+        "word":"passord",
+        "name":"et passord",
+        "audio_name":"et_passord",
+        "trans":"n, a password",
+        "inflection":"passordet, passord, passordene",
+        "reference":"09B"
+    },
+    {
+        "word":"PC",
+        "name":"en PC",
+        "audio_name":"en_PC",
+        "trans":"n, a PC",
+        "inflection":"PCen, PCer, PCene",
+        "reference":"09B"
+    },
+    {
+        "word":"ph.d.-student",
+        "name":"en ph.d.-student",
+        "audio_name":"en_ph.d.-student",
+        "trans":"n, a Ph.D. student, doctoral research fellow",
+        "inflection":"ph.d.-studenten, ph.d.-studenter, ph.d.-studentene ",
+        "reference":"09A"
+    },
+    {
+        "word":"presentasjon",
+        "name":"en presentasjon",
+        "audio_name":"en_presentasjon",
+        "trans":"n, a presentation",
+        "inflection":"presentasjonen, presentasjoner, presentasjonene",
+        "reference":"09A"
+    },
+    {
+        "word":"presentere",
+        "name":"å presentere",
+        "audio_name":"aa_presentere",
+        "trans":"v, to present, introduce",
+        "inflection":"presenterer, presenterte, har presentert",
+        "reference":"09B"
+    },
+    {
+        "word":"problem",
+        "name":"et problem",
+        "audio_name":"et_problem",
+        "trans":"n, a problem",
+        "inflection":"problemet, problemer, problemene",
+        "reference":"09A"
+    },
+    {
+        "word":"prosessteknologi",
+        "name":"prosessteknologi",
+        "audio_name":"prosessteknologi",
+        "trans":"n, engineering (uncount. noun)",
+        "inflection":"prosessteknologien",
+        "reference":"09A"
+    },
+    {
+        "word":"prosjekt",
+        "name":"et prosjekt",
+        "audio_name":"et_prosjekt",
+        "trans":"n, a project",
+        "inflection":"prosjektet, prosjekter, prosjektene",
+        "reference":"09A"
+    },
+    {
+        "word":"pust",
+        "name":"pust",
+        "audio_name":"pust",
+        "trans":"n, a breath (uncount. noun)",
+        "inflection":"pusten",
+        "reference":"09B"
+    },
+    {
+        "word":"på forhånd",
+        "name":"på forhånd",
+        "audio_name":"paa_forhaand",
+        "trans":"in advance",
+        "inflection":null,
+        "reference":"09A"
+    },
+    {
+        "word":"reisebekreftelse",
+        "name":"en reisebekreftelse",
+        "audio_name":"en_reisebekreftelse",
+        "trans":"n, confirmation of reservation",
+        "inflection":"reisebekreftelsen, reisebekreftelser, reisebekreftelsene",
+        "reference":"09B"
+    },
+    {
+        "word":"respons",
+        "name":"en respons",
+        "audio_name":"en_respons",
+        "trans":"n, response",
+        "inflection":"responsen, rresponser, responsene",
+        "reference":"09B"
+    },
+    {
+        "word":"sa (å si)",
+        "name":"sa (å si)",
+        "audio_name":"sa",
+        "trans":"v, said ",
+        "inflection":null,
+        "reference":"09B"
+    },
+    {
+        "word":"samme",
+        "name":"samme",
+        "audio_name":"samme",
+        "trans":"same",
+        "inflection":null,
+        "reference":"09A"
+    },
+    {
+        "word":"sann ",
+        "name":"sann ",
+        "audio_name":"sann",
+        "trans":"a, true",
+        "inflection":"sant, sanne",
+        "reference":"09A"
+    },
+    {
+        "word":"sant (sann)",
+        "name":"sant (sann)",
+        "audio_name":"sant",
+        "trans":"a, true",
+        "inflection":"sant, sanne",
+        "reference":"09A"
+    },
+    {
+        "word":"seminar",
+        "name":"et seminar",
+        "audio_name":"et_seminar",
+        "trans":"n, a seminar",
+        "inflection":"seminaret, seminarer, seminarene",
+        "reference":"09A"
+    },
+    {
+        "word":"sjekke inn",
+        "name":"å sjekke inn",
+        "audio_name":"aa_sjekke_inn",
+        "trans":"v, to check in",
+        "inflection":"sjekker inn, sjekket inn, har sjekket inn",
+        "reference":"09B"
+    },
+    {
+        "word":"skulle (å skulle)",
+        "name":"skulle (å skulle)",
+        "audio_name":"skulle",
+        "trans":"v, would",
+        "inflection":null,
+        "reference":"09B"
+    },
+    {
+        "word":"skynde seg",
+        "name":"å skynde seg",
+        "audio_name":"aa_skynde_seg",
+        "trans":"v, to hurry (up)",
+        "inflection":"skynder seg, skyndet seg, har skyndet seg",
+        "reference":"09B"
+    },
+    {
+        "word":"stresset",
+        "name":"stresset",
+        "audio_name":"stresset",
+        "trans":"v, stressed",
+        "inflection":"stresset, stressete",
+        "reference":"09A"
+    },
+    {
+        "word":"tydelig",
+        "name":"tydelig",
+        "audio_name":"tydelig",
+        "trans":"a, clear, explicit",
+        "inflection":"tydelig, tydelige",
+        "reference":"09B"
+    },
+    {
+        "word":"uhøflig",
+        "name":"uhøflig",
+        "audio_name":"uhoeflig",
+        "trans":"a, impolite, rude",
+        "inflection":"uhøflig, uhøflige",
+        "reference":"09A"
+    },
+    {
+        "word":"utsette",
+        "name":"å utsette",
+        "audio_name":"aa_utsette",
+        "trans":"v, to postpone",
+        "inflection":"utsetter, utsatte, har utsatt",
+        "reference":"09A"
+    },
+    {
+        "word":"vedlegg",
+        "name":"et vedlegg",
+        "audio_name":"et_vedlegg",
+        "trans":"n, an attachment",
+        "inflection":"vedlegget, vedlegg, vedleggene",
+        "reference":"09A"
+    },
+    {
+        "word":"veileder",
+        "name":"en veileder",
+        "audio_name":"en_veileder",
+        "trans":"n, a supervisor, guide",
+        "inflection":"veilederen, veiledere, veilederne",
+        "reference":"09A"
+    },
+    {
+        "word":"vennlig",
+        "name":"vennlig",
+        "audio_name":"vennlig",
+        "trans":"a, friendly, kind",
+        "inflection":"vennlig, vennlige",
+        "reference":"09A"
+    }
+]

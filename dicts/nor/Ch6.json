@@ -1,0 +1,882 @@
+[
+    {
+        "word":"alle",
+        "name":"alle",
+        "audio_name":"alle",
+        "trans":"all",
+        "inflection":null,
+        "reference":"06K"
+    },
+    {
+        "word":"arkitektstudent",
+        "name":"en arkitektstudent",
+        "audio_name":"en_arkitektstudent",
+        "trans":"n, architecture student",
+        "inflection":"arkitekststudenten, arkitekststudenter, arkitektstudentene",
+        "reference":"06A"
+    },
+    {
+        "word":"arrangement",
+        "name":"et arrangement",
+        "audio_name":"et_arrangement",
+        "trans":"n, an arrangement",
+        "inflection":"arrangementet, arrangement, arrangementene",
+        "reference":"06M"
+    },
+    {
+        "word":"arrangere",
+        "name":"å arrangere",
+        "audio_name":"aa_arrangere",
+        "trans":"v, to arrange, organise",
+        "inflection":"arrangerer, arrangerte, har arrangert",
+        "reference":"06M"
+    },
+    {
+        "word":"auditorium",
+        "name":"et auditorium",
+        "audio_name":"et_auditorium",
+        "trans":"n, an auditorium",
+        "inflection":"auditoriet, auditorier, auditoriene",
+        "reference":"06P"
+    },
+    {
+        "word":"avgift",
+        "name":"en avgift",
+        "audio_name":"en_avgift",
+        "trans":"n, a fee",
+        "inflection":"avgiften, avgifter, avgiftene",
+        "reference":"06K"
+    },
+    {
+        "word":"bare hyggelig!",
+        "name":"bare hyggelig!",
+        "audio_name":"bare_hyggelig",
+        "trans":"you're welcome!",
+        "inflection":null,
+        "reference":"06K"
+    },
+    {
+        "word":"begge",
+        "name":"begge",
+        "audio_name":"begge",
+        "trans":"both",
+        "inflection":null,
+        "reference":"06P"
+    },
+    {
+        "word":"bibliotek",
+        "name":"et bibliotek",
+        "audio_name":"et_bibliotek",
+        "trans":"n, a library",
+        "inflection":"biblioteket, biblioteker, bibliotekene",
+        "reference":"06A"
+    },
+    {
+        "word":"bilde",
+        "name":"et bilde",
+        "audio_name":"et_bilde",
+        "trans":"n, a picture",
+        "inflection":"bildet, bilder, bildene",
+        "reference":"06M"
+    },
+    {
+        "word":"bygg",
+        "name":"et bygg",
+        "audio_name":"et_bygg",
+        "trans":"n, a building",
+        "inflection":"bygget, bygg, byggene",
+        "reference":"06K"
+    },
+    {
+        "word":"bøker (ei bok)",
+        "name":"bøker (ei bok)",
+        "audio_name":"boeker",
+        "trans":"n, books",
+        "inflection":null,
+        "reference":"06K"
+    },
+    {
+        "word":"campus",
+        "name":"en campus",
+        "audio_name":"en_campus",
+        "trans":"n, a campus",
+        "inflection":"campusen, campuser, campusene",
+        "reference":"06K"
+    },
+    {
+        "word":"dagsbillett",
+        "name":"en dagsbillett",
+        "audio_name":"en_dagbillett",
+        "trans":"n, a single-day ticket",
+        "inflection":"dagsbilletten, dagsbilletter, dagsbillettene",
+        "reference":"06M"
+    },
+    {
+        "word":"danse",
+        "name":"å danse",
+        "audio_name":"aa_danse",
+        "trans":"v, to dance",
+        "inflection":"danser, danset, har danset",
+        "reference":"06M"
+    },
+    {
+        "word":"dusje",
+        "name":"å dusje",
+        "audio_name":"aa_dusje",
+        "trans":"v, to take a shower",
+        "inflection":"dusjer, dusjet, har dusjet",
+        "reference":"06K"
+    },
+    {
+        "word":"eller",
+        "name":"eller",
+        "audio_name":"eller",
+        "trans":"or",
+        "inflection":null,
+        "reference":"06M"
+    },
+    {
+        "word":"e-post",
+        "name":"en e-post",
+        "audio_name":"en_e-post",
+        "trans":"n, an e-mail",
+        "inflection":"e-posten, e-poster, e-postene",
+        "reference":"06K"
+    },
+    {
+        "word":"fem",
+        "name":"fem",
+        "audio_name":"fem",
+        "trans":"five",
+        "inflection":null,
+        "reference":"06K"
+    },
+    {
+        "word":"festival",
+        "name":"en festival",
+        "audio_name":"en_festival",
+        "trans":"n, a festival",
+        "inflection":"festivalen, festivaler, festivalene",
+        "reference":"06M"
+    },
+    {
+        "word":"fjor (i fjor)",
+        "name":"fjor (i fjor)",
+        "audio_name":"i_fjor",
+        "trans":"d, last year",
+        "inflection":null,
+        "reference":"06P"
+    },
+    {
+        "word":"fordi",
+        "name":"fordi",
+        "audio_name":"fordi",
+        "trans":"because",
+        "inflection":null,
+        "reference":"06P"
+    },
+    {
+        "word":"foreleser",
+        "name":"en foreleser",
+        "audio_name":"en_foreleser",
+        "trans":"n, a lecturer",
+        "inflection":"foreleseren, forelesere, forelesere, foreleserne",
+        "reference":"06A"
+    },
+    {
+        "word":"forelesning",
+        "name":"en forelesning",
+        "audio_name":"en_forelesning",
+        "trans":"n, a lecture",
+        "inflection":"forelesningen, forelesninger, forelesningene",
+        "reference":"06A"
+    },
+    {
+        "word":"fortalte (å fortelle)",
+        "name":"fortalte (å fortelle)",
+        "audio_name":"fortalte",
+        "trans":"v, told",
+        "inflection":null,
+        "reference":"06P"
+    },
+    {
+        "word":"fotball",
+        "name":"en fotball",
+        "audio_name":"en_fotball",
+        "trans":"n, a football",
+        "inflection":"fotballen, fotballer, fotballene",
+        "reference":"06M"
+    },
+    {
+        "word":"før",
+        "name":"før",
+        "audio_name":"foer",
+        "trans":"d, before",
+        "inflection":null,
+        "reference":"06K"
+    },
+    {
+        "word":"fått (å få)",
+        "name":"fått (å få)",
+        "audio_name":"har_faatt",
+        "trans":"v, has got",
+        "inflection":null,
+        "reference":"06A"
+    },
+    {
+        "word":"gjort (å gjøre)",
+        "name":"gjort (å gjøre)",
+        "audio_name":"har_gjort",
+        "trans":"v, has done",
+        "inflection":null,
+        "reference":"06A"
+    },
+    {
+        "word":"gutt",
+        "name":"en gutt",
+        "audio_name":"en_gutt",
+        "trans":"n, a boy",
+        "inflection":"gutten, gutter, guttene",
+        "reference":"06A"
+    },
+    {
+        "word":"gått (å gå)",
+        "name":"gått (å gå)",
+        "audio_name":"har_gaatt",
+        "trans":"v, has gone",
+        "inflection":null,
+        "reference":"06P"
+    },
+    {
+        "word":"helårskort",
+        "name":"et helårskort",
+        "audio_name":"et_helaarskort",
+        "trans":"n, a year round ticket",
+        "inflection":"helårskortet, helårskort, helårskortene",
+        "reference":"06M"
+    },
+    {
+        "word":"hus",
+        "name":"et hus",
+        "audio_name":"et_hus",
+        "trans":"n, a house, building",
+        "inflection":"huset, hus, husene",
+        "reference":"06M"
+    },
+    {
+        "word":"huske",
+        "name":"å huske",
+        "audio_name":"aa_huske",
+        "trans":"v, to remember",
+        "inflection":"husker, husket, har husket",
+        "reference":"06A"
+    },
+    {
+        "word":"hvor lenge",
+        "name":"hvor lenge",
+        "audio_name":"hvor_lenge",
+        "trans":"how long",
+        "inflection":null,
+        "reference":"06P"
+    },
+    {
+        "word":"høre",
+        "name":"å høre",
+        "audio_name":"aa_hoere",
+        "trans":"v, to hear",
+        "inflection":"hører, hørte, har hørt",
+        "reference":"06P"
+    },
+    {
+        "word":"hørte (å høre)",
+        "name":"hørte (å høre)",
+        "audio_name":"hoerte",
+        "trans":"v, heard",
+        "inflection":null,
+        "reference":"06P"
+    },
+    {
+        "word":"håpe",
+        "name":"å håpe",
+        "audio_name":"aa_haape",
+        "trans":"v, to hope",
+        "inflection":"håper, håpet, har håpet",
+        "reference":"06P"
+    },
+    {
+        "word":"i fjor",
+        "name":"i fjor",
+        "audio_name":"i_fjor",
+        "trans":"d, last year",
+        "inflection":null,
+        "reference":"06P"
+    },
+    {
+        "word":"i morgen",
+        "name":"i morgen",
+        "audio_name":"i_morgen",
+        "trans":"d, tomorrow",
+        "inflection":null,
+        "reference":"06A"
+    },
+    {
+        "word":"ID-kort",
+        "name":"et ID-kort",
+        "audio_name":"et_ID-kort",
+        "trans":"n, an ID card",
+        "inflection":"ID-kortet, ID-kort, ID-kortene",
+        "reference":"06K"
+    },
+    {
+        "word":"idrettssenter",
+        "name":"et idrettssenter",
+        "audio_name":"et_idrettssenter",
+        "trans":"n, a sports centre",
+        "inflection":"idrettssenteret, idrettssenter, idrettssentrene",
+        "reference":"06M"
+    },
+    {
+        "word":"ikke sant?",
+        "name":"ikke sant?",
+        "audio_name":"ikke_sant",
+        "trans":"right?",
+        "inflection":null,
+        "reference":"06P"
+    },
+    {
+        "word":"inngang",
+        "name":"en inngang",
+        "audio_name":"en_inngang",
+        "trans":"n, an entrance",
+        "inflection":"inngangen, innganger, inngangene",
+        "reference":"06K"
+    },
+    {
+        "word":"institutt",
+        "name":"et institutt",
+        "audio_name":"et_institutt",
+        "trans":"n, a department",
+        "inflection":"instituttet, institutter, instituttene",
+        "reference":"06K"
+    },
+    {
+        "word":"kom (å komme)",
+        "name":"kom (å komme)",
+        "audio_name":"kom",
+        "trans":"v, came",
+        "inflection":null,
+        "reference":"06P"
+    },
+    {
+        "word":"kommet (å komme)",
+        "name":"kommet (å komme)",
+        "audio_name":"har_kommet",
+        "trans":"v, has come",
+        "inflection":null,
+        "reference":"06P"
+    },
+    {
+        "word":"kompendium",
+        "name":"et kompendium",
+        "audio_name":"et_kompendium",
+        "trans":"n, a compendium",
+        "inflection":"kompendiet, kompendier, kompendiene",
+        "reference":"06A"
+    },
+    {
+        "word":"konsert",
+        "name":"en konsert",
+        "audio_name":"en_konsert",
+        "trans":"n, a concert",
+        "inflection":"konserten, konserter, konsertene",
+        "reference":"06M"
+    },
+    {
+        "word":"konsulent",
+        "name":"en konsulent",
+        "audio_name":"en_konsulent",
+        "trans":"n, an executive officer, consultant, adviser",
+        "inflection":"konsulenten, konsulenter, konsulentene",
+        "reference":"06K"
+    },
+    {
+        "word":"kontor",
+        "name":"et kontor",
+        "audio_name":"et_kontor",
+        "trans":"n, an office",
+        "inflection":"kontoret, kontorer, kontorene",
+        "reference":"06K"
+    },
+    {
+        "word":"kurs",
+        "name":"et kurs",
+        "audio_name":"et_kurs",
+        "trans":"n, a course",
+        "inflection":"kurset, kurs, kursene",
+        "reference":"06P"
+    },
+    {
+        "word":"lang",
+        "name":"lang",
+        "audio_name":"lang",
+        "trans":"a, long",
+        "inflection":"langt, lange",
+        "reference":"06A"
+    },
+    {
+        "word":"lunsj",
+        "name":"en lunsj",
+        "audio_name":"en_lunsj",
+        "trans":"n, a lunch",
+        "inflection":"lunsjen, lunsjer, lunsjene",
+        "reference":"06A"
+    },
+    {
+        "word":"lys",
+        "name":"lys",
+        "audio_name":"et_lys",
+        "trans":"a, bright, light, blond",
+        "inflection":"lyst, lyse",
+        "reference":"04M"
+    },
+    {
+        "word":"lys",
+        "name":"lys",
+        "audio_name":"lys",
+        "trans":"a, bright, light, blond",
+        "inflection":"lyst, lyse",
+        "reference":"06K"
+    },
+    {
+        "word":"lære",
+        "name":"å lære",
+        "audio_name":"aa_laere",
+        "trans":"v, to learn",
+        "inflection":"lærer, lærte, har lært",
+        "reference":"06P"
+    },
+    {
+        "word":"lærer",
+        "name":"en lærer",
+        "audio_name":"en_laerer",
+        "trans":"n, a teacher",
+        "inflection":"læreren, lærere, lærerne",
+        "reference":"06P"
+    },
+    {
+        "word":"lørdag",
+        "name":"en lørdag",
+        "audio_name":"en_loerdag",
+        "trans":"n, a Saturday",
+        "inflection":"lørdagen, lørdager, lørdagene",
+        "reference":"06M"
+    },
+    {
+        "word":"lån",
+        "name":"et lån",
+        "audio_name":"et_laan",
+        "trans":"n, a loan",
+        "inflection":"lånet, lån, lånene",
+        "reference":"06P"
+    },
+    {
+        "word":"låne",
+        "name":"å låne",
+        "audio_name":"aa_laane",
+        "trans":"v, to borrow",
+        "inflection":"låner, lånte, har lånt",
+        "reference":"06A"
+    },
+    {
+        "word":"møtt (å møte)",
+        "name":"møtt (å møte)",
+        "audio_name":"har_moett",
+        "trans":"v, has met",
+        "inflection":null,
+        "reference":"06A"
+    },
+    {
+        "word":"naiv",
+        "name":"naiv",
+        "audio_name":"naiv",
+        "trans":"a, naive",
+        "inflection":"naivt, naive",
+        "reference":"06A"
+    },
+    {
+        "word":"nasjonalitet",
+        "name":"en nasjonalitet",
+        "audio_name":"en_nasjonalitet",
+        "trans":"n, a nationality",
+        "inflection":"nasjonaliteten, nasjonaliteter, nasjonalitetene",
+        "reference":"06P"
+    },
+    {
+        "word":"navn",
+        "name":"et navn",
+        "audio_name":"et_navn",
+        "trans":"n, a name",
+        "inflection":"navnet, navn, navnene",
+        "reference":"06P"
+    },
+    {
+        "word":"nett",
+        "name":"et nett",
+        "audio_name":"et_nett",
+        "trans":"n, a web",
+        "inflection":"nettet, nett, nettene",
+        "reference":"06A"
+    },
+    {
+        "word":"nettopp",
+        "name":"nettopp",
+        "audio_name":"nettopp",
+        "trans":"d, just",
+        "inflection":null,
+        "reference":"06K"
+    },
+    {
+        "word":"noe (noen)",
+        "name":"noe (noen)",
+        "audio_name":"noe",
+        "trans":"something",
+        "inflection":null,
+        "reference":"06A"
+    },
+    {
+        "word":"norskkurs",
+        "name":"et norskkurs",
+        "audio_name":"et_norskkurs",
+        "trans":"n, a Norwegian course",
+        "inflection":"norskkurset, norskkurs, norskkursene",
+        "reference":"06P"
+    },
+    {
+        "word":"nær",
+        "name":"nær",
+        "audio_name":"naer",
+        "trans":"a, near",
+        "inflection":"nært, nære",
+        "reference":"06M"
+    },
+    {
+        "word":"organisasjon",
+        "name":"en organisasjon",
+        "audio_name":"en_organisasjon",
+        "trans":"n, an organisation",
+        "inflection":"organisasjonen, organisasjoner, organisasjonene",
+        "reference":"06M"
+    },
+    {
+        "word":"pause",
+        "name":"en pause",
+        "audio_name":"en_pause",
+        "trans":"n, a break, interval",
+        "inflection":"pausen, pauser, pausene",
+        "reference":"06P"
+    },
+    {
+        "word":"psykologi",
+        "name":"en psykologi",
+        "audio_name":"en_psykologi",
+        "trans":"n, a psycology",
+        "inflection":"psykologien, psyklologier, psykologiene",
+        "reference":"06K"
+    },
+    {
+        "word":"psykologisk",
+        "name":"psykologisk",
+        "audio_name":"psykologisk",
+        "trans":"a, psycological",
+        "inflection":"psykologisk, psykologiske",
+        "reference":"06K"
+    },
+    {
+        "word":"på vei",
+        "name":"på vei",
+        "audio_name":"paa_vei",
+        "trans":"on the way",
+        "inflection":null,
+        "reference":"06M"
+    },
+    {
+        "word":"rund",
+        "name":"rund",
+        "audio_name":"rund",
+        "trans":"a, round",
+        "inflection":"rundt, runde",
+        "reference":"06M"
+    },
+    {
+        "word":"rød",
+        "name":"rød",
+        "audio_name":"roed",
+        "trans":"a, red",
+        "inflection":"rødt, røde",
+        "reference":"06M"
+    },
+    {
+        "word":"selge",
+        "name":"å selge",
+        "audio_name":"aa_selge",
+        "trans":"v, to sell",
+        "inflection":"selger, solgte, har solgt",
+        "reference":"06M"
+    },
+    {
+        "word":"semesteravgift",
+        "name":"en semesteravgift",
+        "audio_name":"en_semesteravgift",
+        "trans":"n, a university fee",
+        "inflection":"semesteravgiften, semesteravgifter, semesteravgiftene",
+        "reference":"06K"
+    },
+    {
+        "word":"semesterkort",
+        "name":"et semesterkort",
+        "audio_name":"et_semesterkort",
+        "trans":"n, semester card",
+        "inflection":"semesterkortet, semesterkort, semesterkortene",
+        "reference":"06K"
+    },
+    {
+        "word":"sett (å se)",
+        "name":"sett (å se)",
+        "audio_name":"har_sett",
+        "trans":"v, has seen",
+        "inflection":null,
+        "reference":"06M"
+    },
+    {
+        "word":"side",
+        "name":"en side",
+        "audio_name":"en_side",
+        "trans":"n, a side",
+        "inflection":"siden, sider, sidene",
+        "reference":"06M"
+    },
+    {
+        "word":"skinne",
+        "name":"å skinne",
+        "audio_name":"aa_skinne",
+        "trans":"v, to shine",
+        "inflection":"skinner, skinte, har skint",
+        "reference":"06M"
+    },
+    {
+        "word":"skrevet (å skrive)",
+        "name":"skrevet (å skrive)",
+        "audio_name":"har_skrevet",
+        "trans":"v, has written",
+        "inflection":null,
+        "reference":"06K"
+    },
+    {
+        "word":"sliten",
+        "name":"sliten",
+        "audio_name":"sliten",
+        "trans":"a, tired",
+        "inflection":"slitent, slitne",
+        "reference":"06A"
+    },
+    {
+        "word":"sol",
+        "name":"ei sol",
+        "audio_name":"ei_sol",
+        "trans":"n, a sun",
+        "inflection":"sola, soler, solene",
+        "reference":"06M"
+    },
+    {
+        "word":"spesiell",
+        "name":"spesiell",
+        "audio_name":"spesiell",
+        "trans":"a, special",
+        "inflection":"spesielt, spesielle",
+        "reference":"06M"
+    },
+    {
+        "word":"språk",
+        "name":"et språk",
+        "audio_name":"et_spraak",
+        "trans":"n, a language",
+        "inflection":"språket, språk, språkene",
+        "reference":"06P"
+    },
+    {
+        "word":"studieplan",
+        "name":"en studieplan",
+        "audio_name":"en_studieplan",
+        "trans":"n, a curriculum",
+        "inflection":"studieplanen, studieplaner, studieplanene",
+        "reference":"06A"
+    },
+    {
+        "word":"studiet (et studium)",
+        "name":"studiet (et studium)",
+        "audio_name":"studiet",
+        "trans":"n, the programme, study",
+        "inflection":null,
+        "reference":"06K"
+    },
+    {
+        "word":"studium",
+        "name":"et studium",
+        "audio_name":"et_studium",
+        "trans":"n, a course of study",
+        "inflection":"studiet, studier, studiene",
+        "reference":"06K"
+    },
+    {
+        "word":"sukker",
+        "name":"sukker",
+        "audio_name":"sukker",
+        "trans":"n, sugar",
+        "inflection":"sukkeret (uncountable noun)",
+        "reference":"06A"
+    },
+    {
+        "word":"synes",
+        "name":"å synes",
+        "audio_name":"aa_synes",
+        "trans":"v, to think",
+        "inflection":"synes, syntes, har syntes",
+        "reference":"06M"
+    },
+    {
+        "word":"søt",
+        "name":"søt",
+        "audio_name":"soet",
+        "trans":"a, sweet",
+        "inflection":"søtt, søte",
+        "reference":"06P"
+    },
+    {
+        "word":"takk skal du ha",
+        "name":"takk skal du ha",
+        "audio_name":"takk_skal_du_ha",
+        "trans":"thank you",
+        "inflection":null,
+        "reference":"06K"
+    },
+    {
+        "word":"tangokurs",
+        "name":"et tangokurs",
+        "audio_name":"et_tangokurs",
+        "trans":"n, a tango dance course",
+        "inflection":"tangokurset, tangokurs, tangokursene",
+        "reference":"06M"
+    },
+    {
+        "word":"telefon",
+        "name":"en telefon",
+        "audio_name":"en_telefon",
+        "trans":"n, a telephone",
+        "inflection":"telefonen, telefoner, telefonene",
+        "reference":"06K"
+    },
+    {
+        "word":"tidlig",
+        "name":"tidlig",
+        "audio_name":"tidlig",
+        "trans":"a, early",
+        "inflection":null,
+        "reference":"06P"
+    },
+    {
+        "word":"ting",
+        "name":"en ting",
+        "audio_name":"en_ting",
+        "trans":"n, a thing",
+        "inflection":"tingen, ting, tingene",
+        "reference":"06A"
+    },
+    {
+        "word":"trene",
+        "name":"å trene",
+        "audio_name":"aa_trene",
+        "trans":"v, to exercise, train",
+        "inflection":"trener, trente, har trent",
+        "reference":"06M"
+    },
+    {
+        "word":"trives",
+        "name":"å trives",
+        "audio_name":"aa_trives",
+        "trans":"v, to thrive, enjoy oneself",
+        "inflection":"trives, trivdes, har trivdes",
+        "reference":"06P"
+    },
+    {
+        "word":"truffet (å treffe)",
+        "name":"truffet (å treffe)",
+        "audio_name":"har_truffet",
+        "trans":"v, has met",
+        "inflection":null,
+        "reference":"06A"
+    },
+    {
+        "word":"tysker",
+        "name":"en tysker",
+        "audio_name":"en_tysker",
+        "trans":"n, a German",
+        "inflection":"tyskeren, tyskere, tyskerne",
+        "reference":"06P"
+    },
+    {
+        "word":"undervise",
+        "name":"å undervise",
+        "audio_name":"aa_undervise",
+        "trans":"v, to teach",
+        "inflection":"underviser, underviste, har undervist",
+        "reference":"06P"
+    },
+    {
+        "word":"universitet",
+        "name":"et universitet",
+        "audio_name":"et_universitet",
+        "trans":"n, a university",
+        "inflection":"universitetet, universiteter, universitetene",
+        "reference":"06A"
+    },
+    {
+        "word":"ved",
+        "name":"ved",
+        "audio_name":"ved",
+        "trans":"p, at, by, near, on, to",
+        "inflection":null,
+        "reference":"06K"
+    },
+    {
+        "word":"viskelær",
+        "name":"et viskelær",
+        "audio_name":"et_viskelaer",
+        "trans":"n, an eraser",
+        "inflection":"viskelæret, viskelær, viskelærene",
+        "reference":"06P"
+    },
+    {
+        "word":"visste (å vite)",
+        "name":"visste (å vite)",
+        "audio_name":"visste",
+        "trans":"v, knew",
+        "inflection":null,
+        "reference":"06P"
+    },
+    {
+        "word":"volleyball",
+        "name":"en volleyball",
+        "audio_name":"en_volleyball",
+        "trans":"n, a volleyball",
+        "inflection":"volleyballen, volleyballer, volleyballene",
+        "reference":"06M"
+    },
+    {
+        "word":"vært (å være)",
+        "name":"vært (å være)",
+        "audio_name":"har_vaert",
+        "trans":"v, has been",
+        "inflection":null,
+        "reference":"06K"
+    }
+]
