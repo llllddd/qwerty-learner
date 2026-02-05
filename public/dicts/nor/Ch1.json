@@ -1,0 +1,970 @@
+[
+    {
+        "word":"antropologi",
+        "name":"en antropologi",
+        "audio_name":"en_antropologi",
+        "trans":"n, an anthropology",
+        "inflection":"antropologien, antropologier, antropologiene",
+        "reference":"01A"
+    },
+    {
+        "word":"arkitektur",
+        "name":"en arkitektur",
+        "audio_name":"en_arkitektur",
+        "trans":"n, an architecture",
+        "inflection":"arkitekturen, arkitekturerarkitekturene",
+        "reference":"01A"
+    },
+    {
+        "word":"avis",
+        "name":"ei avis",
+        "audio_name":"ei_avis",
+        "trans":"n, a newspaper",
+        "inflection":"avisa, aviser, avisene",
+        "reference":"01P"
+    },
+    {
+        "word":"Barcelona",
+        "name":"Barcelona",
+        "audio_name":"Barcelona",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"bare",
+        "name":"bare",
+        "audio_name":"bare",
+        "trans":"d, just, only",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"bare bra!",
+        "name":"bare bra!",
+        "audio_name":"bare_bra",
+        "trans":"just fine!",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"bensinstasjon",
+        "name":"en bensinstasjon",
+        "audio_name":"en_bensinstasjon",
+        "trans":"n, a petrol station",
+        "inflection":"bensinstasjonen, bensinstasjoner, bensinstasjonene",
+        "reference":"01P"
+    },
+    {
+        "word":"bil",
+        "name":"en bil",
+        "audio_name":"en_bil",
+        "trans":"n, a car",
+        "inflection":"bilen, biler, bilene",
+        "reference":"01P"
+    },
+    {
+        "word":"bli",
+        "name":"å bli",
+        "audio_name":"aa_bli",
+        "trans":"v, to become, will be, turn out ",
+        "inflection":"blir, ble, har blitt",
+        "reference":"01P"
+    },
+    {
+        "word":"bo",
+        "name":"å bo",
+        "audio_name":"aa_bo",
+        "trans":"v, to live",
+        "inflection":"bor, bodde, har bodd",
+        "reference":"01K"
+    },
+    {
+        "word":"bra",
+        "name":"bra",
+        "audio_name":"bra",
+        "trans":"a, fine, good, well",
+        "inflection":"bra, bra",
+        "reference":"01M"
+    },
+    {
+        "word":"brus",
+        "name":"en brus",
+        "audio_name":"en_brus",
+        "trans":"n, a (bottle of)  soda pop",
+        "inflection":"brusen, brus, brusene",
+        "reference":"01P"
+    },
+    {
+        "word":"by",
+        "name":"en by",
+        "audio_name":"en_by",
+        "trans":"n, a city",
+        "inflection":"byen, byer, byene",
+        "reference":"01M"
+    },
+    {
+        "word":"båt",
+        "name":"en båt",
+        "audio_name":"en_baat",
+        "trans":"n, a boat",
+        "inflection":"båten, båter, båtene ",
+        "reference":"01M"
+    },
+    {
+        "word":"dag",
+        "name":"en dag",
+        "audio_name":"en_dag",
+        "trans":"n, a day",
+        "inflection":"dagen, dager, dagene",
+        "reference":"01M"
+    },
+    {
+        "word":"dame",
+        "name":"ei dame",
+        "audio_name":"ei_dame",
+        "trans":"n, a lady",
+        "inflection":"dama, damer, damene",
+        "reference":"01K"
+    },
+    {
+        "word":"de",
+        "name":"de",
+        "audio_name":"de",
+        "trans":"they",
+        "inflection":null,
+        "reference":"01P"
+    },
+    {
+        "word":"deg",
+        "name":"deg",
+        "audio_name":"deg",
+        "trans":"you (singular)",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"den",
+        "name":"den",
+        "audio_name":"den",
+        "trans":"it",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"der",
+        "name":"der",
+        "audio_name":"der",
+        "trans":"there",
+        "inflection":null,
+        "reference":"01P"
+    },
+    {
+        "word":"der borte",
+        "name":"der borte",
+        "audio_name":"der_borte",
+        "trans":"over there",
+        "inflection":null,
+        "reference":"01P"
+    },
+    {
+        "word":"dere",
+        "name":"dere",
+        "audio_name":"dere",
+        "trans":"you (plural)",
+        "inflection":null,
+        "reference":"01P"
+    },
+    {
+        "word":"det",
+        "name":"det",
+        "audio_name":"det",
+        "trans":"it, that, the",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"det går bra!",
+        "name":"det går bra!",
+        "audio_name":"det_gaar_bra",
+        "trans":"I'm fine!",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"du",
+        "name":"du",
+        "audio_name":"du",
+        "trans":"you",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"ei",
+        "name":"ei",
+        "audio_name":"ei",
+        "trans":"a, an, one",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"ekspeditør",
+        "name":"en ekspeditør",
+        "audio_name":"en_ekspeditoer",
+        "trans":"n, a shop assistent",
+        "inflection":"ekspeditøren, ekspeditører, ekspeditørene",
+        "reference":"01P"
+    },
+    {
+        "word":"en",
+        "name":"en",
+        "audio_name":"en",
+        "trans":"a, an, one",
+        "inflection":null,
+        "reference":"01P"
+    },
+    {
+        "word":"engelsk",
+        "name":"engelsk",
+        "audio_name":"engelsk",
+        "trans":"a, English",
+        "inflection":null,
+        "reference":"01A"
+    },
+    {
+        "word":"er (å være)",
+        "name":"er (å være)",
+        "audio_name":"er",
+        "trans":"v, am, are, is",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"et",
+        "name":"et",
+        "audio_name":"ett",
+        "trans":"a, an",
+        "inflection":null,
+        "reference":"01P"
+    },
+    {
+        "word":"familie",
+        "name":"en familie",
+        "audio_name":"en_familie",
+        "trans":"n, a family",
+        "inflection":"familien, familier, familiene",
+        "reference":"01K"
+    },
+    {
+        "word":"flink",
+        "name":"flink",
+        "audio_name":"flink",
+        "trans":"a, good, clever",
+        "inflection":"flinkt, flinke",
+        "reference":"01A"
+    },
+    {
+        "word":"fly",
+        "name":"et fly",
+        "audio_name":"et_fly",
+        "trans":"n, a plane",
+        "inflection":"flyet, fly, flyene",
+        "reference":"01A"
+    },
+    {
+        "word":"fra",
+        "name":"fra",
+        "audio_name":"fra",
+        "trans":"p, from",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"gammel ",
+        "name":"gammel ",
+        "audio_name":"gammel",
+        "trans":"a, old",
+        "inflection":"gammelt, gamle",
+        "reference":"01K"
+    },
+    {
+        "word":"gift",
+        "name":"gift",
+        "audio_name":"gift",
+        "trans":"a, married ",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"gjøre",
+        "name":"å gjøre",
+        "audio_name":"aa_gjoere",
+        "trans":"v, to do",
+        "inflection":"gjør, gjorde, har gjort",
+        "reference":"01A"
+    },
+    {
+        "word":"god",
+        "name":"god",
+        "audio_name":"god",
+        "trans":"a, good",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"god tur!",
+        "name":"god tur!",
+        "audio_name":"god_tur",
+        "trans":"have a nice trip!",
+        "inflection":null,
+        "reference":"01P"
+    },
+    {
+        "word":"ha",
+        "name":"å ha",
+        "audio_name":"aa_ha",
+        "trans":"v, to have",
+        "inflection":"har, hadde, har hatt",
+        "reference":"01K"
+    },
+    {
+        "word":"ha det bra!",
+        "name":"ha det bra!",
+        "audio_name":"ha_det_bra",
+        "trans":"goodbye!",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"ha det!",
+        "name":"ha det!",
+        "audio_name":"ha_det",
+        "trans":"bye!",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"hallo",
+        "name":"hallo",
+        "audio_name":"hallo",
+        "trans":"hello",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"han",
+        "name":"han",
+        "audio_name":"han",
+        "trans":"he, him",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"her",
+        "name":"her",
+        "audio_name":"her",
+        "trans":"here",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"hete",
+        "name":"å hete",
+        "audio_name":"aa_hete",
+        "trans":"v, to be called",
+        "inflection":"heter, het, har hett",
+        "reference":"01K"
+    },
+    {
+        "word":"hilse",
+        "name":"å hilse",
+        "audio_name":"aa_hilse",
+        "trans":"v, to greet",
+        "inflection":"hilser, hilste, har hilst",
+        "reference":"01M"
+    },
+    {
+        "word":"hun",
+        "name":"hun",
+        "audio_name":"hun",
+        "trans":"she",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"hva",
+        "name":"hva",
+        "audio_name":"hva",
+        "trans":"what",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"hvor",
+        "name":"hvor",
+        "audio_name":"hvor",
+        "trans":"where",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"hvor langt",
+        "name":"hvor langt",
+        "audio_name":"hvor_langt",
+        "trans":"how far",
+        "inflection":null,
+        "reference":"01P"
+    },
+    {
+        "word":"hvordan",
+        "name":"hvordan",
+        "audio_name":"hvordan",
+        "trans":"how",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"hyggelig",
+        "name":"hyggelig",
+        "audio_name":"hyggelig",
+        "trans":"a, nice, pleasant",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"hyggelig å hilse på deg!",
+        "name":"hyggelig å hilse på deg!",
+        "audio_name":"hyggelig_aa_hilse_paa_deg",
+        "trans":"nice to meet you!",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"i",
+        "name":"i",
+        "audio_name":"i",
+        "trans":"p, in, at, on",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"ikke",
+        "name":"ikke",
+        "audio_name":"ikke",
+        "trans":"d, not",
+        "inflection":null,
+        "reference":"01A"
+    },
+    {
+        "word":"Italia",
+        "name":"Italia",
+        "audio_name":"Italia",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"01A"
+    },
+    {
+        "word":"italiensk",
+        "name":"italiensk",
+        "audio_name":"italiensk",
+        "trans":"a, Italian",
+        "inflection":null,
+        "reference":"01A"
+    },
+    {
+        "word":"ja",
+        "name":"ja",
+        "audio_name":"ja",
+        "trans":"yes",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"jeg",
+        "name":"jeg",
+        "audio_name":"jeg",
+        "trans":"I",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"jente",
+        "name":"ei jente",
+        "audio_name":"ei_jente",
+        "trans":"n, a girl",
+        "inflection":"jenta, jenter, jentene",
+        "reference":"01K"
+    },
+    {
+        "word":"jobbe",
+        "name":"å jobbe",
+        "audio_name":"aa_jobbe",
+        "trans":"v, to work",
+        "inflection":"jobber, jobbet, har jobbet",
+        "reference":"01A"
+    },
+    {
+        "word":"kanskje",
+        "name":"kanskje",
+        "audio_name":"kanskje",
+        "trans":"d, perhaps, maybe",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"kart",
+        "name":"et kart",
+        "audio_name":"et_kart",
+        "trans":"n, a map",
+        "inflection":"kartet, kart, kartene",
+        "reference":"01P"
+    },
+    {
+        "word":"kilometer",
+        "name":"en kilometer",
+        "audio_name":"en_kilometer",
+        "trans":"n, a kilometre",
+        "inflection":"kilometeren, kilometer, kilometerne",
+        "reference":"01P"
+    },
+    {
+        "word":"komme",
+        "name":"å komme",
+        "audio_name":"aa_komme",
+        "trans":"v, to come",
+        "inflection":"kommer, kom, har kommet",
+        "reference":"01K"
+    },
+    {
+        "word":"koste",
+        "name":"å koste",
+        "audio_name":"aa_koste",
+        "trans":"v, to cost",
+        "inflection":"koster, kostet, har kostet",
+        "reference":"01P"
+    },
+    {
+        "word":"krone",
+        "name":"ei krone",
+        "audio_name":"ei_krone",
+        "trans":"n, a crown",
+        "inflection":"krona, kroner, kronene",
+        "reference":"01P"
+    },
+    {
+        "word":"langt",
+        "name":"langt",
+        "audio_name":"langt",
+        "trans":"a, far",
+        "inflection":null,
+        "reference":"01P"
+    },
+    {
+        "word":"ledig",
+        "name":"ledig",
+        "audio_name":"ledig",
+        "trans":"a, vacant",
+        "inflection":"ledig, ledige",
+        "reference":"01M"
+    },
+    {
+        "word":"litt",
+        "name":"litt",
+        "audio_name":"litt",
+        "trans":"a, a little",
+        "inflection":null,
+        "reference":"01A"
+    },
+    {
+        "word":"med",
+        "name":"med",
+        "audio_name":"med",
+        "trans":"p, with",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"men",
+        "name":"men",
+        "audio_name":"men",
+        "trans":"but",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"morgen",
+        "name":"en morgen",
+        "audio_name":"en_morgen",
+        "trans":"n, a morning",
+        "inflection":"morgenen, morgener, morgenene",
+        "reference":"01M"
+    },
+    {
+        "word":"møte",
+        "name":"å møte",
+        "audio_name":"aa_moete",
+        "trans":"v, to meet",
+        "inflection":"møter, møtte, har møtt",
+        "reference":"01M"
+    },
+    {
+        "word":"møte",
+        "name":"å møte",
+        "audio_name":"et_moete",
+        "trans":"v, to meet",
+        "inflection":"møter, møtte, har møtt",
+        "reference":"09A"
+    },
+    {
+        "word":"nei",
+        "name":"nei",
+        "audio_name":"nei",
+        "trans":"no",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"neste",
+        "name":"neste",
+        "audio_name":"neste",
+        "trans":"next",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"Norge",
+        "name":"Norge",
+        "audio_name":"Norge",
+        "trans":"n, Norway",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"norsk",
+        "name":"norsk",
+        "audio_name":"norsk",
+        "trans":"a, Norwegian",
+        "inflection":null,
+        "reference":"01A"
+    },
+    {
+        "word":"nå",
+        "name":"nå",
+        "audio_name":"naa",
+        "trans":"d, now",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"og",
+        "name":"og",
+        "audio_name":"og",
+        "trans":"and",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"også",
+        "name":"også",
+        "audio_name":"ogsaa",
+        "trans":"too, also",
+        "inflection":null,
+        "reference":"01A"
+    },
+    {
+        "word":"OK",
+        "name":"OK",
+        "audio_name":"ok",
+        "trans":"okay, all right",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"over",
+        "name":"over",
+        "audio_name":"over",
+        "trans":"p, of, over",
+        "inflection":null,
+        "reference":"01P"
+    },
+    {
+        "word":"professor",
+        "name":"en professor",
+        "audio_name":"en_professor",
+        "trans":"n, a professor",
+        "inflection":"professoren, professorer, professorene",
+        "reference":"01A"
+    },
+    {
+        "word":"på",
+        "name":"på",
+        "audio_name":"paa",
+        "trans":"p, on, at",
+        "inflection":null,
+        "reference":"01A"
+    },
+    {
+        "word":"reise",
+        "name":"å reise",
+        "audio_name":"aa_reise",
+        "trans":"v, to travel",
+        "inflection":"reiser, reiste, har reist",
+        "reference":"01K"
+    },
+    {
+        "word":"Roma",
+        "name":"Roma",
+        "audio_name":"Roma",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"01A"
+    },
+    {
+        "word":"sammen",
+        "name":"sammen",
+        "audio_name":"sammen",
+        "trans":"together",
+        "inflection":null,
+        "reference":"01P"
+    },
+    {
+        "word":"seinere",
+        "name":"seinere",
+        "audio_name":"seinere",
+        "trans":"a, later",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"seks",
+        "name":"seks",
+        "audio_name":"seks",
+        "trans":"six",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"ses",
+        "name":"å ses",
+        "audio_name":"aa_ses",
+        "trans":"v, to see one another",
+        "inflection":"ses, sås, har settes",
+        "reference":"01M"
+    },
+    {
+        "word":"snakke",
+        "name":"å snakke",
+        "audio_name":"aa_snakke",
+        "trans":"v, to speak",
+        "inflection":"snakker, snakket, har snakket",
+        "reference":"01K"
+    },
+    {
+        "word":"snart",
+        "name":"snart",
+        "audio_name":"snart",
+        "trans":"d, soon",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"Spania",
+        "name":"Spania",
+        "audio_name":"Spania",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"spansk",
+        "name":"spansk",
+        "audio_name":"spansk",
+        "trans":"a, Spanish",
+        "inflection":null,
+        "reference":"01A"
+    },
+    {
+        "word":"stoppe",
+        "name":"å stoppe",
+        "audio_name":"aa_stoppe",
+        "trans":"v, to stop",
+        "inflection":"stopper, stoppet, har stoppet",
+        "reference":"01P"
+    },
+    {
+        "word":"student",
+        "name":"en student",
+        "audio_name":"en_student",
+        "trans":"n, a student",
+        "inflection":"studenten, studenter, studentene",
+        "reference":"01A"
+    },
+    {
+        "word":"studere",
+        "name":"å studere",
+        "audio_name":"aa_studere",
+        "trans":"v, to study",
+        "inflection":"studerer, studerte, har studert",
+        "reference":"01A"
+    },
+    {
+        "word":"så",
+        "name":"så",
+        "audio_name":"saa",
+        "trans":"so",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"så",
+        "name":"så",
+        "audio_name":"saa",
+        "trans":"so",
+        "inflection":null,
+        "reference":"07A"
+    },
+    {
+        "word":"ta",
+        "name":"å ta",
+        "audio_name":"aa_ta",
+        "trans":"v, to take",
+        "inflection":"tar, tok, har tatt",
+        "reference":"01P"
+    },
+    {
+        "word":"takk",
+        "name":"takk",
+        "audio_name":"takk",
+        "trans":"thank you",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"til",
+        "name":"til",
+        "audio_name":"til",
+        "trans":"p, to",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"tilbake",
+        "name":"tilbake",
+        "audio_name":"tilbake",
+        "trans":"p, back",
+        "inflection":null,
+        "reference":"01P"
+    },
+    {
+        "word":"tog",
+        "name":"et tog",
+        "audio_name":"et_tog",
+        "trans":"n, a train",
+        "inflection":"toget, tog, togene",
+        "reference":"01K"
+    },
+    {
+        "word":"Trondheim",
+        "name":"Trondheim",
+        "audio_name":"Trondheim",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"01K"
+    },
+    {
+        "word":"tur",
+        "name":"en tur",
+        "audio_name":"en_tur",
+        "trans":"n, a trip",
+        "inflection":"turen, turer, turene",
+        "reference":"01P"
+    },
+    {
+        "word":"turist",
+        "name":"en turist",
+        "audio_name":"en_turist",
+        "trans":"n, a tourist",
+        "inflection":"turisten, turister, turistene",
+        "reference":"01M"
+    },
+    {
+        "word":"tusen",
+        "name":"tusen",
+        "audio_name":"tusen",
+        "trans":"thousand",
+        "inflection":null,
+        "reference":"01P"
+    },
+    {
+        "word":"tysk",
+        "name":"tysk",
+        "audio_name":"tysk",
+        "trans":"a, German",
+        "inflection":"tysk, tyske",
+        "reference":"01P"
+    },
+    {
+        "word":"Tyskland",
+        "name":"Tyskland",
+        "audio_name":"Tyskland",
+        "trans":"n, Germany",
+        "inflection":null,
+        "reference":"01P"
+    },
+    {
+        "word":"unnskyld",
+        "name":"unnskyld",
+        "audio_name":"unnskyld",
+        "trans":"excuse me",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"velkommen",
+        "name":"velkommen",
+        "audio_name":"velkommen",
+        "trans":"welcome",
+        "inflection":null,
+        "reference":"01P"
+    },
+    {
+        "word":"vi",
+        "name":"vi",
+        "audio_name":"vi",
+        "trans":"we",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"vær så god!",
+        "name":"vær så god!",
+        "audio_name":"vaer_saa_god",
+        "trans":"you're welcome! please! here you are!",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"være",
+        "name":"å være",
+        "audio_name":"aa_vaere",
+        "trans":"v, to be, exist",
+        "inflection":"er, var, har vært",
+        "reference":"01K"
+    },
+    {
+        "word":"å",
+        "name":"å",
+        "audio_name":"aa",
+        "trans":"to (infinitive marker)",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"år",
+        "name":"et år",
+        "audio_name":"et_aar",
+        "trans":"n, a year",
+        "inflection":"året, år, årene",
+        "reference":"01K"
+    }
+]

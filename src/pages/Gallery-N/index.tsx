@@ -1,5 +1,4 @@
 import DictionaryGroup from './CategoryDicts'
-import DictRequest from './DictRequest'
 import { LanguageTabSwitcher } from './LanguageTabSwitcher'
 import Layout from '@/components/Layout'
 import { dictionaries } from '@/resources/dictionary'

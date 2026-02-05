@@ -1,0 +1,970 @@
+[
+    {
+        "word":"akkurat",
+        "name":"akkurat",
+        "audio_name":"akkurat",
+        "trans":"d, exactly, precisely",
+        "inflection":null,
+        "reference":"08B"
+    },
+    {
+        "word":"alene",
+        "name":"alene",
+        "audio_name":"alene",
+        "trans":"d, alone",
+        "inflection":null,
+        "reference":"08B"
+    },
+    {
+        "word":"alvorlig",
+        "name":"alvorlig",
+        "audio_name":"alvorlig",
+        "trans":"a, serious",
+        "inflection":"alvorlig, alvorlige",
+        "reference":"08B"
+    },
+    {
+        "word":"appelsin",
+        "name":"en appelsin",
+        "audio_name":"en_appelsin",
+        "trans":"n, an orange",
+        "inflection":"appelsinen, appelsiner, appelsinene",
+        "reference":"08A"
+    },
+    {
+        "word":"bedre",
+        "name":"bedre",
+        "audio_name":"bedre",
+        "trans":"a, better",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"bedring",
+        "name":"en bedring",
+        "audio_name":"en_bedring",
+        "trans":"n, a recovery",
+        "inflection":"bedringen, bedringer, bedringene",
+        "reference":"08B"
+    },
+    {
+        "word":"bekymret",
+        "name":"bekymret",
+        "audio_name":"bekymret",
+        "trans":"a, worried, anxious",
+        "inflection":"bekymret, bekymrede",
+        "reference":"08A"
+    },
+    {
+        "word":"beskjed",
+        "name":"en beskjed",
+        "audio_name":"en_beskjed",
+        "trans":"n, a message",
+        "inflection":"beskjeden, beskjeder, beskjedene",
+        "reference":"08A"
+    },
+    {
+        "word":"blåse",
+        "name":"å blåse",
+        "audio_name":"aa_blaase",
+        "trans":"v, to blow, be windy",
+        "inflection":"blåser, blåste, har blåst",
+        "reference":"08A"
+    },
+    {
+        "word":"bort",
+        "name":"bort",
+        "audio_name":"bort",
+        "trans":"d, away, off, over",
+        "inflection":null,
+        "reference":"08B"
+    },
+    {
+        "word":"borte",
+        "name":"borte",
+        "audio_name":"borte",
+        "trans":"d, away, off, over",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"bål",
+        "name":"et bål",
+        "audio_name":"et_baal",
+        "trans":"n, a fire",
+        "inflection":"bålet, bål, bålene",
+        "reference":"08A"
+    },
+    {
+        "word":"drikke",
+        "name":"drikke",
+        "audio_name":"aa_drikke",
+        "trans":"n, a drink (uncount. noun)",
+        "inflection":"drikken",
+        "reference":"02P"
+    },
+    {
+        "word":"drikke",
+        "name":"drikke",
+        "audio_name":"drikke",
+        "trans":"n, a drink (uncount. noun)",
+        "inflection":"drikken",
+        "reference":"08A"
+    },
+    {
+        "word":"dårlig",
+        "name":"dårlig",
+        "audio_name":"daarlig",
+        "trans":"a, bad, unwell, ill",
+        "inflection":"dårlig, dårlige",
+        "reference":"08A"
+    },
+    {
+        "word":"elektrisitet",
+        "name":"elektrisitet",
+        "audio_name":"elektrisitet",
+        "trans":"n, electricity (uncount. noun)",
+        "inflection":"elektrisiteten",
+        "reference":"08A"
+    },
+    {
+        "word":"elendig",
+        "name":"elendig",
+        "audio_name":"elendig",
+        "trans":"a, miserable",
+        "inflection":"elendig, elendige",
+        "reference":"08B"
+    },
+    {
+        "word":"enkel",
+        "name":"enkel",
+        "audio_name":"enkel",
+        "trans":"a, simple, easy",
+        "inflection":"enkelt, enkle",
+        "reference":"08A"
+    },
+    {
+        "word":"enn",
+        "name":"enn",
+        "audio_name":"enn",
+        "trans":"than",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"ensom",
+        "name":"ensom",
+        "audio_name":"ensom",
+        "trans":"a, lonely",
+        "inflection":"ensomt, ensomme",
+        "reference":"08B"
+    },
+    {
+        "word":"fastlege",
+        "name":"en fastlege",
+        "audio_name":"en_fastlege",
+        "trans":"n, a family doctor",
+        "inflection":"fastlegen, fastleger, fastlegene",
+        "reference":"08B"
+    },
+    {
+        "word":"feber",
+        "name":"en feber",
+        "audio_name":"en_feber",
+        "trans":"n, a fever",
+        "inflection":"feberen, febere, feberne",
+        "reference":"08B"
+    },
+    {
+        "word":"febernedsettende",
+        "name":"febernedsettende",
+        "audio_name":"febernedsettende",
+        "trans":"a, febrifugal, antipyretic",
+        "inflection":null,
+        "reference":"08B"
+    },
+    {
+        "word":"fest",
+        "name":"en fest",
+        "audio_name":"en_fest",
+        "trans":"n, a party, fiest",
+        "inflection":"festen, fester, festene",
+        "reference":"08B"
+    },
+    {
+        "word":"finere",
+        "name":"finere",
+        "audio_name":"finere",
+        "trans":"a, nicer, finer",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"flytte",
+        "name":"å flytte",
+        "audio_name":"aa_flytte",
+        "trans":"v, to move",
+        "inflection":"flytter, flyttet, har flyttet",
+        "reference":"08B"
+    },
+    {
+        "word":"for mye",
+        "name":"for mye",
+        "audio_name":"for_mye",
+        "trans":"too much",
+        "inflection":null,
+        "reference":"08B"
+    },
+    {
+        "word":"frisk",
+        "name":"frisk",
+        "audio_name":"frisk",
+        "trans":"a, well, healthy, sound",
+        "inflection":"friskt, friske",
+        "reference":"08B"
+    },
+    {
+        "word":"fryse",
+        "name":"å fryse",
+        "audio_name":"aa_fryse",
+        "trans":"v, to be cold, freeze",
+        "inflection":"fryser, frøs, har frosset",
+        "reference":"08A"
+    },
+    {
+        "word":"fyre",
+        "name":"å fyre",
+        "audio_name":"aa_fyre",
+        "trans":"v, to kindle a fire, keep a fire going",
+        "inflection":"fyrer, fyrte, har fyrt",
+        "reference":"08A"
+    },
+    {
+        "word":"føle",
+        "name":"å føle",
+        "audio_name":"aa_foele",
+        "trans":"v, to feel",
+        "inflection":"føler, følte, har følt",
+        "reference":"08B"
+    },
+    {
+        "word":"gir (å gi)",
+        "name":"gir (å gi)",
+        "audio_name":"gir",
+        "trans":"v, gives, offers",
+        "inflection":"gir, ga, har gitt",
+        "reference":"08A"
+    },
+    {
+        "word":"grille",
+        "name":"å grille",
+        "audio_name":"aa_grille",
+        "trans":"v, to grill",
+        "inflection":"griller, grillet, har grillet",
+        "reference":"08A"
+    },
+    {
+        "word":"gryterett",
+        "name":"en gryterett",
+        "audio_name":"en_gryterett",
+        "trans":"n, a casserole",
+        "inflection":"gryteretten, gryteretter, gryterettene",
+        "reference":"08A"
+    },
+    {
+        "word":"gulv",
+        "name":"et gulv",
+        "audio_name":"et_gulv",
+        "trans":"n, a floor",
+        "inflection":"gulvet, gulv, gulvene",
+        "reference":"08B"
+    },
+    {
+        "word":"hals",
+        "name":"en hals",
+        "audio_name":"en_hals",
+        "trans":"n, a throat, neck",
+        "inflection":"halsen, halser, halsene",
+        "reference":"08B"
+    },
+    {
+        "word":"halstablett",
+        "name":"en halstablett",
+        "audio_name":"en_halstablett",
+        "trans":"n, a lozenge, throat pastille",
+        "inflection":"halstabletten, halstabletter, halstablettene",
+        "reference":"08B"
+    },
+    {
+        "word":"helg",
+        "name":"ei helg",
+        "audio_name":"ei_helg",
+        "trans":"n, a weekend",
+        "inflection":"helga, helger, helgene",
+        "reference":"08A"
+    },
+    {
+        "word":"hit",
+        "name":"hit",
+        "audio_name":"hit",
+        "trans":"d, here",
+        "inflection":null,
+        "reference":"08B"
+    },
+    {
+        "word":"hotell",
+        "name":"et hotell",
+        "audio_name":"et_hotell",
+        "trans":"n, a hotel",
+        "inflection":"hotellet, hoteller, hotellene",
+        "reference":"08A"
+    },
+    {
+        "word":"huff",
+        "name":"huff",
+        "audio_name":"huff",
+        "trans":"exclamation:  Oh! Ugh!",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"hyggeligere",
+        "name":"hyggeligere",
+        "audio_name":"hyggeligere",
+        "trans":"a, nicer, kinder",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"hytte",
+        "name":"ei hytte",
+        "audio_name":"ei_hytte",
+        "trans":"n, a cabin",
+        "inflection":"hytta, hytter, hyttene",
+        "reference":"08A"
+    },
+    {
+        "word":"hyttetur",
+        "name":"en hyttetur",
+        "audio_name":"en_hyttetur",
+        "trans":"n, a trip to a cottage",
+        "inflection":"hytteturen, hytteturer, hytteturene",
+        "reference":"08A"
+    },
+    {
+        "word":"høst",
+        "name":"en høst",
+        "audio_name":"en_hoest",
+        "trans":"n, an autumn",
+        "inflection":"høsten, høster, høstene",
+        "reference":"08A"
+    },
+    {
+        "word":"i alle fall",
+        "name":"i alle fall",
+        "audio_name":"i_alle_fall",
+        "trans":"at any rate",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"influensa",
+        "name":"en influensa",
+        "audio_name":"en_influensa",
+        "trans":"n, an influenza, flu",
+        "inflection":"influensaen, influensaer, influensaene",
+        "reference":"08B"
+    },
+    {
+        "word":"inni",
+        "name":"inni",
+        "audio_name":"inni",
+        "trans":"p, inside, in",
+        "inflection":"\"inne i\"",
+        "reference":"08A"
+    },
+    {
+        "word":"kakao",
+        "name":"kakao",
+        "audio_name":"kakao",
+        "trans":"n, cocoa (uncount. noun)",
+        "inflection":"kakaoen",
+        "reference":"08A"
+    },
+    {
+        "word":"kaldere",
+        "name":"kaldere",
+        "audio_name":"kaldere",
+        "trans":"a, colder",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"kaldt (kald)",
+        "name":"kaldt (kald)",
+        "audio_name":"kaldt",
+        "trans":"a, cold ",
+        "inflection":"kald, kaldt, kalde",
+        "reference":"08A"
+    },
+    {
+        "word":"kaste opp",
+        "name":"å kaste opp",
+        "audio_name":"aa_kaste_opp",
+        "trans":"v, to throw up, vomit",
+        "inflection":"kaster opp, kastet opp, har kastet opp",
+        "reference":"08B"
+    },
+    {
+        "word":"kjeks",
+        "name":"en kjeks",
+        "audio_name":"en_kjeks",
+        "trans":"n, a cracker, cookie",
+        "inflection":"kjeksen, kjekser, kjeksene",
+        "reference":"08A"
+    },
+    {
+        "word":"klasseliste",
+        "name":"ei klasseliste",
+        "audio_name":"ei_klasseliste",
+        "trans":"n, a class list",
+        "inflection":"klasselista, klasselister, klasselistene",
+        "reference":"08A"
+    },
+    {
+        "word":"klem",
+        "name":"en klem",
+        "audio_name":"en_klem",
+        "trans":"n, a hug",
+        "inflection":"klemmen, klemmer, klemmene",
+        "reference":"08B"
+    },
+    {
+        "word":"kvalm",
+        "name":"kvalm",
+        "audio_name":"kvalm",
+        "trans":"a, queasy",
+        "inflection":"kvalmt, kvalme",
+        "reference":"08B"
+    },
+    {
+        "word":"kveld",
+        "name":"en kveld",
+        "audio_name":"en_kveld",
+        "trans":"n, an evening, night",
+        "inflection":"kvelden, kvelder, kveldene",
+        "reference":"08A"
+    },
+    {
+        "word":"Kvikklunsj",
+        "name":"Kvikklunsj",
+        "audio_name":"Kvikklunsj",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"lege",
+        "name":"en lege",
+        "audio_name":"en_lege",
+        "trans":"n, a doctor, GP",
+        "inflection":"legen, leger, legene",
+        "reference":"08B"
+    },
+    {
+        "word":"legevakt",
+        "name":"en legevakt",
+        "audio_name":"en_legevakt",
+        "trans":"n, a casualty clinic",
+        "inflection":"legevakten, legevakter, legevaktene",
+        "reference":"08B"
+    },
+    {
+        "word":"legevaktsentral",
+        "name":"en legevaktsentral",
+        "audio_name":"en_legevaktsentral",
+        "trans":"n, telephone central for emergency clinic",
+        "inflection":"legevaktsentralen, legevaktsentraler, legevaktsentralene",
+        "reference":"08B"
+    },
+    {
+        "word":"legge seg",
+        "name":"å legge seg",
+        "audio_name":"aa_legge_seg",
+        "trans":"v, to go to bed, lie down",
+        "inflection":"legger seg, la seg, har lagt seg",
+        "reference":"08B"
+    },
+    {
+        "word":"løpe",
+        "name":"å løpe",
+        "audio_name":"aa_loepe",
+        "trans":"v, to run",
+        "inflection":"løper, løp, har løpt",
+        "reference":"08B"
+    },
+    {
+        "word":"makaroni",
+        "name":"makaroni",
+        "audio_name":"makaroni",
+        "trans":"n, macaroni (uncount. noun)",
+        "inflection":"makaronien",
+        "reference":"08A"
+    },
+    {
+        "word":"medisin",
+        "name":"en medisin",
+        "audio_name":"en_medisin",
+        "trans":"n, a medicine",
+        "inflection":"medisinen, medisiner, medisinene",
+        "reference":"08B"
+    },
+    {
+        "word":"mens",
+        "name":"mens",
+        "audio_name":"mens",
+        "trans":"while",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"minusgrad",
+        "name":"en minusgrad",
+        "audio_name":"en_minusgrad",
+        "trans":"n, one degree below zero, minus -- degrees",
+        "inflection":"minusgraden, minusgrader, minusgradene",
+        "reference":"08A"
+    },
+    {
+        "word":"mørk ",
+        "name":"mørk ",
+        "audio_name":"moerk",
+        "trans":"a, dark",
+        "inflection":"mørkt, mørke",
+        "reference":"08A"
+    },
+    {
+        "word":"nok",
+        "name":"nok",
+        "audio_name":"nok",
+        "trans":"d, enough",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"nok",
+        "name":"nok",
+        "audio_name":"nok",
+        "trans":"d, enough",
+        "inflection":null,
+        "reference":"08B"
+    },
+    {
+        "word":"nok",
+        "name":"nok",
+        "audio_name":"nok",
+        "trans":"d, probably, I gather",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"nok",
+        "name":"nok",
+        "audio_name":"nok",
+        "trans":"d, probably, I gather",
+        "inflection":null,
+        "reference":"08B"
+    },
+    {
+        "word":"oktober",
+        "name":"oktober",
+        "audio_name":"oktober",
+        "trans":"n, October",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"omgangssyke",
+        "name":"en omgangssyke",
+        "audio_name":"en_omgangssyke",
+        "trans":"n, a gastric flu",
+        "inflection":"omgangssyken, omgangssyker, omgangssykene",
+        "reference":"08B"
+    },
+    {
+        "word":"Oppdal",
+        "name":"Oppdal",
+        "audio_name":"Oppdal",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"ovn",
+        "name":"en ovn",
+        "audio_name":"en_ovn",
+        "trans":"n, an oven",
+        "inflection":"ovnen, ovner, ovnene",
+        "reference":"08A"
+    },
+    {
+        "word":"pakke",
+        "name":"en pakke",
+        "audio_name":"en_pakke",
+        "trans":"n, a package",
+        "inflection":"pakken, pakker, pakkene",
+        "reference":"08B"
+    },
+    {
+        "word":"pølse",
+        "name":"ei pølse",
+        "audio_name":"ei_poelse",
+        "trans":"n, a sausage",
+        "inflection":"pølsa, pølser, pølsene",
+        "reference":"08A"
+    },
+    {
+        "word":"regn",
+        "name":"regn",
+        "audio_name":"regn",
+        "trans":"n, rain (uncount. noun)",
+        "inflection":"regnet",
+        "reference":"08A"
+    },
+    {
+        "word":"regne",
+        "name":"å regne",
+        "audio_name":"aa_regne",
+        "trans":"v, to rain",
+        "inflection":"regner, regnet, har regnet",
+        "reference":"08A"
+    },
+    {
+        "word":"resept",
+        "name":"en resept",
+        "audio_name":"en_resept",
+        "trans":"n, a prescription",
+        "inflection":"resepten, resepter, reseptene",
+        "reference":"08B"
+    },
+    {
+        "word":"ringe",
+        "name":"å ringe",
+        "audio_name":"aa_ringe",
+        "trans":"v, to ring, call",
+        "inflection":"ringer, ringte, har ringt",
+        "reference":"08A"
+    },
+    {
+        "word":"ris",
+        "name":"ris",
+        "audio_name":"ris",
+        "trans":"n, rice (uncount. noun)",
+        "inflection":"risen",
+        "reference":"08A"
+    },
+    {
+        "word":"sagt (å si)",
+        "name":"sagt (å si)",
+        "audio_name":"har_sagt",
+        "trans":"v, has said",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"sekk",
+        "name":"en sekk",
+        "audio_name":"en_sekk",
+        "trans":"n, a sack",
+        "inflection":"sekken, sekker, sekkene",
+        "reference":"08A"
+    },
+    {
+        "word":"sin (Peter sin)",
+        "name":"sin (Peter sin)",
+        "audio_name":"sin",
+        "trans":"his, hers, its, theirs",
+        "inflection":"sin, sitt, sine",
+        "reference":"08B"
+    },
+    {
+        "word":"sine (sin)",
+        "name":"sine (sin)",
+        "audio_name":"sine",
+        "trans":"his, hers, its, theirs",
+        "inflection":null,
+        "reference":"08B"
+    },
+    {
+        "word":"sitt (sin)",
+        "name":"sitt (sin)",
+        "audio_name":"sitt",
+        "trans":"his, hers, its, theirs",
+        "inflection":null,
+        "reference":"08B"
+    },
+    {
+        "word":"sjelden",
+        "name":"sjelden",
+        "audio_name":"sjelden",
+        "trans":"d, seldom",
+        "inflection":"sjeldent, sjeldne",
+        "reference":"08A"
+    },
+    {
+        "word":"smake",
+        "name":"å smake",
+        "audio_name":"aa_smake",
+        "trans":"v, to taste",
+        "inflection":"smaker, smakte, har smakt",
+        "reference":"08A"
+    },
+    {
+        "word":"smertestillende",
+        "name":"smertestillende",
+        "audio_name":"smertestillende",
+        "trans":"a, painkilling",
+        "inflection":"smertestillende, smertestillende",
+        "reference":"08B"
+    },
+    {
+        "word":"smile",
+        "name":"å smile",
+        "audio_name":"aa_smile",
+        "trans":"v, to smile",
+        "inflection":"smiler, smilte, har smilt",
+        "reference":"08A"
+    },
+    {
+        "word":"smittsom",
+        "name":"smittsom",
+        "audio_name":"smittsom",
+        "trans":"a, infectious",
+        "inflection":"smittsomt, smittsomme",
+        "reference":"08B"
+    },
+    {
+        "word":"SMS",
+        "name":"en SMS",
+        "audio_name":"en_SMS",
+        "trans":"n, an SMS (Short Message Service)",
+        "inflection":"SMSen, SMSer, SMSene",
+        "reference":"08B"
+    },
+    {
+        "word":"snakkes",
+        "name":"å snakkes",
+        "audio_name":"aa_snakkes",
+        "trans":"v, to talk (to each other)",
+        "inflection":"snakkes, snaktes, har snaktes",
+        "reference":"08B"
+    },
+    {
+        "word":"snø",
+        "name":"å snø",
+        "audio_name":"aa_snoe",
+        "trans":"v, to snow",
+        "inflection":"snør, snødde, har snødd",
+        "reference":"08A"
+    },
+    {
+        "word":"snø",
+        "name":"å snø",
+        "audio_name":"snoe",
+        "trans":"v, to snow",
+        "inflection":"snør, snødde, har snødd",
+        "reference":"08A"
+    },
+    {
+        "word":"snø",
+        "name":"snø",
+        "audio_name":"aa_snoe",
+        "trans":"n, snow (uncount. noun)",
+        "inflection":"snøen",
+        "reference":"08A"
+    },
+    {
+        "word":"snø",
+        "name":"snø",
+        "audio_name":"snoe",
+        "trans":"n, snow (uncount. noun)",
+        "inflection":"snøen",
+        "reference":"08A"
+    },
+    {
+        "word":"stearinlys",
+        "name":"et stearinlys",
+        "audio_name":"et_stearinlys",
+        "trans":"n, a candle",
+        "inflection":"stearinlyset, stearinlys, stearinlysene",
+        "reference":"08A"
+    },
+    {
+        "word":"stue",
+        "name":"ei stue",
+        "audio_name":"ei_stue",
+        "trans":"n, a living room",
+        "inflection":"stua, stuer, stuene",
+        "reference":"08A"
+    },
+    {
+        "word":"stund",
+        "name":"en stund",
+        "audio_name":"en_stund",
+        "trans":"n, a moment, while",
+        "inflection":"stunden, stunder, stundene",
+        "reference":"08A"
+    },
+    {
+        "word":"syk",
+        "name":"syk",
+        "audio_name":"syk",
+        "trans":"a, ill",
+        "inflection":"sykt, syke",
+        "reference":"08A"
+    },
+    {
+        "word":"søke om",
+        "name":"å søke om",
+        "audio_name":"aa_soeke_om",
+        "trans":"v, to apply for",
+        "inflection":"søker, søkte, har søkt",
+        "reference":"08B"
+    },
+    {
+        "word":"tablett",
+        "name":"en tablett",
+        "audio_name":"en_tablett",
+        "trans":"n, a tablet",
+        "inflection":"tabletten, tabletter, tablettene",
+        "reference":"08B"
+    },
+    {
+        "word":"tekstmelding",
+        "name":"en tekstmelding",
+        "audio_name":"en_tekstmelding",
+        "trans":"n, a text message (SMS)",
+        "inflection":"tekstmeldingen, tekstmeldinger, tekstmeldingene",
+        "reference":"08B"
+    },
+    {
+        "word":"telefonnummer",
+        "name":"et telefonnummer",
+        "audio_name":"et_telefonnummer",
+        "trans":"n, a phone number",
+        "inflection":"telefonnummeret, telefonnummer, telefonnumrene",
+        "reference":"08B"
+    },
+    {
+        "word":"tenne",
+        "name":"å tenne",
+        "audio_name":"aa_tenne",
+        "trans":"v, to light, kindle",
+        "inflection":"tenner, tente, har tent",
+        "reference":"08A"
+    },
+    {
+        "word":"termometer",
+        "name":"et termometer",
+        "audio_name":"et_termometer",
+        "trans":"n, a thermometer",
+        "inflection":"termometeret, termometer, termometerne",
+        "reference":"08B"
+    },
+    {
+        "word":"trist",
+        "name":"trist",
+        "audio_name":"trist",
+        "trans":"a, sad",
+        "inflection":"trist, triste",
+        "reference":"08B"
+    },
+    {
+        "word":"typisk",
+        "name":"typisk",
+        "audio_name":"typisk",
+        "trans":"a, typical",
+        "inflection":"typisk, typiske",
+        "reference":"08A"
+    },
+    {
+        "word":"vant til",
+        "name":"vant til",
+        "audio_name":"vant_til",
+        "trans":"used to",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"varme",
+        "name":"å varme",
+        "audio_name":"aa_varme",
+        "trans":"v, to warm",
+        "inflection":"varmer, varmet, har varmet",
+        "reference":"08A"
+    },
+    {
+        "word":"varmegrad",
+        "name":"en varmegrad",
+        "audio_name":"en_varmegrad",
+        "trans":"n, one degree above zero",
+        "inflection":"varmegraden, varmegrader, varmegradene",
+        "reference":"08A"
+    },
+    {
+        "word":"varmere",
+        "name":"varmere",
+        "audio_name":"varmere",
+        "trans":"a, warmer",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"vinter",
+        "name":"en vinter",
+        "audio_name":"en_vinter",
+        "trans":"n, a winter",
+        "inflection":"vinteren, vintre, vintrene",
+        "reference":"08A"
+    },
+    {
+        "word":"virkelig",
+        "name":"virkelig",
+        "audio_name":"virkelig",
+        "trans":"a, really",
+        "inflection":null,
+        "reference":"08A"
+    },
+    {
+        "word":"vond",
+        "name":"vond",
+        "audio_name":"vond",
+        "trans":"a, painful, sore",
+        "inflection":"vondt, vonde",
+        "reference":"08B"
+    },
+    {
+        "word":"vondt i halsen",
+        "name":"vondt i halsen",
+        "audio_name":"vondt_i_halsen",
+        "trans":" a sore throat",
+        "inflection":null,
+        "reference":"08B"
+    },
+    {
+        "word":"vær",
+        "name":"vær",
+        "audio_name":"vaer",
+        "trans":"n, weather (uncount. noun)",
+        "inflection":"været",
+        "reference":"08A"
+    },
+    {
+        "word":"våkne",
+        "name":"å våkne",
+        "audio_name":"aa_vaakne",
+        "trans":"v, to wake up",
+        "inflection":"våkner, våknet, har våknet",
+        "reference":"08B"
+    }
+]

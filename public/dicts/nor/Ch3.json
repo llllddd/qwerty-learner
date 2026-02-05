@@ -1,0 +1,1010 @@
+[
+    {
+        "word":"aldri",
+        "name":"aldri",
+        "audio_name":"aldri",
+        "trans":"d, never",
+        "inflection":null,
+        "reference":"03A"
+    },
+    {
+        "word":"alt (all)",
+        "name":"alt (all)",
+        "audio_name":"alt",
+        "trans":"all, everything",
+        "inflection":null,
+        "reference":"03K"
+    },
+    {
+        "word":"andre",
+        "name":"andre",
+        "audio_name":"andre",
+        "trans":"second, other",
+        "inflection":null,
+        "reference":"03A"
+    },
+    {
+        "word":"bad",
+        "name":"et bad",
+        "audio_name":"et_bad",
+        "trans":"n, a bath",
+        "inflection":"badet, bad, badene",
+        "reference":"03P"
+    },
+    {
+        "word":"barbere seg",
+        "name":"å barbere seg",
+        "audio_name":"aa_barbere_seg",
+        "trans":"v, to shave",
+        "inflection":"barberer seg, barberte seg, har barbert seg",
+        "reference":"03P"
+    },
+    {
+        "word":"bokhylle",
+        "name":"ei bokhylle",
+        "audio_name":"ei_bokhylle",
+        "trans":"n, a book shelf",
+        "inflection":"bokhylla, bokhyller, bokhyllene",
+        "reference":"03A"
+    },
+    {
+        "word":"bord",
+        "name":"et bord",
+        "audio_name":"et_bord",
+        "trans":"n, a table",
+        "inflection":"bordet, bord, bordene",
+        "reference":"03K"
+    },
+    {
+        "word":"bror",
+        "name":"en bror",
+        "audio_name":"en_bror",
+        "trans":"n, a brother",
+        "inflection":"broren, brødre, brødrene",
+        "reference":"03M"
+    },
+    {
+        "word":"brun",
+        "name":"brun",
+        "audio_name":"brun",
+        "trans":"a, brown",
+        "inflection":"brunt, brune",
+        "reference":"03A"
+    },
+    {
+        "word":"brød",
+        "name":"et brød",
+        "audio_name":"et_broed",
+        "trans":"n, a loaf of bread",
+        "inflection":"brødet, brød, brødene",
+        "reference":"03P"
+    },
+    {
+        "word":"brødre",
+        "name":"brødre",
+        "audio_name":"broedre",
+        "trans":"n, brothers",
+        "inflection":null,
+        "reference":"03M"
+    },
+    {
+        "word":"brødskive",
+        "name":"ei brødskive",
+        "audio_name":"ei_broedskive",
+        "trans":"n, a slice of bread",
+        "inflection":"brødskiva, brødskiver, brødskivene",
+        "reference":"03P"
+    },
+    {
+        "word":"bygning",
+        "name":"en bygning",
+        "audio_name":"en_bygning",
+        "trans":"n, a building",
+        "inflection":"bygningen, bygninger, bygningene",
+        "reference":"03K"
+    },
+    {
+        "word":"bære",
+        "name":"å bære",
+        "audio_name":"aa_baere",
+        "trans":"v, to carry",
+        "inflection":"bærer, bar, har båret",
+        "reference":"03A"
+    },
+    {
+        "word":"da",
+        "name":"da",
+        "audio_name":"da",
+        "trans":"d, then",
+        "inflection":null,
+        "reference":"03P"
+    },
+    {
+        "word":"da",
+        "name":"da",
+        "audio_name":"da",
+        "trans":"d, then",
+        "inflection":null,
+        "reference":"05M"
+    },
+    {
+        "word":"dele",
+        "name":"å dele",
+        "audio_name":"aa_dele",
+        "trans":"v, to share",
+        "inflection":"deler, delte, har delt",
+        "reference":"03A"
+    },
+    {
+        "word":"dessverre",
+        "name":"dessverre",
+        "audio_name":"dessverre",
+        "trans":"d, unfortunately",
+        "inflection":null,
+        "reference":"03K"
+    },
+    {
+        "word":"dusj",
+        "name":"en dusj",
+        "audio_name":"en_dusj",
+        "trans":"n, a shower",
+        "inflection":"dusjen, dusjer, dusjene",
+        "reference":"03P"
+    },
+    {
+        "word":"dør",
+        "name":"ei dør",
+        "audio_name":"ei_doer",
+        "trans":"n, a door",
+        "inflection":"døra, dører, dørene",
+        "reference":"03A"
+    },
+    {
+        "word":"ennå",
+        "name":"ennå",
+        "audio_name":"ennaa",
+        "trans":"d, yet, still",
+        "inflection":null,
+        "reference":"03K"
+    },
+    {
+        "word":"etasje",
+        "name":"en etasje",
+        "audio_name":"en_etasje",
+        "trans":"n, a storey, floor",
+        "inflection":"etasjen, etasjer, etasjene",
+        "reference":"03K"
+    },
+    {
+        "word":"etternavn",
+        "name":"et etternavn",
+        "audio_name":"et_etternavn",
+        "trans":"n, a surname",
+        "inflection":"etternavnet, etternavn, etternavnene",
+        "reference":"03K"
+    },
+    {
+        "word":"far",
+        "name":"en far",
+        "audio_name":"en_far",
+        "trans":"n, a father",
+        "inflection":"faren, fedre, fedrene",
+        "reference":"03A"
+    },
+    {
+        "word":"fin",
+        "name":"fin",
+        "audio_name":"fin",
+        "trans":"a, fine",
+        "inflection":"fint, fine",
+        "reference":"03M"
+    },
+    {
+        "word":"forstå",
+        "name":"å forstå",
+        "audio_name":"aa_forstaa",
+        "trans":"v, to understand",
+        "inflection":"forstår, forstod, har forstått",
+        "reference":"03K"
+    },
+    {
+        "word":"frokost",
+        "name":"en frokost",
+        "audio_name":"en_frokost",
+        "trans":"n, a breakfast",
+        "inflection":"frokosten, frokoster, frokostene",
+        "reference":"03P"
+    },
+    {
+        "word":"fylle ut",
+        "name":"å fylle ut",
+        "audio_name":"aa_fylle_ut",
+        "trans":"v, to fill in",
+        "inflection":"fyller ut, fylte ut, har fylt ut",
+        "reference":"03K"
+    },
+    {
+        "word":"fæl",
+        "name":"fæl",
+        "audio_name":"fael",
+        "trans":"a, awful",
+        "inflection":"fælt, fæle",
+        "reference":"03A"
+    },
+    {
+        "word":"fødselsdato",
+        "name":"en fødselsdato",
+        "audio_name":"en_foedselsdato",
+        "trans":"n, a date of birth",
+        "inflection":"fødselsdatoen, fødselsdatoer, fødselsdatoene",
+        "reference":"03K"
+    },
+    {
+        "word":"første",
+        "name":"første",
+        "audio_name":"foerste",
+        "trans":"a, first",
+        "inflection":null,
+        "reference":"03K"
+    },
+    {
+        "word":"gardin",
+        "name":"et gardin",
+        "audio_name":"et_gardin",
+        "trans":"n, a curtain",
+        "inflection":"gardinet, gardiner, gardinene",
+        "reference":"03A"
+    },
+    {
+        "word":"gitar",
+        "name":"en gitar",
+        "audio_name":"en_gitar",
+        "trans":"n, a guitar",
+        "inflection":"gitaren, gitarer, gitarene",
+        "reference":"03M"
+    },
+    {
+        "word":"gjennom",
+        "name":"gjennom",
+        "audio_name":"gjennom",
+        "trans":"p, through",
+        "inflection":null,
+        "reference":"03A"
+    },
+    {
+        "word":"gjest",
+        "name":"en gjest",
+        "audio_name":"en_gjest",
+        "trans":"n, a guest",
+        "inflection":"gjesten, gjester, gjestene",
+        "reference":"03M"
+    },
+    {
+        "word":"glede seg til",
+        "name":"å glede seg til",
+        "audio_name":null,
+        "trans":"v, to look forward to",
+        "inflection":"gleder seg, gledet seg, har gledet seg",
+        "reference":null
+    },
+    {
+        "word":"gleder meg til",
+        "name":"gleder meg til",
+        "audio_name":"gleder_meg_til",
+        "trans":"am looking forward to",
+        "inflection":null,
+        "reference":"03P"
+    },
+    {
+        "word":"greit",
+        "name":"greit",
+        "audio_name":"greit",
+        "trans":"a, all right",
+        "inflection":null,
+        "reference":"03K"
+    },
+    {
+        "word":"ha lyst på",
+        "name":"å ha lyst på",
+        "audio_name":"aa_ha_lyst_paa",
+        "trans":"v, to want",
+        "inflection":"har lyst på, hadde lyst på, har hatt lyst på",
+        "reference":"03P"
+    },
+    {
+        "word":"henne",
+        "name":"henne",
+        "audio_name":"henne",
+        "trans":"her",
+        "inflection":null,
+        "reference":"03A"
+    },
+    {
+        "word":"hente",
+        "name":"å hente",
+        "audio_name":"aa_hente",
+        "trans":"v, to fetch, pick up",
+        "inflection":"henter, hentet, har hentet",
+        "reference":"03K"
+    },
+    {
+        "word":"hjemme",
+        "name":"hjemme",
+        "audio_name":"hjemme",
+        "trans":"d, at home",
+        "inflection":null,
+        "reference":"03A"
+    },
+    {
+        "word":"hybel",
+        "name":"en hybel",
+        "audio_name":"en_hybel",
+        "trans":"n, a bed-sitter, lodgings",
+        "inflection":"hybelen, hybler, hyblene",
+        "reference":"03K"
+    },
+    {
+        "word":"høy",
+        "name":"høy",
+        "audio_name":"hoey",
+        "trans":"a, tall",
+        "inflection":"høyt, høye",
+        "reference":"03A"
+    },
+    {
+        "word":"høy",
+        "name":"høy",
+        "audio_name":"hoey",
+        "trans":"a, tall",
+        "inflection":"høyt, høye",
+        "reference":"09B"
+    },
+    {
+        "word":"inne",
+        "name":"inne",
+        "audio_name":"inne",
+        "trans":"d, in, inside",
+        "inflection":null,
+        "reference":"03P"
+    },
+    {
+        "word":"instrument",
+        "name":"et instrument",
+        "audio_name":"et_instrument",
+        "trans":"n, an instrument",
+        "inflection":"instrumentet, instrumenter, instrumentene",
+        "reference":"03M"
+    },
+    {
+        "word":"inventarliste",
+        "name":"ei inventarliste",
+        "audio_name":"ei_inventarliste",
+        "trans":"n, a list of furniture, inventory",
+        "inflection":"inventarlista, inventarlister, inventarlistene",
+        "reference":"03K"
+    },
+    {
+        "word":"italiener",
+        "name":"en italiener",
+        "audio_name":"en_italiener",
+        "trans":"n, Italian",
+        "inflection":"italieneren, italienere, italienerne",
+        "reference":"03P"
+    },
+    {
+        "word":"jus",
+        "name":"en jus",
+        "audio_name":"en_jus",
+        "trans":"n, a juice",
+        "inflection":"jusen, juser, jusene",
+        "reference":"03P"
+    },
+    {
+        "word":"kjempeflink",
+        "name":"kjempeflink",
+        "audio_name":"kjempeflink",
+        "trans":"a, very good, clever",
+        "inflection":"kjempeflinkt, kjempeflinke",
+        "reference":"03M"
+    },
+    {
+        "word":"kjempesulten",
+        "name":"kjempesulten",
+        "audio_name":"kjempesulten",
+        "trans":"a, very hungry",
+        "inflection":"kjempesultent, kjempesultne",
+        "reference":"03P"
+    },
+    {
+        "word":"kjøkken",
+        "name":"et kjøkken",
+        "audio_name":"et_kjoekken",
+        "trans":"n, a kitchen",
+        "inflection":"kjøkkenet, kjøkken, kjøkkenene",
+        "reference":"03A"
+    },
+    {
+        "word":"kjøkkenbenk",
+        "name":"en kjøkkenbenk",
+        "audio_name":"en_kjoekkenbenk",
+        "trans":"n, a workbench",
+        "inflection":"kjøkkenbenken, kjøkkenbenker, kjøkkenbenkene",
+        "reference":"03M"
+    },
+    {
+        "word":"kjøleskap",
+        "name":"et kjøleskap",
+        "audio_name":"et_kjoeleskap",
+        "trans":"n, a refrigerator",
+        "inflection":"kjøleskapet, kjøleskap, kjøleskapene",
+        "reference":"03P"
+    },
+    {
+        "word":"kle på seg",
+        "name":"å kle på seg",
+        "audio_name":"aa_kle_paa_seg",
+        "trans":"v, to dress",
+        "inflection":"kler seg, kledde seg, har kledd seg",
+        "reference":"03P"
+    },
+    {
+        "word":"koke",
+        "name":"å koke",
+        "audio_name":"aa_koke",
+        "trans":"v, to boil",
+        "inflection":"koker, kokte, har kokt",
+        "reference":"03M"
+    },
+    {
+        "word":"kontrakt",
+        "name":"en kontrakt",
+        "audio_name":"en_kontrakt",
+        "trans":"n, a contract",
+        "inflection":"kontrakten, kontrakter, kontraktene",
+        "reference":"03K"
+    },
+    {
+        "word":"lage",
+        "name":"å lage",
+        "audio_name":"aa_lage",
+        "trans":"v, to make",
+        "inflection":"lager, lagde, har lagd ",
+        "reference":"03P"
+    },
+    {
+        "word":"legge",
+        "name":"å legge",
+        "audio_name":"aa_legge",
+        "trans":"v, to lay, put",
+        "inflection":"legger, la, har lagt",
+        "reference":"03A"
+    },
+    {
+        "word":"liste",
+        "name":"ei liste",
+        "audio_name":"ei_liste",
+        "trans":"n, a list",
+        "inflection":"lista, lister, listene",
+        "reference":"03K"
+    },
+    {
+        "word":"lykke til!",
+        "name":"lykke til!",
+        "audio_name":"lykke_til",
+        "trans":"good luck!",
+        "inflection":null,
+        "reference":"03K"
+    },
+    {
+        "word":"lyst",
+        "name":"en lyst",
+        "audio_name":"en_lyst",
+        "trans":"n, a wish, desire, inclination",
+        "inflection":"lysten, lyster, lystene",
+        "reference":"03P"
+    },
+    {
+        "word":"lyst på (å ha lyst på noe)",
+        "name":"lyst på (å ha lyst på noe)",
+        "audio_name":"lyst_paa",
+        "trans":"wanting something",
+        "inflection":null,
+        "reference":"03P"
+    },
+    {
+        "word":"mat",
+        "name":"mat",
+        "audio_name":"mat",
+        "trans":"n, food",
+        "inflection":"maten (uncountable noun)",
+        "reference":"03P"
+    },
+    {
+        "word":"melk",
+        "name":"melk",
+        "audio_name":"melk",
+        "trans":"n, milk",
+        "inflection":"melken (uncountable noun)",
+        "reference":"03P"
+    },
+    {
+        "word":"middag",
+        "name":"en middag",
+        "audio_name":"en_middag",
+        "trans":"n, a dinner",
+        "inflection":"middagen, middager, middagene",
+        "reference":"03M"
+    },
+    {
+        "word":"mobilnummer",
+        "name":"et mobilnummer",
+        "audio_name":"et_mobilnummer",
+        "trans":"n, a cell phone number",
+        "inflection":"mobilnummeret, mobilnummer\/mobilnumre, mobilnumrene",
+        "reference":"03K"
+    },
+    {
+        "word":"mobiltelefon",
+        "name":"en mobiltelefon",
+        "audio_name":"en_mobiltelefon",
+        "trans":"n, a cellular phone",
+        "inflection":"mobiltelefonen, mobiltelefoner, mobiltelefonene",
+        "reference":"03K"
+    },
+    {
+        "word":"moderne",
+        "name":"moderne",
+        "audio_name":"moderne",
+        "trans":"modern",
+        "inflection":"moderne, moderne",
+        "reference":"03M"
+    },
+    {
+        "word":"mor",
+        "name":"ei mor",
+        "audio_name":"ei_mor",
+        "trans":"n, a mother",
+        "inflection":"mora, mødre, mødrene",
+        "reference":"03A"
+    },
+    {
+        "word":"musikk",
+        "name":"musikk",
+        "audio_name":"musikk",
+        "trans":"n, music",
+        "inflection":"musikken (uncountable noun)",
+        "reference":"03M"
+    },
+    {
+        "word":"møbel",
+        "name":"et møbel",
+        "audio_name":"et_moebel",
+        "trans":"n, a piece of furniture",
+        "inflection":"møbelet, møbler, møblene",
+        "reference":"03K"
+    },
+    {
+        "word":"nordmann",
+        "name":"en nordmann",
+        "audio_name":"en_nordmann",
+        "trans":"n, a Norwegian",
+        "inflection":"nordmannen, nordmenn, nordmennene",
+        "reference":"03P"
+    },
+    {
+        "word":"nr",
+        "name":"nr",
+        "audio_name":"nummer",
+        "trans":"n, no.",
+        "inflection":null,
+        "reference":"03K"
+    },
+    {
+        "word":"nøkkel",
+        "name":"en nøkkel",
+        "audio_name":"en_noekkel",
+        "trans":"n, a key",
+        "inflection":"nøkkelen, nøkler, nøklene",
+        "reference":"03K"
+    },
+    {
+        "word":"ost",
+        "name":"en ost",
+        "audio_name":"en_ost",
+        "trans":"n, a cheese",
+        "inflection":"osten, oster, ostene",
+        "reference":"03P"
+    },
+    {
+        "word":"pass",
+        "name":"et pass",
+        "audio_name":"et_pass",
+        "trans":"n, a passport",
+        "inflection":"passet, pass, passene",
+        "reference":"03K"
+    },
+    {
+        "word":"piano",
+        "name":"et piano",
+        "audio_name":"et_piano",
+        "trans":"n, a piano",
+        "inflection":"pianoet, pianoer, pianoene",
+        "reference":"03M"
+    },
+    {
+        "word":"pusse",
+        "name":"å pusse",
+        "audio_name":"aa_pusse",
+        "trans":"v, to brush",
+        "inflection":"pusser, pusset, har pusset",
+        "reference":"03P"
+    },
+    {
+        "word":"resepsjonist",
+        "name":"en resepsjonist",
+        "audio_name":"en_resepsjonist",
+        "trans":"n, a receptionist",
+        "inflection":"resepsjonisten, resepsjonister, resepsjonistene",
+        "reference":"03K"
+    },
+    {
+        "word":"rom",
+        "name":"et rom",
+        "audio_name":"et_rom",
+        "trans":"n, a room",
+        "inflection":"rommet, rom, rommene",
+        "reference":"03K"
+    },
+    {
+        "word":"salami",
+        "name":"salami",
+        "audio_name":"salami",
+        "trans":"n, a salami (uncunt. noun)",
+        "inflection":"salamien",
+        "reference":"03P"
+    },
+    {
+        "word":"seg",
+        "name":"seg",
+        "audio_name":"seg",
+        "trans":"himself, herself, itself, oneself, themselves",
+        "inflection":null,
+        "reference":"03P"
+    },
+    {
+        "word":"seng",
+        "name":"ei seng",
+        "audio_name":"ei_seng",
+        "trans":"n, a bed",
+        "inflection":"senga, senger, sengene",
+        "reference":"03K"
+    },
+    {
+        "word":"sette",
+        "name":"å sette",
+        "audio_name":"aa_sette",
+        "trans":"v, to put, place, set",
+        "inflection":"setter, satte, har satt",
+        "reference":"03A"
+    },
+    {
+        "word":"sette seg",
+        "name":"å sette seg",
+        "audio_name":"aa_sette_seg",
+        "trans":"v, to sit down",
+        "inflection":"setter seg, satte seg, har satt seg",
+        "reference":"03P"
+    },
+    {
+        "word":"si",
+        "name":"å si",
+        "audio_name":"aa_si",
+        "trans":"v, to say",
+        "inflection":"sier, sa, har sagt",
+        "reference":"03M"
+    },
+    {
+        "word":"sjokolade",
+        "name":"en sjokolade",
+        "audio_name":"en_sjokolade",
+        "trans":"n, a chocolate",
+        "inflection":"sjokoladen, sjokolader, sjokoladene",
+        "reference":"03A"
+    },
+    {
+        "word":"skap",
+        "name":"et skap",
+        "audio_name":"et_skap",
+        "trans":"n, a cupboard",
+        "inflection":"skapet, skap, skapene",
+        "reference":"03A"
+    },
+    {
+        "word":"skinke",
+        "name":"ei skinke",
+        "audio_name":"ei_skinke",
+        "trans":"n, a ham",
+        "inflection":"skinka, skinker, skinkene",
+        "reference":"03P"
+    },
+    {
+        "word":"skive",
+        "name":"ei skive",
+        "audio_name":"ei_skive",
+        "trans":"n, a slice",
+        "inflection":"skiva, skiver, skivene",
+        "reference":"03P"
+    },
+    {
+        "word":"skjema",
+        "name":"et skjema",
+        "audio_name":"et_skjema",
+        "trans":"n, a form",
+        "inflection":"skjemaet, skjema, skjemaene",
+        "reference":"03K"
+    },
+    {
+        "word":"skrive",
+        "name":"å skrive",
+        "audio_name":"aa_skrive",
+        "trans":"v, to write",
+        "inflection":"skriver, skrev, skrevet",
+        "reference":"03K"
+    },
+    {
+        "word":"skrive under",
+        "name":"å skrive under",
+        "audio_name":"aa_skrive_under",
+        "trans":"v, to sign",
+        "inflection":"skriver under, skrev under, har skrevet under",
+        "reference":"03K"
+    },
+    {
+        "word":"skrivebord",
+        "name":"et skrivebord",
+        "audio_name":"et_skrivebord",
+        "trans":"n, a desk",
+        "inflection":"skrivebordet, skrivebord, skrivebordene",
+        "reference":"03A"
+    },
+    {
+        "word":"spennende",
+        "name":"spennende",
+        "audio_name":"spennende",
+        "trans":"a, exciting",
+        "inflection":"spennende, spennende",
+        "reference":"03P"
+    },
+    {
+        "word":"spille",
+        "name":"å spille",
+        "audio_name":"aa_spille",
+        "trans":"v, to play",
+        "inflection":"spiller, spilte, har spilt",
+        "reference":"03M"
+    },
+    {
+        "word":"stave",
+        "name":"å stave",
+        "audio_name":"aa_stave",
+        "trans":"v, to spell",
+        "inflection":"staver, stavet, har stavet",
+        "reference":"03K"
+    },
+    {
+        "word":"stille",
+        "name":"stille",
+        "audio_name":"stille",
+        "trans":"a, quiet",
+        "inflection":null,
+        "reference":"03A"
+    },
+    {
+        "word":"stol",
+        "name":"en stol",
+        "audio_name":"en_stol",
+        "trans":"n, a chair",
+        "inflection":"stolen, stoler, stolene",
+        "reference":"03K"
+    },
+    {
+        "word":"stor",
+        "name":"stor",
+        "audio_name":"stor",
+        "trans":"a, big",
+        "inflection":"stort, store",
+        "reference":"03A"
+    },
+    {
+        "word":"stå opp",
+        "name":"å stå opp",
+        "audio_name":"aa_staa_opp",
+        "trans":"v, to get up",
+        "inflection":"står opp, sto opp, har stått opp",
+        "reference":"03P"
+    },
+    {
+        "word":"super",
+        "name":"super",
+        "audio_name":"super",
+        "trans":"a, super",
+        "inflection":"supert, supre",
+        "reference":"03M"
+    },
+    {
+        "word":"søsken",
+        "name":"et søsken",
+        "audio_name":"et_soesken",
+        "trans":"n, a brother or sister, sibling",
+        "inflection":"søskenet, søsken, søsknene",
+        "reference":"03M"
+    },
+    {
+        "word":"søster",
+        "name":"ei søster",
+        "audio_name":"ei_soester",
+        "trans":"n, a sister",
+        "inflection":"søstera, søstre, søstrene",
+        "reference":"03M"
+    },
+    {
+        "word":"så fint (…)!",
+        "name":"så fint (…)!",
+        "audio_name":"saa_fint",
+        "trans":"what a nice (...)!",
+        "inflection":null,
+        "reference":"03M"
+    },
+    {
+        "word":"tall",
+        "name":"et tall",
+        "audio_name":"et_tall",
+        "trans":"n, a figure, number",
+        "inflection":"tallet, tall, tallene",
+        "reference":"03K"
+    },
+    {
+        "word":"tann",
+        "name":"ei tann",
+        "audio_name":"ei_tann",
+        "trans":"n, a tooth",
+        "inflection":"tanna, tenner, tennene",
+        "reference":"03P"
+    },
+    {
+        "word":"te",
+        "name":"te",
+        "audio_name":"te",
+        "trans":"n, tea",
+        "inflection":"teen (uncountable noun)",
+        "reference":"03A"
+    },
+    {
+        "word":"tenke",
+        "name":"å tenke",
+        "audio_name":"aa_tenke",
+        "trans":"v, to think",
+        "inflection":"tenker, tenkte, har tenkt",
+        "reference":"03A"
+    },
+    {
+        "word":"tenner",
+        "name":"tenner",
+        "audio_name":"tenner",
+        "trans":"n, teeth",
+        "inflection":null,
+        "reference":"03P"
+    },
+    {
+        "word":"trapp",
+        "name":"ei trapp",
+        "audio_name":"ei_trapp",
+        "trans":"n, a staircase, stairs",
+        "inflection":"trappa, trapper, trappene",
+        "reference":"03K"
+    },
+    {
+        "word":"treffe",
+        "name":"å treffe",
+        "audio_name":"aa_treffe",
+        "trans":"v, to meet",
+        "inflection":"treffer, traff, har truffet",
+        "reference":"03P"
+    },
+    {
+        "word":"tørke",
+        "name":"å tørke",
+        "audio_name":"aa_toerke",
+        "trans":"v, to dry",
+        "inflection":"tørker, tørket, har tørket",
+        "reference":"03P"
+    },
+    {
+        "word":"tørke seg",
+        "name":"å tørke seg",
+        "audio_name":"aa_toerke_seg",
+        "trans":"v, to dry oneself",
+        "inflection":"tørker seg, tørket seg, har tørket seg",
+        "reference":"03P"
+    },
+    {
+        "word":"under",
+        "name":"under",
+        "audio_name":"under",
+        "trans":"p, under, below",
+        "inflection":null,
+        "reference":"03A"
+    },
+    {
+        "word":"ut",
+        "name":"ut",
+        "audio_name":"ut",
+        "trans":"d, out",
+        "inflection":null,
+        "reference":"03K"
+    },
+    {
+        "word":"ute",
+        "name":"ute",
+        "audio_name":"ute",
+        "trans":"d, out, outside",
+        "inflection":null,
+        "reference":"03K"
+    },
+    {
+        "word":"utstyr",
+        "name":"et utstyr",
+        "audio_name":"utstyr",
+        "trans":"n, equipment",
+        "inflection":"utstyret, utstyr, utstyrene",
+        "reference":"03K"
+    },
+    {
+        "word":"vann",
+        "name":"vann",
+        "audio_name":"vann",
+        "trans":"n, water",
+        "inflection":"vannet (uncountable noun)",
+        "reference":"03M"
+    },
+    {
+        "word":"vannkoker",
+        "name":"en vannkoker",
+        "audio_name":"en_vannkoker",
+        "trans":"n, a kettle",
+        "inflection":"vannkokeren, vannkokere, vannkokerne",
+        "reference":"03M"
+    },
+    {
+        "word":"ved siden av",
+        "name":"ved siden av",
+        "audio_name":"ved_siden_av",
+        "trans":"beside",
+        "inflection":null,
+        "reference":"03A"
+    },
+    {
+        "word":"vet (å vite)",
+        "name":"vet (å vite)",
+        "audio_name":"vet",
+        "trans":"v, know (present tense)",
+        "inflection":null,
+        "reference":"03P"
+    },
+    {
+        "word":"vindu",
+        "name":"et vindu",
+        "audio_name":"et_vindu",
+        "trans":"n, a window",
+        "inflection":"vinduet, vinduer, vinduene",
+        "reference":"03A"
+    },
+    {
+        "word":"vite",
+        "name":"å vite",
+        "audio_name":"aa_vite",
+        "trans":"v, to know",
+        "inflection":"vet, visste, har visst",
+        "reference":"03P"
+    }
+]

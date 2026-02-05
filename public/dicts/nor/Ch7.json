@@ -1,0 +1,874 @@
+[
+    {
+        "word":"album",
+        "name":"et album",
+        "audio_name":"et_album",
+        "trans":"n, an album",
+        "inflection":"albumet, albumer, albumene",
+        "reference":"07A"
+    },
+    {
+        "word":"amerikansk",
+        "name":"amerikansk",
+        "audio_name":"amerikansk",
+        "trans":"a, American",
+        "inflection":"amerikansk, amerikanske",
+        "reference":"07B"
+    },
+    {
+        "word":"av og til",
+        "name":"av og til",
+        "audio_name":"av_og_til",
+        "trans":"sometimes",
+        "inflection":null,
+        "reference":"07B"
+    },
+    {
+        "word":"ballett",
+        "name":"en ballett",
+        "audio_name":"en_ballett",
+        "trans":"n, a ballet",
+        "inflection":"balletten, balletter, ballettene",
+        "reference":"07B"
+    },
+    {
+        "word":"ballspill",
+        "name":"et ballspill",
+        "audio_name":"et_ballspill",
+        "trans":"n, a ball game",
+        "inflection":"ballspillet, ballspill, ballspillene",
+        "reference":"07B"
+    },
+    {
+        "word":"barn",
+        "name":"et barn",
+        "audio_name":"et_barn",
+        "trans":"n, a child",
+        "inflection":"barnet, barn, barna",
+        "reference":"07A"
+    },
+    {
+        "word":"barnehage",
+        "name":"en barnehage",
+        "audio_name":"en_barnehage",
+        "trans":"n, a kindergarten",
+        "inflection":"barnehagen, barnehager, barnehagene",
+        "reference":"07A"
+    },
+    {
+        "word":"begynnerkurs",
+        "name":"et begynnerkurs",
+        "audio_name":"et_begynnerkurs",
+        "trans":"n, a beginner course",
+        "inflection":"begynnerkurset, begynnerkurs, begynnerkursene",
+        "reference":"07B"
+    },
+    {
+        "word":"Beijing",
+        "name":"Beijing",
+        "audio_name":"Beijing",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"07A"
+    },
+    {
+        "word":"best ",
+        "name":"best ",
+        "audio_name":"best",
+        "trans":"a, best, biest (oldfashioned)",
+        "inflection":"best, beste",
+        "reference":"07B"
+    },
+    {
+        "word":"besteforeldre",
+        "name":"besteforeldre",
+        "audio_name":"besteforeldre",
+        "trans":"n, grandparents",
+        "inflection":"besteforeldrene",
+        "reference":"07A"
+    },
+    {
+        "word":"bestemor",
+        "name":"ei bestemor",
+        "audio_name":"ei_bestemor",
+        "trans":"n, a grandmother",
+        "inflection":"bestemora, bestemødre, bestemødrene",
+        "reference":"07A"
+    },
+    {
+        "word":"bordtennis",
+        "name":"bordtennis",
+        "audio_name":"bordtennis",
+        "trans":"n, table tennis (uncount. noun)",
+        "inflection":"bordtennisen",
+        "reference":"07B"
+    },
+    {
+        "word":"både - og",
+        "name":"både - og",
+        "audio_name":"baade_og",
+        "trans":"both - and",
+        "inflection":null,
+        "reference":"07A"
+    },
+    {
+        "word":"cricket",
+        "name":"cricket",
+        "audio_name":"cricket",
+        "trans":"n, cricket (uncount. noun)",
+        "inflection":"cricketen",
+        "reference":"07B"
+    },
+    {
+        "word":"datter",
+        "name":"ei datter",
+        "audio_name":"ei_datter",
+        "trans":"n, a daughter",
+        "inflection":"dattera, døtre, døtrene",
+        "reference":"07A"
+    },
+    {
+        "word":"deres",
+        "name":"deres",
+        "audio_name":"deres",
+        "trans":"your (plural), yours, their, theirs",
+        "inflection":null,
+        "reference":"07A"
+    },
+    {
+        "word":"di (din)",
+        "name":"di (din)",
+        "audio_name":"di",
+        "trans":"your, yours (singular)",
+        "inflection":"di, ditt, dine",
+        "reference":"07B"
+    },
+    {
+        "word":"din",
+        "name":"din",
+        "audio_name":"din",
+        "trans":"your, yours (singular)",
+        "inflection":"di, ditt, dine",
+        "reference":"07A"
+    },
+    {
+        "word":"diskutere",
+        "name":"å diskutere",
+        "audio_name":"aa_diskutere",
+        "trans":"v, to discuss",
+        "inflection":"diskuterer, diskuterte, har diskutert",
+        "reference":"07B"
+    },
+    {
+        "word":"drive med noe",
+        "name":"å drive med noe",
+        "audio_name":"aa_drive_med_noe",
+        "trans":"v, to do something",
+        "inflection":"driver med, drev med, har drevet med",
+        "reference":"07B"
+    },
+    {
+        "word":"enebarn",
+        "name":"et enebarn",
+        "audio_name":"et_enebarn",
+        "trans":"n, an only child",
+        "inflection":"enebarnet, enebarn, enebarna",
+        "reference":"07A"
+    },
+    {
+        "word":"essay",
+        "name":"et essay",
+        "audio_name":"et_essay",
+        "trans":"n, an essay",
+        "inflection":"essayet, essay, essayene",
+        "reference":"07A"
+    },
+    {
+        "word":"farfar",
+        "name":"en farfar",
+        "audio_name":"en_farfar",
+        "trans":"n, a (paternal) grandfather ",
+        "inflection":"farfaren, farfedre, farfedrene",
+        "reference":"07A"
+    },
+    {
+        "word":"farmor",
+        "name":"ei farmor",
+        "audio_name":"ei_farmor",
+        "trans":"n, a (paternal) grandmother",
+        "inflection":"farmora, farmødre, farmødrene",
+        "reference":"07A"
+    },
+    {
+        "word":"forelder",
+        "name":"en forelder",
+        "audio_name":"en_forelder",
+        "trans":"n, a parent",
+        "inflection":"forelderen, foreldre, foreldrene",
+        "reference":"07A"
+    },
+    {
+        "word":"foreldre (en forelder)",
+        "name":"foreldre (en forelder)",
+        "audio_name":"foreldre",
+        "trans":"n, parents",
+        "inflection":null,
+        "reference":"07A"
+    },
+    {
+        "word":"fort",
+        "name":"fort",
+        "audio_name":"fort",
+        "trans":"d, fast",
+        "inflection":null,
+        "reference":"07A"
+    },
+    {
+        "word":"fritid",
+        "name":"fritid",
+        "audio_name":"fritid",
+        "trans":"n, a spare time, leisure (uncount. noun)",
+        "inflection":"fritida",
+        "reference":"07B"
+    },
+    {
+        "word":"fritidsaktivitet",
+        "name":"en fritidsaktivitet",
+        "audio_name":"en_fritidsaktivitet",
+        "trans":"n, a leisure activity",
+        "inflection":"fritidsaktiviteten, fritidsaktiviteter, fritidsaktivitetene",
+        "reference":"07B"
+    },
+    {
+        "word":"ga (å gi)",
+        "name":"ga (å gi)",
+        "audio_name":"ga",
+        "trans":"v, gave, offered",
+        "inflection":"gir, ga, har gitt",
+        "reference":"07A"
+    },
+    {
+        "word":"gi",
+        "name":"å gi",
+        "audio_name":"aa_gi",
+        "trans":"v, to give",
+        "inflection":"gir, ga, har gitt",
+        "reference":"07A"
+    },
+    {
+        "word":"gifte seg",
+        "name":"å gifte seg",
+        "audio_name":"aa_gifte_seg",
+        "trans":"v, to get married, to marry",
+        "inflection":"gifter seg, giftet seg, har giftet seg",
+        "reference":"07A"
+    },
+    {
+        "word":"gjør (å gjøre)",
+        "name":"gjør (å gjøre)",
+        "audio_name":"gjoer",
+        "trans":"v, does, also barks",
+        "inflection":"gjøre, gjør, har gjort",
+        "reference":"07B"
+    },
+    {
+        "word":"grammatikk",
+        "name":"en grammatikk",
+        "audio_name":"en_grammatikk",
+        "trans":"n, a grammar",
+        "inflection":"grammatikken, grammatikker, grammatikkene",
+        "reference":"07A"
+    },
+    {
+        "word":"gruppe",
+        "name":"ei gruppe",
+        "audio_name":"ei_gruppe",
+        "trans":"n, a group",
+        "inflection":"gruppa, grupper, gruppene",
+        "reference":"07A"
+    },
+    {
+        "word":"gøy",
+        "name":"gøy",
+        "audio_name":"goey",
+        "trans":"a, fun",
+        "inflection":null,
+        "reference":"07B"
+    },
+    {
+        "word":"hans",
+        "name":"hans",
+        "audio_name":"hans",
+        "trans":"his",
+        "inflection":null,
+        "reference":"07A"
+    },
+    {
+        "word":"heller",
+        "name":"heller",
+        "audio_name":"heller",
+        "trans":"rather",
+        "inflection":null,
+        "reference":"07B"
+    },
+    {
+        "word":"hennes",
+        "name":"hennes",
+        "audio_name":"hennes",
+        "trans":"her, hers",
+        "inflection":null,
+        "reference":"07A"
+    },
+    {
+        "word":"hjem",
+        "name":"et hjem",
+        "audio_name":"hjem",
+        "trans":"n, a home",
+        "inflection":"hjemmet, hjem, hjemmene",
+        "reference":"04K"
+    },
+    {
+        "word":"hjem",
+        "name":"et hjem",
+        "audio_name":"et_hjem",
+        "trans":"n, a home",
+        "inflection":"hjemmet, hjem, hjemmene",
+        "reference":"07B"
+    },
+    {
+        "word":"hjemland",
+        "name":"et hjemland",
+        "audio_name":"et_hjemland",
+        "trans":"n, a native country",
+        "inflection":"hjemlandet, hjemland, hjemlandene",
+        "reference":"07B"
+    },
+    {
+        "word":"hobby",
+        "name":"en hobby",
+        "audio_name":"en_hobby",
+        "trans":"n, a hobby, pastime",
+        "inflection":"hobbyen, hobbyer, hobbyene",
+        "reference":"07B"
+    },
+    {
+        "word":"hver",
+        "name":"hver",
+        "audio_name":"hver",
+        "trans":"every, each",
+        "inflection":"hvert",
+        "reference":"07B"
+    },
+    {
+        "word":"hvis",
+        "name":"hvis",
+        "audio_name":"hvis",
+        "trans":"if",
+        "inflection":null,
+        "reference":"07B"
+    },
+    {
+        "word":"iblant",
+        "name":"iblant",
+        "audio_name":"iblant",
+        "trans":"d, sometimes",
+        "inflection":null,
+        "reference":"07B"
+    },
+    {
+        "word":"ingeniør",
+        "name":"en ingeniør",
+        "audio_name":"en_ingenioer",
+        "trans":"n, an engineer",
+        "inflection":"ingeniøren, ingeniører, ingeniørene",
+        "reference":"07A"
+    },
+    {
+        "word":"IT-firma",
+        "name":"et IT-firma",
+        "audio_name":"et_IT-firma",
+        "trans":"n, an IT-firm",
+        "inflection":"IT-firmaet, IT-firmaer, IT-firmaene",
+        "reference":"07A"
+    },
+    {
+        "word":"Kina",
+        "name":"Kina",
+        "audio_name":"Kina",
+        "trans":"n, China",
+        "inflection":null,
+        "reference":"07A"
+    },
+    {
+        "word":"kino",
+        "name":"en kino",
+        "audio_name":"en_kino",
+        "trans":"n, a cinema",
+        "inflection":"kinoen, kinoer, kinoene",
+        "reference":"07B"
+    },
+    {
+        "word":"kjempemorsom",
+        "name":"kjempemorsom",
+        "audio_name":"kjempemorsom",
+        "trans":"a, hilarious",
+        "inflection":"kjempemorsomt, kjempemorsomme",
+        "reference":"07B"
+    },
+    {
+        "word":"kjempesøt",
+        "name":"kjempesøt",
+        "audio_name":"kjempesoet",
+        "trans":"a, very cute, very sweet",
+        "inflection":"kjempesøtt, kjempesøte",
+        "reference":"07A"
+    },
+    {
+        "word":"klasse",
+        "name":"en klasse",
+        "audio_name":"en_klasse",
+        "trans":"n, a class",
+        "inflection":"klassen, klasser, klassene",
+        "reference":"07B"
+    },
+    {
+        "word":"klatre",
+        "name":"å klatre",
+        "audio_name":"aa_klatre",
+        "trans":"v, to climb",
+        "inflection":"klatrer, klatret, har klatret",
+        "reference":"07B"
+    },
+    {
+        "word":"klatregruppe",
+        "name":"ei klatregruppe",
+        "audio_name":"ei_klatregruppe",
+        "trans":"n, a climbing group",
+        "inflection":"klatregruppa, klatregrupper, klatregruppene",
+        "reference":"07B"
+    },
+    {
+        "word":"kone",
+        "name":"ei kone",
+        "audio_name":"ei_kone",
+        "trans":"n, a wife",
+        "inflection":"kona, koner, konene",
+        "reference":"07A"
+    },
+    {
+        "word":"kontakt",
+        "name":"en kontakt",
+        "audio_name":"en_kontakt",
+        "trans":"n, a contact",
+        "inflection":"kontakten, kontakter, kontaktene",
+        "reference":"07A"
+    },
+    {
+        "word":"lekse",
+        "name":"ei lekse",
+        "audio_name":"ei_lekse",
+        "trans":"n, a lesson, homework",
+        "inflection":"leksa, lekser, leksene",
+        "reference":"07A"
+    },
+    {
+        "word":"lenge",
+        "name":"lenge",
+        "audio_name":"lenge",
+        "trans":"d, long",
+        "inflection":"lenger, lengst",
+        "reference":"07A"
+    },
+    {
+        "word":"lillebror",
+        "name":"en lillebror",
+        "audio_name":"en_lillebror",
+        "trans":"n, a little\/baby brother",
+        "inflection":"lillebroren, lillebrødre, lillebrødrene",
+        "reference":"07A"
+    },
+    {
+        "word":"lita (liten)",
+        "name":"lita (liten)",
+        "audio_name":"lita",
+        "trans":"a, little, small",
+        "inflection":null,
+        "reference":"07B"
+    },
+    {
+        "word":"mi (min)",
+        "name":"mi (min)",
+        "audio_name":"mi",
+        "trans":"my, mine",
+        "inflection":"mi, mitt, mine",
+        "reference":"07A"
+    },
+    {
+        "word":"min",
+        "name":"min",
+        "audio_name":"min",
+        "trans":"my, mine",
+        "inflection":"min, mitt, mine",
+        "reference":"07A"
+    },
+    {
+        "word":"mine (min)",
+        "name":"mine (min)",
+        "audio_name":"mine",
+        "trans":"my, mine",
+        "inflection":"min, mitt, mine",
+        "reference":"07A"
+    },
+    {
+        "word":"mitt (min)",
+        "name":"mitt (min)",
+        "audio_name":"mitt",
+        "trans":"my, mine",
+        "inflection":"mitt, mine",
+        "reference":"07B"
+    },
+    {
+        "word":"morfar",
+        "name":"en morfar",
+        "audio_name":"en_morfar",
+        "trans":"n, a (maternal) grandfather",
+        "inflection":"morfaren, morfedre, morfedrene",
+        "reference":"07A"
+    },
+    {
+        "word":"mormor",
+        "name":"ei mormor",
+        "audio_name":"ei_mormor",
+        "trans":"n, a (maternal) grandmother",
+        "inflection":"mormora, mormødre, mormødrene",
+        "reference":"07A"
+    },
+    {
+        "word":"mot",
+        "name":"mot",
+        "audio_name":"mot",
+        "trans":"p, towards, against, also: courage",
+        "inflection":null,
+        "reference":"07B"
+    },
+    {
+        "word":"muntlig",
+        "name":"muntlig",
+        "audio_name":"muntlig",
+        "trans":"a, verbal, oral",
+        "inflection":"muntlig, muntlige",
+        "reference":"07A"
+    },
+    {
+        "word":"nevø",
+        "name":"en nevø",
+        "audio_name":"en_nevoe",
+        "trans":"n, a nephew",
+        "inflection":"nevøen, nevøer, nevøene",
+        "reference":"07A"
+    },
+    {
+        "word":"ofte",
+        "name":"ofte",
+        "audio_name":"ofte",
+        "trans":"d, often",
+        "inflection":null,
+        "reference":"07B"
+    },
+    {
+        "word":"oldemor",
+        "name":"ei oldemor",
+        "audio_name":"ei_oldemor",
+        "trans":"n, a great grandmother",
+        "inflection":"oldemora, oldemødre, oldemødrene",
+        "reference":"07A"
+    },
+    {
+        "word":"onkel",
+        "name":"en onkel",
+        "audio_name":"en_onkel",
+        "trans":"n, an uncle",
+        "inflection":"onkelen, onkler, onklene",
+        "reference":"07A"
+    },
+    {
+        "word":"onkler (en onkel)",
+        "name":"onkler (en onkel)",
+        "audio_name":"onkler",
+        "trans":"n, uncles",
+        "inflection":null,
+        "reference":"07A"
+    },
+    {
+        "word":"ord",
+        "name":"et ord",
+        "audio_name":"et_ord",
+        "trans":"n, a word",
+        "inflection":"ordet, ord, ordene",
+        "reference":"07A"
+    },
+    {
+        "word":"pensjonist",
+        "name":"en pensjonist",
+        "audio_name":"en_pensjonist",
+        "trans":"n, a pensioner",
+        "inflection":"pensjonisten, pensjonister, pensjonistene",
+        "reference":"07A"
+    },
+    {
+        "word":"Romania",
+        "name":"Romania",
+        "audio_name":"Romania",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"07A"
+    },
+    {
+        "word":"rydde",
+        "name":"å rydde",
+        "audio_name":"aa_rydde",
+        "trans":"v, to tidy",
+        "inflection":"rydder, ryddet, har ryddet",
+        "reference":"07B"
+    },
+    {
+        "word":"salsakurs",
+        "name":"et salsakurs",
+        "audio_name":"et_salsakurs",
+        "trans":"n, a salsa course",
+        "inflection":"salsakurset, salsakurs, salsakursene",
+        "reference":"07B"
+    },
+    {
+        "word":"siden",
+        "name":"siden",
+        "audio_name":"siden",
+        "trans":"d, since",
+        "inflection":null,
+        "reference":"07B"
+    },
+    {
+        "word":"siden (for - siden)",
+        "name":"siden (for - siden)",
+        "audio_name":"siden",
+        "trans":"d, (years) ago",
+        "inflection":null,
+        "reference":"07A"
+    },
+    {
+        "word":"slutt (til slutt)",
+        "name":"en slutt (til slutt)",
+        "audio_name":"en_slutt",
+        "trans":"n, an end",
+        "inflection":"slutten, slutter, sluttene",
+        "reference":"07A"
+    },
+    {
+        "word":"snu",
+        "name":"å snu",
+        "audio_name":"aa_snu",
+        "trans":"v, to turn",
+        "inflection":"snur, snudde, har snudd",
+        "reference":"07B"
+    },
+    {
+        "word":"sofa",
+        "name":"en sofa",
+        "audio_name":"en_sofa",
+        "trans":"n, a sofa, couch",
+        "inflection":"sofaen, sofaer, sofaene",
+        "reference":"07B"
+    },
+    {
+        "word":"som",
+        "name":"som",
+        "audio_name":"som",
+        "trans":"who, which, that, what",
+        "inflection":null,
+        "reference":"07A"
+    },
+    {
+        "word":"sport",
+        "name":"en sport",
+        "audio_name":"sport",
+        "trans":"n, a sport",
+        "inflection":"sporten, sporter, sportene",
+        "reference":"07B"
+    },
+    {
+        "word":"Sri Lanka",
+        "name":"Sri Lanka",
+        "audio_name":"Sri_Lanka",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"07B"
+    },
+    {
+        "word":"stefar",
+        "name":"en stefar",
+        "audio_name":"en_stefar",
+        "trans":"n, a stepfather",
+        "inflection":"stefaren, stefedre, stefedrene",
+        "reference":"07A"
+    },
+    {
+        "word":"sønn",
+        "name":"en sønn",
+        "audio_name":"en_soenn",
+        "trans":"n, a son",
+        "inflection":"sønnen, sønner, sønnene",
+        "reference":"07A"
+    },
+    {
+        "word":"søskenbarn",
+        "name":"et søskenbarn",
+        "audio_name":"et_soeskenbarn",
+        "trans":"n, a cousin",
+        "inflection":"søskenbarnet, søskenbarn, søskenbarna",
+        "reference":"07A"
+    },
+    {
+        "word":"så",
+        "name":"så",
+        "audio_name":"saa",
+        "trans":"so, then",
+        "inflection":null,
+        "reference":"01M"
+    },
+    {
+        "word":"så",
+        "name":"så",
+        "audio_name":"saa",
+        "trans":"so, then",
+        "inflection":null,
+        "reference":"07A"
+    },
+    {
+        "word":"tango",
+        "name":"en tango",
+        "audio_name":"en_tango",
+        "trans":"n, a tango",
+        "inflection":"tangoen, tangoer, tangoene",
+        "reference":"07B"
+    },
+    {
+        "word":"tante",
+        "name":"ei tante",
+        "audio_name":"ei_tante",
+        "trans":"n, an aunt",
+        "inflection":"tanta, tanter, tantene",
+        "reference":"07A"
+    },
+    {
+        "word":"tavle",
+        "name":"ei tavle",
+        "audio_name":"ei_tavle",
+        "trans":"n, a blackboard",
+        "inflection":"tavla, tavler, tavlene",
+        "reference":"07B"
+    },
+    {
+        "word":"tema",
+        "name":"et tema",
+        "audio_name":"et_tema",
+        "trans":"n, a subject, topic, theme",
+        "inflection":"temaet, tema, temaene",
+        "reference":"07A"
+    },
+    {
+        "word":"tennis",
+        "name":"tennis",
+        "audio_name":"tennis",
+        "trans":"n, tennis (uncount. noun)",
+        "inflection":"tennisen",
+        "reference":"07B"
+    },
+    {
+        "word":"til slutt",
+        "name":"til slutt",
+        "audio_name":"til_slutt",
+        "trans":"a, finally, in the end, eventually",
+        "inflection":null,
+        "reference":"07A"
+    },
+    {
+        "word":"time",
+        "name":"en time",
+        "audio_name":"en_time",
+        "trans":"n, a lesson, class, session, also: hour",
+        "inflection":"timen, timer, timene",
+        "reference":"02M"
+    },
+    {
+        "word":"time",
+        "name":"en time",
+        "audio_name":"en_time",
+        "trans":"n, a lesson, class, session, also: hour",
+        "inflection":"timen, timer, timene",
+        "reference":"07A"
+    },
+    {
+        "word":"trening",
+        "name":"ei trening",
+        "audio_name":"ei_trening",
+        "trans":"n, a training session, practice session, exercise",
+        "inflection":"treninga, treninger, treningene",
+        "reference":"07A"
+    },
+    {
+        "word":"treningskort",
+        "name":"et treningskort",
+        "audio_name":"et_treningskort",
+        "trans":"n, gym membership card",
+        "inflection":"treningskortet, treningskort, treningskortene",
+        "reference":"07B"
+    },
+    {
+        "word":"TV",
+        "name":"en TV",
+        "audio_name":"en_TV",
+        "trans":"n, a TV",
+        "inflection":"TVen, TVer, TVene",
+        "reference":"07B"
+    },
+    {
+        "word":"TV-serie",
+        "name":"en TV-serie",
+        "audio_name":"en_TV-serie",
+        "trans":"n, a TV series",
+        "inflection":"TV-serien, TV-serier, TV-seriene",
+        "reference":"07B"
+    },
+    {
+        "word":"USA",
+        "name":"USA",
+        "audio_name":"USA",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"07B"
+    },
+    {
+        "word":"vanligvis",
+        "name":"vanligvis",
+        "audio_name":"vanligvis",
+        "trans":"d, usually",
+        "inflection":null,
+        "reference":"07B"
+    },
+    {
+        "word":"vaske",
+        "name":"å vaske",
+        "audio_name":"aa_vaske",
+        "trans":"v, to wash, clean",
+        "inflection":"vasker, vasket, har vasket",
+        "reference":"07B"
+    },
+    {
+        "word":"venninne",
+        "name":"ei venninne",
+        "audio_name":"ei_venninne",
+        "trans":"n, a (female) friend",
+        "inflection":"venninna, venninner, venninnene",
+        "reference":"07B"
+    }
+]

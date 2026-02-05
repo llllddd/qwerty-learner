@@ -1,0 +1,938 @@
+[
+    {
+        "word":"Akershus",
+        "name":"Akershus",
+        "audio_name":"Akershus",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"alt mulig",
+        "name":"alt mulig",
+        "audio_name":"alt_mulig",
+        "trans":"everything",
+        "inflection":null,
+        "reference":"10B"
+    },
+    {
+        "word":"anbefale",
+        "name":"å anbefale",
+        "audio_name":"aa_anbefale",
+        "trans":"v, to recommend",
+        "inflection":"anbefaler, anbefalte, har anbefalt",
+        "reference":"10A"
+    },
+    {
+        "word":"annet (annen)",
+        "name":"annet (annen)",
+        "audio_name":"annet",
+        "trans":"other",
+        "inflection":"annen (m), anna (f), andre (pl)",
+        "reference":"10B"
+    },
+    {
+        "word":"bake",
+        "name":"å bake",
+        "audio_name":"aa_bake",
+        "trans":"v, to bake",
+        "inflection":"baker, bakte, har bakt",
+        "reference":"10B"
+    },
+    {
+        "word":"berømt",
+        "name":"berømt",
+        "audio_name":"beroemt",
+        "trans":"a, famous",
+        "inflection":"berømt, berømte",
+        "reference":"10A"
+    },
+    {
+        "word":"besøke",
+        "name":"å besøke",
+        "audio_name":"aa_besoeke",
+        "trans":"v, to visit",
+        "inflection":"besøker, besøkte, har besøkt",
+        "reference":"10A"
+    },
+    {
+        "word":"burde (å burde)",
+        "name":"burde (å burde)",
+        "audio_name":"burde",
+        "trans":"v, should",
+        "inflection":null,
+        "reference":"10B"
+    },
+    {
+        "word":"dele ut",
+        "name":"å dele ut",
+        "audio_name":"aa_dele_ut",
+        "trans":"v, to distribute, award, deal (cards)",
+        "inflection":"deler ut, delte ut, har delt ut",
+        "reference":"10A"
+    },
+    {
+        "word":"desember",
+        "name":"desember",
+        "audio_name":"desember",
+        "trans":"n, December",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"dessert",
+        "name":"en dessert",
+        "audio_name":"en_dessert",
+        "trans":"n, a dessert",
+        "inflection":"desserten, desserter, dessertene",
+        "reference":"10B"
+    },
+    {
+        "word":"dronning",
+        "name":"en dronning",
+        "audio_name":"en_dronning",
+        "trans":"n, a queen",
+        "inflection":"dronningen, dronninger, dronningene",
+        "reference":"10A"
+    },
+    {
+        "word":"Edvard",
+        "name":"Edvard",
+        "audio_name":"Edvard",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"eldste (gammel)",
+        "name":"eldste (gammel)",
+        "audio_name":"eldste",
+        "trans":"a, oldest, eldest",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"ende",
+        "name":"en ende",
+        "audio_name":"en_ende",
+        "trans":"n, an end",
+        "inflection":"enden, ender, endene",
+        "reference":"10A"
+    },
+    {
+        "word":"ene (en)",
+        "name":"ene (en)",
+        "audio_name":"ene",
+        "trans":"one",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"fantastisk",
+        "name":"fantastisk",
+        "audio_name":"fantastisk",
+        "trans":"a, fantastic",
+        "inflection":"fantastisk, fantastiske",
+        "reference":"10A"
+    },
+    {
+        "word":"feire",
+        "name":"å feire",
+        "audio_name":"aa_feire",
+        "trans":"v, to celebrate",
+        "inflection":"feirer, feiret, har feiret",
+        "reference":"10B"
+    },
+    {
+        "word":"festning",
+        "name":"en festning",
+        "audio_name":"en_festning",
+        "trans":"n, a fortress",
+        "inflection":"festningen, festninger, festningene",
+        "reference":"10A"
+    },
+    {
+        "word":"flagg",
+        "name":"et flagg",
+        "audio_name":"et_flagg",
+        "trans":"n, a flag",
+        "inflection":"flagget, flagg, flaggene",
+        "reference":"10B"
+    },
+    {
+        "word":"flest (mange)",
+        "name":"flest (mange)",
+        "audio_name":"flest",
+        "trans":"a, most",
+        "inflection":null,
+        "reference":"10B"
+    },
+    {
+        "word":"fredag",
+        "name":"en fredag",
+        "audio_name":"en_fredag",
+        "trans":"n, a friday",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"fredspris",
+        "name":"en fredspris",
+        "audio_name":"en_fredspris",
+        "trans":"n, a peace prize",
+        "inflection":"fredsprisen, fredspriser, fredsprisene",
+        "reference":"10A"
+    },
+    {
+        "word":"fri",
+        "name":"fri",
+        "audio_name":"fri",
+        "trans":"a, free",
+        "inflection":"fritt, frie",
+        "reference":"10A"
+    },
+    {
+        "word":"gave",
+        "name":"en gave",
+        "audio_name":"en_gave",
+        "trans":"n, a gift, present",
+        "inflection":"gaven, gaver, gavene",
+        "reference":"10B"
+    },
+    {
+        "word":"glitter",
+        "name":"glitter",
+        "audio_name":"glitter",
+        "trans":"n, tinsel (uncount. noun)",
+        "inflection":"glitteret",
+        "reference":"10B"
+    },
+    {
+        "word":"grøt",
+        "name":"en grøt",
+        "audio_name":"en_groet",
+        "trans":"n, a porridge",
+        "inflection":"grøten, grøter, grøtene",
+        "reference":"10B"
+    },
+    {
+        "word":"gudstjeneste",
+        "name":"en gudstjeneste",
+        "audio_name":"en_gudstjeneste",
+        "trans":"n, a church service",
+        "inflection":"gudstjenesten, gudstjenester, gudstjenestene",
+        "reference":"10B"
+    },
+    {
+        "word":"gå på tur",
+        "name":"å gå på tur",
+        "audio_name":"aa_gaa_paa_tur",
+        "trans":"v, to go for a hike",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"Henrik",
+        "name":"Henrik",
+        "audio_name":"Henrik",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"hovedgate",
+        "name":"ei hovedgate",
+        "audio_name":"ei_hovedgate",
+        "trans":"n, a main street",
+        "inflection":"hovedgata, hovedgater, hovedgatene",
+        "reference":"10A"
+    },
+    {
+        "word":"hovedstad",
+        "name":"en hovedstad",
+        "audio_name":"en_hovedstad",
+        "trans":"n, a capital",
+        "inflection":"hovedstaden, hovedstader, hovedstadene",
+        "reference":"10A"
+    },
+    {
+        "word":"hvit",
+        "name":"hvit",
+        "audio_name":"hvit",
+        "trans":"a, white",
+        "inflection":"hvitt, hvite",
+        "reference":"10B"
+    },
+    {
+        "word":"høstferie",
+        "name":"en høstferie",
+        "audio_name":"en_hoestferie",
+        "trans":"n, an autumn vacation",
+        "inflection":"høstferien, høstferier, høstferiene",
+        "reference":"10A"
+    },
+    {
+        "word":"i gamle dager",
+        "name":"i gamle dager",
+        "audio_name":"i_gamle_dager",
+        "trans":"d, in the old days",
+        "inflection":null,
+        "reference":"10B"
+    },
+    {
+        "word":"Ibsen",
+        "name":"Ibsen",
+        "audio_name":"Ibsen",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"insistere",
+        "name":"å insistere",
+        "audio_name":"aa_insistere",
+        "trans":"v, to insist",
+        "inflection":"insisterer, insisterte, har insistert",
+        "reference":"10B"
+    },
+    {
+        "word":"jul",
+        "name":"ei jul",
+        "audio_name":"ei_jul",
+        "trans":"n, a Christmas",
+        "inflection":"jula, juler, julene",
+        "reference":"10B"
+    },
+    {
+        "word":"julaften",
+        "name":"en julaften",
+        "audio_name":"en_julaften",
+        "trans":"n, a Christmas Eve",
+        "inflection":"julaftenen, julaftener, julaftenene",
+        "reference":"10B"
+    },
+    {
+        "word":"julebord",
+        "name":"et julebord",
+        "audio_name":"et_julebord",
+        "trans":"n, a Christmas dinner, Christmas party",
+        "inflection":"julebordet, julebord, julebordene",
+        "reference":"10B"
+    },
+    {
+        "word":"julegave",
+        "name":"en julegave",
+        "audio_name":"en_julegave",
+        "trans":"n, a Christmas gift",
+        "inflection":"julegaven, julegaver, julegavene",
+        "reference":"10B"
+    },
+    {
+        "word":"julekule",
+        "name":"ei julekule",
+        "audio_name":"ei_julekule",
+        "trans":"n, a Christmas ball",
+        "inflection":"julekula, julekuler, julekulene",
+        "reference":"10B"
+    },
+    {
+        "word":"julekveld",
+        "name":"en julekveld",
+        "audio_name":"en_julekveld",
+        "trans":"n, a Christmas Eve",
+        "inflection":"julekvelden, julekvelder, julekveldene",
+        "reference":"10B"
+    },
+    {
+        "word":"julemiddag",
+        "name":"en julemiddag",
+        "audio_name":"en_julemiddag",
+        "trans":"n, a Christmas dinner",
+        "inflection":"julemiddagen, julemiddager, julemiddagene",
+        "reference":"10B"
+    },
+    {
+        "word":"julestemning",
+        "name":"en julestemning",
+        "audio_name":"en_julestemning",
+        "trans":"n, a Christmas spirit",
+        "inflection":"julestemningen, julestemninger, julestemningene",
+        "reference":"10B"
+    },
+    {
+        "word":"juletradisjon",
+        "name":"en juletradisjon",
+        "audio_name":"en_juletradisjon",
+        "trans":"n, a Christmas tradition",
+        "inflection":"juletradisjonen, juletradisjoner, juletradisjonene",
+        "reference":"10B"
+    },
+    {
+        "word":"juletre",
+        "name":"et juletre",
+        "audio_name":"et_juletre",
+        "trans":"n, a Christmas tree",
+        "inflection":"juletreet, juletrær, juletrærne",
+        "reference":"10B"
+    },
+    {
+        "word":"Karl Johans gate",
+        "name":"Karl Johans gate",
+        "audio_name":"Karl_Johans_gate",
+        "trans":"n, Karl Johan's street (in Oslo)",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"kjenne",
+        "name":"å kjenne",
+        "audio_name":"aa_kjenne",
+        "trans":"v, to feel, know ",
+        "inflection":"kjenner, kjente, har kjent",
+        "reference":"10B"
+    },
+    {
+        "word":"kjenne igjen",
+        "name":"å kjenne igjen",
+        "audio_name":"aa_kjenne_igjen",
+        "trans":"v, to recognize",
+        "inflection":null,
+        "reference":"10B"
+    },
+    {
+        "word":"kjent",
+        "name":"kjent",
+        "audio_name":"kjent",
+        "trans":"a, well-known, famous",
+        "inflection":"kjent, kjente",
+        "reference":"10A"
+    },
+    {
+        "word":"kollega",
+        "name":"en kollega",
+        "audio_name":"en_kollega",
+        "trans":"n, a colleague",
+        "inflection":"kollegaen, kollegaer, kollegaene",
+        "reference":"10B"
+    },
+    {
+        "word":"lagd (å lage)",
+        "name":"lagd (å lage)",
+        "audio_name":"lagd",
+        "trans":"v, made",
+        "inflection":null,
+        "reference":"10B"
+    },
+    {
+        "word":"laks",
+        "name":"en laks",
+        "audio_name":"en_laks",
+        "trans":"n, a salmon",
+        "inflection":"laksen, lakser, laksene",
+        "reference":"10B"
+    },
+    {
+        "word":"lure",
+        "name":"å lure",
+        "audio_name":"aa_lure",
+        "trans":"v, to wonder",
+        "inflection":"lurer, lurte, har lurt",
+        "reference":"10B"
+    },
+    {
+        "word":"lutefisk",
+        "name":"lutefisk",
+        "audio_name":"lutefisk",
+        "trans":"n, «lie fish» (lut = lie\/sodium hydroxide)",
+        "inflection":"lutefisken",
+        "reference":"10B"
+    },
+    {
+        "word":"male",
+        "name":"å male",
+        "audio_name":"aa_male",
+        "trans":"v, to paint",
+        "inflection":"maler, malte, har malt",
+        "reference":"10A"
+    },
+    {
+        "word":"maler",
+        "name":"en maler",
+        "audio_name":"en_maler",
+        "trans":"n, a painter",
+        "inflection":"maleren, malere, malerne",
+        "reference":"10A"
+    },
+    {
+        "word":"man",
+        "name":"man",
+        "audio_name":"man",
+        "trans":"one, you",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"mer (mye)",
+        "name":"mer (mye)",
+        "audio_name":"mer",
+        "trans":"a, more",
+        "inflection":null,
+        "reference":"10B"
+    },
+    {
+        "word":"merkelig",
+        "name":"merkelig",
+        "audio_name":"merkelig",
+        "trans":"a, strange, odd",
+        "inflection":"merkelig, merkelige",
+        "reference":"10B"
+    },
+    {
+        "word":"midnatt",
+        "name":"midnatt",
+        "audio_name":"midnatt",
+        "trans":"n, midnight",
+        "inflection":null,
+        "reference":"10B"
+    },
+    {
+        "word":"midt i",
+        "name":"midt i",
+        "audio_name":"midt_i",
+        "trans":"in the middle of",
+        "inflection":null,
+        "reference":"10B"
+    },
+    {
+        "word":"mulig",
+        "name":"mulig",
+        "audio_name":"mulig",
+        "trans":"a, possible",
+        "inflection":"mulig, mulige",
+        "reference":"10B"
+    },
+    {
+        "word":"Munch",
+        "name":"Munch",
+        "audio_name":"Munch",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"Munch-museet",
+        "name":"Munch-museet",
+        "audio_name":"Munchmuseet",
+        "trans":"n, the Munch Museum",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"museer (museum)",
+        "name":"museer (museum)",
+        "audio_name":"museer",
+        "trans":"n, museums",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"museum",
+        "name":"et museum",
+        "audio_name":"et_museum",
+        "trans":"n, a museum",
+        "inflection":"museet, museer, museene",
+        "reference":"10A"
+    },
+    {
+        "word":"nasjonalforsamling",
+        "name":"en nasjonalforsamling",
+        "audio_name":"en_nasjonalforsamling",
+        "trans":"n, a national assembly",
+        "inflection":"nasjonalforsamlingen. Nasjonalforsamlinger, nasjonalforsamlingene",
+        "reference":"10A"
+    },
+    {
+        "word":"Nobel",
+        "name":"Nobel",
+        "audio_name":"Nobel",
+        "trans":"n, proper name",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"Nobels Fredssenter",
+        "name":"Nobels Fredssenter",
+        "audio_name":"Nobels_fredssenter",
+        "trans":"n, Nobel Peace Center",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"Operahuset",
+        "name":"Operahuset",
+        "audio_name":"Operahuset",
+        "trans":"n, the Opera House",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"Oslofjorden",
+        "name":"Oslofjorden",
+        "audio_name":"Oslofjorden",
+        "trans":"n, the Oslo fjord",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"park",
+        "name":"en park",
+        "audio_name":"en_park",
+        "trans":"n, a park",
+        "inflection":"parken, parker, parkene",
+        "reference":"10A"
+    },
+    {
+        "word":"parlament",
+        "name":"et parlament",
+        "audio_name":"et_parlament",
+        "trans":"n, a parliament",
+        "inflection":"parlamentet, parlamenter, parlamentene",
+        "reference":"10A"
+    },
+    {
+        "word":"pinnekjøtt",
+        "name":"pinnekjøtt",
+        "audio_name":"pinnekjoett",
+        "trans":"n, mutton ribs (uncount. noun)",
+        "inflection":"pinnekjøttet",
+        "reference":"10B"
+    },
+    {
+        "word":"plutselig",
+        "name":"plutselig",
+        "audio_name":"plutselig",
+        "trans":"a, suddenly",
+        "inflection":null,
+        "reference":"10B"
+    },
+    {
+        "word":"prate",
+        "name":"å prate",
+        "audio_name":"aa_prate",
+        "trans":"v, to talk",
+        "inflection":"prater, pratet, har pratet",
+        "reference":"10B"
+    },
+    {
+        "word":"prest",
+        "name":"en prest",
+        "audio_name":"en_prest",
+        "trans":"n, a vicar, clergyman",
+        "inflection":"presten, prester, prestene",
+        "reference":"10B"
+    },
+    {
+        "word":"pyntet",
+        "name":"pyntet",
+        "audio_name":"pyntet",
+        "trans":"v, decorated",
+        "inflection":"pyntet, pyntete",
+        "reference":"10B"
+    },
+    {
+        "word":"rest",
+        "name":"en rest",
+        "audio_name":"en_rest",
+        "trans":"n, a remainder, remnant, rest",
+        "inflection":"resten, rester, restene",
+        "reference":"10A"
+    },
+    {
+        "word":"rett",
+        "name":"en rett",
+        "audio_name":"rett",
+        "trans":"n, a dish",
+        "inflection":"retten, retter, rettene",
+        "reference":"02P"
+    },
+    {
+        "word":"rett",
+        "name":"en rett",
+        "audio_name":"en_rett",
+        "trans":"n, a dish",
+        "inflection":"retten, retter, rettene",
+        "reference":"10B"
+    },
+    {
+        "word":"ribbe",
+        "name":"ei ribbe",
+        "audio_name":"ei_ribbe",
+        "trans":"n, a rib (pork ribs)",
+        "inflection":"ribba, ribber, ribbene",
+        "reference":"10B"
+    },
+    {
+        "word":"riktig",
+        "name":"riktig",
+        "audio_name":"riktig",
+        "trans":"a, correct, right",
+        "inflection":"riktig, riktige",
+        "reference":"10A"
+    },
+    {
+        "word":"riskrem",
+        "name":"riskrem",
+        "audio_name":"riskrem",
+        "trans":"n, creamed rice pudding (uncount. noun)",
+        "inflection":"riskremen",
+        "reference":"10B"
+    },
+    {
+        "word":"rådhus",
+        "name":"et rådhus",
+        "audio_name":"et_raadhus",
+        "trans":"n, a city hall",
+        "inflection":"rådhuset, rådhus, rådhusene",
+        "reference":"10A"
+    },
+    {
+        "word":"sang",
+        "name":"en sang",
+        "audio_name":"en_sang",
+        "trans":"n, a song",
+        "inflection":"sangen, sanger, sangene",
+        "reference":"10B"
+    },
+    {
+        "word":"saus",
+        "name":"en saus",
+        "audio_name":"en_saus",
+        "trans":"n, a sauce, gravy",
+        "inflection":"sausen, sauser, sausene",
+        "reference":"10B"
+    },
+    {
+        "word":"seg selv",
+        "name":"seg selv",
+        "audio_name":"seg_selv",
+        "trans":"oneself",
+        "inflection":null,
+        "reference":"10B"
+    },
+    {
+        "word":"selv",
+        "name":"selv",
+        "audio_name":"selv",
+        "trans":"self",
+        "inflection":null,
+        "reference":"10B"
+    },
+    {
+        "word":"shopping",
+        "name":"shopping",
+        "audio_name":"shopping",
+        "trans":"n, shopping (uncount. noun)",
+        "inflection":"shoppingen",
+        "reference":"10A"
+    },
+    {
+        "word":"sikkert",
+        "name":"sikkert",
+        "audio_name":"sikkert",
+        "trans":"d, here: probably. Also: certainly",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"sju",
+        "name":"sju",
+        "audio_name":"sju",
+        "trans":"seven",
+        "inflection":null,
+        "reference":"10B"
+    },
+    {
+        "word":"skrik",
+        "name":"et skrik",
+        "audio_name":"et_skrik",
+        "trans":"n, a scream",
+        "inflection":"skriket, skrik, skrikene",
+        "reference":"10A"
+    },
+    {
+        "word":"slott",
+        "name":"et slott",
+        "audio_name":"et_slott",
+        "trans":"n, a castle, palace",
+        "inflection":"slottet, slott, slottene",
+        "reference":"10A"
+    },
+    {
+        "word":"småkake",
+        "name":"en småkake",
+        "audio_name":"en_smaakake",
+        "trans":"n, a cookie",
+        "inflection":"småkaken, småkaker, småkakene",
+        "reference":"10B"
+    },
+    {
+        "word":"sort",
+        "name":"en sort",
+        "audio_name":"en_sort",
+        "trans":"n, a sort, kind",
+        "inflection":"sorten, sorter, sortene",
+        "reference":"10B"
+    },
+    {
+        "word":"stemning",
+        "name":"en stemning",
+        "audio_name":"en_stemning",
+        "trans":"n, an atmosphere, mood",
+        "inflection":"stemningen, stemninger, stemningene",
+        "reference":"10B"
+    },
+    {
+        "word":"Stortinget",
+        "name":"Stortinget",
+        "audio_name":"Stortinget",
+        "trans":"n, Stortinget, Norwegian National Assembly",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"svineribbe",
+        "name":"ei svineribbe",
+        "audio_name":"ei_svineribbe",
+        "trans":"n, a breast of pork, ribs",
+        "inflection":"svineribba, svineribber, svineribbene",
+        "reference":"10B"
+    },
+    {
+        "word":"søndag",
+        "name":"en søndag",
+        "audio_name":"en_soendag",
+        "trans":"n, a Sunday",
+        "inflection":"søndagen, søndager, søndagene",
+        "reference":"10A"
+    },
+    {
+        "word":"teater",
+        "name":"et teater",
+        "audio_name":"et_teater",
+        "trans":"n, a theatre",
+        "inflection":"teateret, teatre, teatrene",
+        "reference":"10A"
+    },
+    {
+        "word":"telefonsamtale",
+        "name":"en telefonsamtale",
+        "audio_name":"en_telefonsamtale",
+        "trans":"n, a telephone conversation",
+        "inflection":"telefonsamtalen, telefonsamtaler, telefonsamtalene",
+        "reference":"10B"
+    },
+    {
+        "word":"telle",
+        "name":"å telle",
+        "audio_name":"aa_telle",
+        "trans":"v, to count",
+        "inflection":"teller, telte, har telt",
+        "reference":"10B"
+    },
+    {
+        "word":"torsk",
+        "name":"en torsk",
+        "audio_name":"en_torsk",
+        "trans":"n, a cod ",
+        "inflection":"torsken, torsker, torskene",
+        "reference":"10B"
+    },
+    {
+        "word":"tre",
+        "name":"et tre",
+        "audio_name":"tre",
+        "trans":"n, a tree",
+        "inflection":"treet, trær, trærne",
+        "reference":"02A"
+    },
+    {
+        "word":"tre",
+        "name":"et tre",
+        "audio_name":"et_tre",
+        "trans":"n, a tree",
+        "inflection":"treet, trær, trærne",
+        "reference":"10B"
+    },
+    {
+        "word":"utsikt",
+        "name":"en utsikt",
+        "audio_name":"en_utsikt",
+        "trans":"n, a view",
+        "inflection":"utsikten, utsikter, utsiktene",
+        "reference":"10A"
+    },
+    {
+        "word":"utstilling",
+        "name":"en utstilling",
+        "audio_name":"en_utstilling",
+        "trans":"n, an exhibition",
+        "inflection":"utstillingen, utstillinger, utstillingene",
+        "reference":"10A"
+    },
+    {
+        "word":"vanlig",
+        "name":"vanlig",
+        "audio_name":"vanlig",
+        "trans":"a, usual, customary",
+        "inflection":"vanlig, vanlige",
+        "reference":"10B"
+    },
+    {
+        "word":"verken - eller",
+        "name":"verken - eller",
+        "audio_name":"verken_eller",
+        "trans":"neither - nor",
+        "inflection":null,
+        "reference":"10B"
+    },
+    {
+        "word":"Vigelandsparken",
+        "name":"Vigelandsparken",
+        "audio_name":"Vigelandsparken",
+        "trans":"n, the Vigeland Park",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"vikingskip",
+        "name":"et vikingskip",
+        "audio_name":"et_vikingskip",
+        "trans":"n, a Viking ship",
+        "inflection":"vikingskipet, vikingskip, vikingskipene",
+        "reference":"10A"
+    },
+    {
+        "word":"Vikingskipshuset",
+        "name":"Vikingskipshuset",
+        "audio_name":"Vikingskipshuset",
+        "trans":"n, the Viking Ship Museum",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"Østlandet",
+        "name":"Østlandet",
+        "audio_name":"Oestlandet",
+        "trans":"n, Eastern Norway",
+        "inflection":null,
+        "reference":"10A"
+    },
+    {
+        "word":"åpne",
+        "name":"å åpne",
+        "audio_name":"aa_aapne",
+        "trans":"v, to open",
+        "inflection":"åpner, åpnet, har åpnet",
+        "reference":"10B"
+    }
+]

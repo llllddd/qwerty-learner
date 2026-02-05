@@ -1,0 +1,858 @@
+[
+    {
+        "word":"ansikt",
+        "name":"et ansikt",
+        "audio_name":"et_ansikt",
+        "trans":"n, face",
+        "inflection":"ansiktet, ansikter, ansiktene",
+        "reference":"05M"
+    },
+    {
+        "word":"bestefar",
+        "name":"en bestefar",
+        "audio_name":"en_bestefar",
+        "trans":"n, a grandfather",
+        "inflection":"bestefaren, bestefedre, bestefedrene",
+        "reference":"05M"
+    },
+    {
+        "word":"bestille",
+        "name":"å bestille",
+        "audio_name":"aa_bestille",
+        "trans":"v, to order",
+        "inflection":"bestiller, bestilte, har bestilt",
+        "reference":"05M"
+    },
+    {
+        "word":"besøk",
+        "name":"et besøk",
+        "audio_name":"et_besoek",
+        "trans":"n, a visit",
+        "inflection":"besøket, besøk, besøkene",
+        "reference":"05P"
+    },
+    {
+        "word":"ble (å bli)",
+        "name":"ble (å bli)",
+        "audio_name":"ble",
+        "trans":"v, became",
+        "inflection":null,
+        "reference":"05P"
+    },
+    {
+        "word":"brant (å brenne)",
+        "name":"brant (å brenne)",
+        "audio_name":"brant",
+        "trans":"v, burnt (to burn)",
+        "inflection":null,
+        "reference":"05P"
+    },
+    {
+        "word":"brenne",
+        "name":"å brenne",
+        "audio_name":"aa_brenne",
+        "trans":"v, to burn",
+        "inflection":"brenner, brant, har brent",
+        "reference":"05P"
+    },
+    {
+        "word":"brosjyre",
+        "name":"en brosjyre",
+        "audio_name":"en_brosjyre",
+        "trans":"n, a folder, brochure",
+        "inflection":"brosjyren, brosjyrer, brosjyrene",
+        "reference":"05A"
+    },
+    {
+        "word":"bygde (å bygge)",
+        "name":"bygde (å bygge)",
+        "audio_name":"bygde",
+        "trans":"v, built (to build)",
+        "inflection":null,
+        "reference":"05P"
+    },
+    {
+        "word":"bygge",
+        "name":"å bygge",
+        "audio_name":"aa_bygge",
+        "trans":"v, to build",
+        "inflection":"bygger, bygde, har bygd",
+        "reference":"05P"
+    },
+    {
+        "word":"bytur",
+        "name":"en bytur",
+        "audio_name":"en_bytur",
+        "trans":"n, a trip to town",
+        "inflection":"byturen, byturer, byturene",
+        "reference":"05K"
+    },
+    {
+        "word":"ca",
+        "name":"ca",
+        "audio_name":"ca",
+        "trans":"d, ca",
+        "inflection":null,
+        "reference":"05P"
+    },
+    {
+        "word":"CD",
+        "name":"en CD",
+        "audio_name":"en_CD",
+        "trans":"n, a CD",
+        "inflection":"CD-en, CD-er, CD-ene",
+        "reference":"05K"
+    },
+    {
+        "word":"drakk (å drikke)",
+        "name":"drakk (å drikke)",
+        "audio_name":"drakk",
+        "trans":"v, drank",
+        "inflection":null,
+        "reference":"05K"
+    },
+    {
+        "word":"dro (å dra)",
+        "name":"dro (å dra)",
+        "audio_name":"dro",
+        "trans":"v, left (to leave)",
+        "inflection":null,
+        "reference":"05A"
+    },
+    {
+        "word":"dø",
+        "name":"å dø",
+        "audio_name":"aa_doe",
+        "trans":"v, to die",
+        "inflection":"dør, døde, har dødd",
+        "reference":"05P"
+    },
+    {
+        "word":"døde (å dø)",
+        "name":"døde (å dø)",
+        "audio_name":"doede",
+        "trans":"v, died",
+        "inflection":null,
+        "reference":"05P"
+    },
+    {
+        "word":"etter",
+        "name":"etter",
+        "audio_name":"etter",
+        "trans":"p, after",
+        "inflection":null,
+        "reference":"05K"
+    },
+    {
+        "word":"fant (å finne)",
+        "name":"fant (å finne)",
+        "audio_name":"fant",
+        "trans":"v, found",
+        "inflection":null,
+        "reference":"05K"
+    },
+    {
+        "word":"farge",
+        "name":"en farge",
+        "audio_name":"en_farge",
+        "trans":"n, a colour",
+        "inflection":"fargen, farger, fargene",
+        "reference":"05M"
+    },
+    {
+        "word":"fattig",
+        "name":"fattig",
+        "audio_name":"fattig",
+        "trans":"a, poor",
+        "inflection":"fattig, fattige",
+        "reference":"05M"
+    },
+    {
+        "word":"finne fram",
+        "name":"å finne fram",
+        "audio_name":"aa_finne_fram",
+        "trans":"v, to find one's way",
+        "inflection":null,
+        "reference":"05K"
+    },
+    {
+        "word":"fiskemarked",
+        "name":"et fiskemarked",
+        "audio_name":"et_fiskemarked",
+        "trans":"n, a fish market",
+        "inflection":"fiskemarkedet, fiskemarkeder, fiskemarkedene",
+        "reference":"05A"
+    },
+    {
+        "word":"foran",
+        "name":"foran",
+        "audio_name":"foran",
+        "trans":"p, in front of",
+        "inflection":null,
+        "reference":"05A"
+    },
+    {
+        "word":"forrige",
+        "name":"forrige",
+        "audio_name":"forrige",
+        "trans":"previous",
+        "inflection":null,
+        "reference":"05A"
+    },
+    {
+        "word":"forskjellig",
+        "name":"forskjellig",
+        "audio_name":"forskjellig",
+        "trans":"a, different, various",
+        "inflection":"forskjellig, forskjellige",
+        "reference":"05M"
+    },
+    {
+        "word":"få",
+        "name":"få",
+        "audio_name":"aa_faa",
+        "trans":"a, few",
+        "inflection":null,
+        "reference":"02M"
+    },
+    {
+        "word":"få",
+        "name":"få",
+        "audio_name":"faa",
+        "trans":"a, few",
+        "inflection":null,
+        "reference":"05M"
+    },
+    {
+        "word":"Gamle bybro",
+        "name":"Gamle bybro",
+        "audio_name":"Gamle_bybro",
+        "trans":"n, Old Town Bridge",
+        "inflection":null,
+        "reference":"05A"
+    },
+    {
+        "word":"gang",
+        "name":"en gang",
+        "audio_name":"en_gang",
+        "trans":"n, a time",
+        "inflection":"gangen, ganger, gangene",
+        "reference":"05P"
+    },
+    {
+        "word":"gate",
+        "name":"ei gate",
+        "audio_name":"ei_gate",
+        "trans":"n, a street",
+        "inflection":"gata, gater, gatene",
+        "reference":"05A"
+    },
+    {
+        "word":"gikk (å gå)",
+        "name":"gikk (å gå)",
+        "audio_name":"gikk",
+        "trans":"v, walked, went",
+        "inflection":null,
+        "reference":"05K"
+    },
+    {
+        "word":"glad",
+        "name":"glad",
+        "audio_name":"glad",
+        "trans":"a, happy, glad",
+        "inflection":"glad, glade",
+        "reference":"05M"
+    },
+    {
+        "word":"glemme",
+        "name":"å glemme",
+        "audio_name":"aa_glemme",
+        "trans":"v, to forget",
+        "inflection":"glemmer, glemte, har glemt",
+        "reference":"05M"
+    },
+    {
+        "word":"grav",
+        "name":"en grav",
+        "audio_name":"en_grav",
+        "trans":"n, a grave",
+        "inflection":"graven, graver, gravene",
+        "reference":"05P"
+    },
+    {
+        "word":"greide",
+        "name":"greide",
+        "audio_name":"greide",
+        "trans":"v, managed (to manage)",
+        "inflection":null,
+        "reference":"05A"
+    },
+    {
+        "word":"greie",
+        "name":"å greie",
+        "audio_name":"aa_greie",
+        "trans":"v, to manage",
+        "inflection":"greier, greide, har greid",
+        "reference":"05A"
+    },
+    {
+        "word":"guide",
+        "name":"en guide",
+        "audio_name":"en_guide",
+        "trans":"n, a guide",
+        "inflection":"guiden, guider, guidene",
+        "reference":"05P"
+    },
+    {
+        "word":"gågate",
+        "name":"ei gågate",
+        "audio_name":"ei_gaagate",
+        "trans":"n, a pedestrian area",
+        "inflection":"gågata, gågater, gågatene",
+        "reference":"05A"
+    },
+    {
+        "word":"hadde (å ha)",
+        "name":"hadde (å ha)",
+        "audio_name":"hadde",
+        "trans":"v, had",
+        "inflection":null,
+        "reference":"05A"
+    },
+    {
+        "word":"hel",
+        "name":"hel",
+        "audio_name":"hel",
+        "trans":"a, whole",
+        "inflection":"helt, hele",
+        "reference":"05M"
+    },
+    {
+        "word":"hemmelig",
+        "name":"hemmelig",
+        "audio_name":"hemmelig",
+        "trans":"a, secret",
+        "inflection":"hemmelig, hemmelige",
+        "reference":"05M"
+    },
+    {
+        "word":"hilsen Maria",
+        "name":"hilsen Maria",
+        "audio_name":"hilsen_Maria",
+        "trans":"love from Maria, regards Maria",
+        "inflection":null,
+        "reference":"05M"
+    },
+    {
+        "word":"historie",
+        "name":"en historie",
+        "audio_name":"en_historie",
+        "trans":"n, a history, story",
+        "inflection":"historien, historier, historiene",
+        "reference":"05A"
+    },
+    {
+        "word":"hjalp (å hjelpe)",
+        "name":"hjalp (å hjelpe)",
+        "audio_name":"hjalp",
+        "trans":"v, helped",
+        "inflection":null,
+        "reference":"05A"
+    },
+    {
+        "word":"holde",
+        "name":"å holde",
+        "audio_name":"aa_holde",
+        "trans":"v, to hold, keep",
+        "inflection":"holder, holdt, har holdt",
+        "reference":"05M"
+    },
+    {
+        "word":"hverandre",
+        "name":"hverandre",
+        "audio_name":"hverandre",
+        "trans":"each other",
+        "inflection":null,
+        "reference":"05M"
+    },
+    {
+        "word":"i går",
+        "name":"i går",
+        "audio_name":"i_gaar",
+        "trans":"d, yesterday",
+        "inflection":null,
+        "reference":"05M"
+    },
+    {
+        "word":"i nærheten av",
+        "name":"i nærheten av",
+        "audio_name":"i_naerheten_av",
+        "trans":"near, close to",
+        "inflection":null,
+        "reference":"05M"
+    },
+    {
+        "word":"igjen",
+        "name":"igjen",
+        "audio_name":"igjen",
+        "trans":"d, again",
+        "inflection":null,
+        "reference":"05P"
+    },
+    {
+        "word":"katedral",
+        "name":"en katedral",
+        "audio_name":"en_katedral",
+        "trans":"n, a cathedral",
+        "inflection":"katedralen, katedraler, katedralene",
+        "reference":"05P"
+    },
+    {
+        "word":"kirke",
+        "name":"ei kirke",
+        "audio_name":"ei_kirke",
+        "trans":"n, a church",
+        "inflection":"kirka, kirker, kirkene",
+        "reference":"05P"
+    },
+    {
+        "word":"kjempegod",
+        "name":"kjempegod",
+        "audio_name":"kjempegod",
+        "trans":"a, very good",
+        "inflection":"kjempegodt, kjempegode",
+        "reference":"05M"
+    },
+    {
+        "word":"kjær",
+        "name":"kjær",
+        "audio_name":"kjaer",
+        "trans":"a, dear",
+        "inflection":"kjært, kjære",
+        "reference":"05M"
+    },
+    {
+        "word":"Kong",
+        "name":"Kong",
+        "audio_name":"Kong",
+        "trans":"n, King (as title)",
+        "inflection":null,
+        "reference":"05P"
+    },
+    {
+        "word":"konge",
+        "name":"en konge",
+        "audio_name":"en_konge",
+        "trans":"n, a king",
+        "inflection":"kongen, konger, kongene",
+        "reference":"05P"
+    },
+    {
+        "word":"lås",
+        "name":"en lås",
+        "audio_name":"en_laas",
+        "trans":"n, a lock",
+        "inflection":"låsen, låser, låsene",
+        "reference":"05M"
+    },
+    {
+        "word":"låse",
+        "name":"å låse",
+        "audio_name":"aa_laase",
+        "trans":"v, to lock",
+        "inflection":"låser, låste, har låst",
+        "reference":"05M"
+    },
+    {
+        "word":"mamma",
+        "name":"en mamma",
+        "audio_name":"en_mamma",
+        "trans":"n, a mummy",
+        "inflection":"mammaen, mammaer, mammaene",
+        "reference":"05M"
+    },
+    {
+        "word":"mann",
+        "name":"en mann",
+        "audio_name":"en_mann",
+        "trans":"n, a man",
+        "inflection":"mannen, menn, mennene",
+        "reference":"05K"
+    },
+    {
+        "word":"mellom",
+        "name":"mellom",
+        "audio_name":"mellom",
+        "trans":"p, between",
+        "inflection":null,
+        "reference":"05P"
+    },
+    {
+        "word":"menneske",
+        "name":"et menneske",
+        "audio_name":"et_menneske",
+        "trans":"n, a person, human being",
+        "inflection":"mennesket, mennesker, menneskene",
+        "reference":"05M"
+    },
+    {
+        "word":"mett",
+        "name":"mett",
+        "audio_name":"mett",
+        "trans":"a, full",
+        "inflection":"mett, mette",
+        "reference":"05P"
+    },
+    {
+        "word":"mobil",
+        "name":"en mobil",
+        "audio_name":"en_mobil",
+        "trans":"n, a cell phone",
+        "inflection":"mobilen, mobiler, mobilene",
+        "reference":"05K"
+    },
+    {
+        "word":"muffins",
+        "name":"en muffins",
+        "audio_name":"en_muffins",
+        "trans":"n, a muffin",
+        "inflection":"muffinsen, muffinser, muffinsene",
+        "reference":"05K"
+    },
+    {
+        "word":"møtte (å møte)",
+        "name":"møtte (å møte)",
+        "audio_name":"moette",
+        "trans":"v, met",
+        "inflection":null,
+        "reference":"05A"
+    },
+    {
+        "word":"nabo",
+        "name":"en nabo",
+        "audio_name":"en_nabo",
+        "trans":"n, a neighbour",
+        "inflection":"naboen, naboer, naboene",
+        "reference":"05M"
+    },
+    {
+        "word":"Nidarosdomen",
+        "name":"Nidarosdomen",
+        "audio_name":"Nidarosdomen",
+        "trans":"n, the Nidaros Cathedral",
+        "inflection":null,
+        "reference":"05A"
+    },
+    {
+        "word":"område",
+        "name":"et område",
+        "audio_name":"et_omraade",
+        "trans":"n, an area",
+        "inflection":"området, områder, områdene",
+        "reference":"05M"
+    },
+    {
+        "word":"oppskrift",
+        "name":"ei oppskrift",
+        "audio_name":"ei_oppskrift",
+        "trans":"n, a recipe",
+        "inflection":"oppskrifta, oppskrifter, oppskriftene",
+        "reference":"05M"
+    },
+    {
+        "word":"pappa",
+        "name":"en pappa",
+        "audio_name":"en_pappa",
+        "trans":"n, a daddy",
+        "inflection":"pappaen, pappaer, pappaene",
+        "reference":"05M"
+    },
+    {
+        "word":"passe på",
+        "name":"å passe på",
+        "audio_name":"aa_passe_paa",
+        "trans":"v, to take care of, look after",
+        "inflection":"passer på, passet på, har passet på",
+        "reference":"05M"
+    },
+    {
+        "word":"rar",
+        "name":"rar",
+        "audio_name":"rar",
+        "trans":"a, strange, odd",
+        "inflection":"rart, rare",
+        "reference":"05M"
+    },
+    {
+        "word":"rundt",
+        "name":"rundt",
+        "audio_name":"rundt",
+        "trans":"p, round, about",
+        "inflection":null,
+        "reference":"05P"
+    },
+    {
+        "word":"satt (å sitte)",
+        "name":"satt (å sitte)",
+        "audio_name":"satt",
+        "trans":"v, sat",
+        "inflection":null,
+        "reference":"05M"
+    },
+    {
+        "word":"se ut",
+        "name":"å se ut",
+        "audio_name":"aa_se_ut",
+        "trans":"v, to look, appear",
+        "inflection":"ser ut, så ut, har sett ut",
+        "reference":"05P"
+    },
+    {
+        "word":"servitør",
+        "name":"en servitør",
+        "audio_name":"en_servitoer",
+        "trans":"n, a waiter",
+        "inflection":"servitøren, servitører, servitørene",
+        "reference":"05M"
+    },
+    {
+        "word":"sitte",
+        "name":"å sitte",
+        "audio_name":"aa_sitte",
+        "trans":"v, to sit",
+        "inflection":"sitter, satt, har sittet",
+        "reference":"05M"
+    },
+    {
+        "word":"sjokoladekake",
+        "name":"ei sjokoladekake",
+        "audio_name":"ei_sjokoladekake",
+        "trans":"n, a chocolate cake",
+        "inflection":"sjokoladekaka, sjokoladekaker, sjokoladekakene",
+        "reference":"05M"
+    },
+    {
+        "word":"skulptur",
+        "name":"en skulptur",
+        "audio_name":"en_skulptur",
+        "trans":"n, a sculpture",
+        "inflection":"skulpturen, skulpturer, skulpturene",
+        "reference":"05P"
+    },
+    {
+        "word":"snakket (å snakke)",
+        "name":"snakket (å snakke)",
+        "audio_name":"snakket",
+        "trans":"v, spoke ",
+        "inflection":null,
+        "reference":"05K"
+    },
+    {
+        "word":"snill",
+        "name":"snill",
+        "audio_name":"snill",
+        "trans":"a, kind",
+        "inflection":"snilt, snille",
+        "reference":"05M"
+    },
+    {
+        "word":"spiste (å spise)",
+        "name":"spiste (å spise)",
+        "audio_name":"spiste",
+        "trans":"v, ate",
+        "inflection":null,
+        "reference":"05K"
+    },
+    {
+        "word":"spurte (å spørre)",
+        "name":"spurte (å spørre)",
+        "audio_name":"spurte",
+        "trans":"v, asked",
+        "inflection":null,
+        "reference":"05M"
+    },
+    {
+        "word":"sto (å stå)",
+        "name":"sto (å stå)",
+        "audio_name":"sto",
+        "trans":"v, stood",
+        "inflection":null,
+        "reference":"05A"
+    },
+    {
+        "word":"stykke",
+        "name":"et stykke",
+        "audio_name":"et_stykke",
+        "trans":"n, a piece",
+        "inflection":"stykket, stykker, stykkene",
+        "reference":"05M"
+    },
+    {
+        "word":"sykkel",
+        "name":"en sykkel",
+        "audio_name":"en_sykkel",
+        "trans":"n, a bicycle",
+        "inflection":"sykkelen, sykler, syklene",
+        "reference":"05M"
+    },
+    {
+        "word":"så (å se)",
+        "name":"så (å se)",
+        "audio_name":"saa",
+        "trans":"v, saw",
+        "inflection":null,
+        "reference":"05P"
+    },
+    {
+        "word":"tid",
+        "name":"en tid",
+        "audio_name":"en_tid",
+        "trans":"n, a time",
+        "inflection":"tiden, tider, tidene",
+        "reference":"05M"
+    },
+    {
+        "word":"tok (å ta)",
+        "name":"tok (å ta)",
+        "audio_name":"tok",
+        "trans":"v, took",
+        "inflection":null,
+        "reference":"05A"
+    },
+    {
+        "word":"torg",
+        "name":"et torg",
+        "audio_name":"et_torg",
+        "trans":"n, a square",
+        "inflection":"torget, torg, torgene",
+        "reference":"05A"
+    },
+    {
+        "word":"traff (å treffe)",
+        "name":"traff (å treffe)",
+        "audio_name":"traff",
+        "trans":"v, met",
+        "inflection":null,
+        "reference":"05K"
+    },
+    {
+        "word":"travel",
+        "name":"travel",
+        "audio_name":"travel",
+        "trans":"a, busy",
+        "inflection":null,
+        "reference":"05A"
+    },
+    {
+        "word":"trehus",
+        "name":"et trehus",
+        "audio_name":"et_trehus",
+        "trans":"n, a wooden house",
+        "inflection":"trehuset, trehus, trehusene",
+        "reference":"05M"
+    },
+    {
+        "word":"tror (å tro)",
+        "name":"tror (å tro)",
+        "audio_name":"tror",
+        "trans":"v, believe",
+        "inflection":null,
+        "reference":"05M"
+    },
+    {
+        "word":"trygg",
+        "name":"trygg",
+        "audio_name":"trygg",
+        "trans":"a, safe, secure",
+        "inflection":"trygt, trygge",
+        "reference":"05M"
+    },
+    {
+        "word":"trøtt",
+        "name":"trøtt",
+        "audio_name":"troett",
+        "trans":"a, tired",
+        "inflection":"trøtt, trøtte",
+        "reference":"05P"
+    },
+    {
+        "word":"uke",
+        "name":"ei uke",
+        "audio_name":"ei_uke",
+        "trans":"n, a week",
+        "inflection":"uka, uker, ukene",
+        "reference":"05A"
+    },
+    {
+        "word":"uten",
+        "name":"uten",
+        "audio_name":"uten",
+        "trans":"p, without",
+        "inflection":null,
+        "reference":"05M"
+    },
+    {
+        "word":"vanskelig",
+        "name":"vanskelig",
+        "audio_name":"vanskelig",
+        "trans":"a, difficult",
+        "inflection":"vanskelig, vanskelige",
+        "reference":"05K"
+    },
+    {
+        "word":"var (å være)",
+        "name":"var (å være)",
+        "audio_name":"var",
+        "trans":"v, was, were",
+        "inflection":null,
+        "reference":"05K"
+    },
+    {
+        "word":"veldig",
+        "name":"veldig",
+        "audio_name":"veldig",
+        "trans":"a, very",
+        "inflection":null,
+        "reference":"05K"
+    },
+    {
+        "word":"venn",
+        "name":"en venn",
+        "audio_name":"en_venn",
+        "trans":"n, a friend",
+        "inflection":"vennen, venner, vennene",
+        "reference":"05K"
+    },
+    {
+        "word":"vikingkonge",
+        "name":"en vikingkonge",
+        "audio_name":"en_vikingkonge",
+        "trans":"n, a viking king",
+        "inflection":"vikingkongen, vikingkonger, vikingkongene",
+        "reference":"05P"
+    },
+    {
+        "word":"viktig",
+        "name":"viktig",
+        "audio_name":"viktig",
+        "trans":"a, important",
+        "inflection":"viktig, viktige",
+        "reference":"05P"
+    },
+    {
+        "word":"vise",
+        "name":"å vise",
+        "audio_name":"aa_vise",
+        "trans":"v, to show",
+        "inflection":"viser, viste, har vist",
+        "reference":"05K"
+    },
+    {
+        "word":"åpen",
+        "name":"åpen",
+        "audio_name":"aapen",
+        "trans":"a, open",
+        "inflection":"åpent, åpne",
+        "reference":"05M"
+    }
+]
