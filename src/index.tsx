@@ -27,13 +27,8 @@ function Root() {
 
   useEffect(() => {
     const handleResize = () => {
-      const isMobile = window.innerWidth <= 600
-      if (!isMobile) {
-        window.location.href = '/'
-      }
-      setIsMobile(isMobile)
+      setIsMobile(window.innerWidth <= 600)
     }
-
     window.addEventListener('resize', handleResize)
     return () => window.removeEventListener('resize', handleResize)
   }, [])
@@ -43,8 +38,9 @@ function Root() {
       <BrowserRouter basename={REACT_APP_DEPLOY_ENV === 'pages' ? '/qwerty-learner' : ''}>
         <Suspense fallback={<Loading />}>
           <Routes>
+            <Route path="/mobile" element={<MobilePage />} />
             {isMobile ? (
-              <Route path="/*" element={<Navigate to="/mobile" />} />
+              <Route path="*" element={<Navigate to="/mobile" />} />
             ) : (
               <>
                 <Route index element={<TypingPage />} />
@@ -55,7 +51,6 @@ function Root() {
                 <Route path="/*" element={<Navigate to="/" />} />
               </>
             )}
-            <Route path="/mobile" element={<MobilePage />} />
           </Routes>
         </Suspense>
       </BrowserRouter>
