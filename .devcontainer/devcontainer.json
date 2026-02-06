@@ -1,0 +1,37 @@
+{
+  "name": "Node.js Dev Environment",
+  // 引用你项目根目录下的 Dockerfile
+  "build": {
+    "dockerfile": "../Dockerfile",
+    "context": ".."
+  },
+
+  // 设置容器内的工作目录
+  "workspaceFolder": "/workspaces/qwerty-learner",
+
+  // 这里的配置会让容器启动后自动映射端口
+  "forwardPorts": [5173],
+  "portsAttributes": {
+    "5173": {
+      "label": "Vite Dev Server",
+      "onAutoForward": "notify"
+    }
+  },
+
+  // 容器内 VS Code 的个性化配置
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint", // 代码校验
+        "esbenp.prettier-vscode", // 代码格式化
+        "dsznajder.es7-react-js-snippets" // React 常用代码段
+      ]
+    }
+  },
+
+  // 容器创建后的回调（可以在这里自动安装依赖）
+  "postCreateCommand": "yarn install",
+
+  // 以 root 身份运行（或者你可以根据 Dockerfile 调整为 node 用户）
+  "remoteUser": "root"
+}
