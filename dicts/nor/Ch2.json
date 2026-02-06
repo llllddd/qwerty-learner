@@ -1,772 +1,772 @@
 [
     {
-        "word":"adresse",
-        "name":"ei adresse",
-        "audio_name":null,
-        "trans":"n, an adress",
-        "inflection":"adressa, adresser, adressene"
+        "word": "adresse",
+        "name": "ei adresse",
+        "audio_name": "ei_adresse",
+        "trans": "n, an adress",
+        "inflection": "adressa, adresser, adressene"
     },
     {
-        "word":"at",
-        "name":"at",
-        "audio_name":"at",
-        "trans":"that",
-        "inflection":""
+        "word": "at",
+        "name": "at",
+        "audio_name": "at",
+        "trans": "that",
+        "inflection": ""
     },
     {
-        "word":"av",
-        "name":"av",
-        "audio_name":"av",
-        "trans":"p, off, of, by, from",
-        "inflection":""
+        "word": "av",
+        "name": "av",
+        "audio_name": "av",
+        "trans": "p, off, of, by, from",
+        "inflection": ""
     },
     {
-        "word":"bagasje",
-        "name":"en bagasje",
-        "audio_name":"en_bagasje",
-        "trans":"n, luggage  (uncount. noun)",
-        "inflection":"bagasjen"
+        "word": "bagasje",
+        "name": "en bagasje",
+        "audio_name": "en_bagasje",
+        "trans": "n, luggage  (uncount. noun)",
+        "inflection": "bagasjen"
     },
     {
-        "word":"betale",
-        "name":"å betale",
-        "audio_name":"aa_betale",
-        "trans":"v, to pay",
-        "inflection":"betaler, betalte, har betalt"
+        "word": "betale",
+        "name": "å betale",
+        "audio_name": "aa_betale",
+        "trans": "v, to pay",
+        "inflection": "betaler, betalte, har betalt"
     },
     {
-        "word":"bety",
-        "name":"å bety",
-        "audio_name":"aa_bety",
-        "trans":"v, to mean",
-        "inflection":"betyr, betydde, har betydd"
+        "word": "bety",
+        "name": "å bety",
+        "audio_name": "aa_bety",
+        "trans": "v, to mean",
+        "inflection": "betyr, betydde, har betydd"
     },
     {
-        "word":"billett",
-        "name":"en billett",
-        "audio_name":"en_billett",
-        "trans":"n, a ticket",
-        "inflection":"billetten, billetter, billettene"
+        "word": "billett",
+        "name": "en billett",
+        "audio_name": "en_billett",
+        "trans": "n, a ticket",
+        "inflection": "billetten, billetter, billettene"
     },
     {
-        "word":"bruke",
-        "name":"å bruke",
-        "audio_name":"aa_bruke",
-        "trans":"v, to use",
-        "inflection":"bruker, brukte, har brukt"
+        "word": "bruke",
+        "name": "å bruke",
+        "audio_name": "aa_bruke",
+        "trans": "v, to use",
+        "inflection": "bruker, brukte, har brukt"
     },
     {
-        "word":"buss",
-        "name":"en buss",
-        "audio_name":"en_buss",
-        "trans":"n, a bus",
-        "inflection":"bussen, busser, bussene"
+        "word": "buss",
+        "name": "en buss",
+        "audio_name": "en_buss",
+        "trans": "n, a bus",
+        "inflection": "bussen, busser, bussene"
     },
     {
-        "word":"bussjåfør",
-        "name":"en bussjåfør",
-        "audio_name":"en_bussjaafoer",
-        "trans":"n, a bus driver",
-        "inflection":"bussjåføren,bussjåfører, bussjåførene"
+        "word": "bussjåfør",
+        "name": "en bussjåfør",
+        "audio_name": "en_bussjaafoer",
+        "trans": "n, a bus driver",
+        "inflection": "bussjåføren,bussjåfører, bussjåførene"
     },
     {
-        "word":"bussrute",
-        "name":"ei bussrute",
-        "audio_name":"ei_bussrute",
-        "trans":"n, a bus route",
-        "inflection":"bussruta, bussruter, bussrutene"
+        "word": "bussrute",
+        "name": "ei bussrute",
+        "audio_name": "ei_bussrute",
+        "trans": "n, a bus route",
+        "inflection": "bussruta, bussruter, bussrutene"
     },
     {
-        "word":"busstur",
-        "name":"en busstur",
-        "audio_name":"en_busstur",
-        "trans":"n, a bus trip",
-        "inflection":"bussturen, bussturer, bussturene"
+        "word": "busstur",
+        "name": "en busstur",
+        "audio_name": "en_busstur",
+        "trans": "n, a bus trip",
+        "inflection": "bussturen, bussturer, bussturene"
     },
     {
-        "word":"bytte",
-        "name":"å bytte",
-        "audio_name":"aa_bytte",
-        "trans":"v, to change, exchange",
-        "inflection":"bytter, byttet, har byttet"
+        "word": "bytte",
+        "name": "å bytte",
+        "audio_name": "aa_bytte",
+        "trans": "v, to change, exchange",
+        "inflection": "bytter, byttet, har byttet"
     },
     {
-        "word":"dem",
-        "name":"dem",
-        "audio_name":"dem",
-        "trans":"them",
-        "inflection":""
+        "word": "dem",
+        "name": "dem",
+        "audio_name": "dem",
+        "trans": "them",
+        "inflection": ""
     },
     {
-        "word":"dra",
-        "name":"å dra",
-        "audio_name":"aa_dra",
-        "trans":"v, to  leave ",
-        "inflection":"drar, dro, har dratt"
+        "word": "dra",
+        "name": "å dra",
+        "audio_name": "aa_dra",
+        "trans": "v, to  leave ",
+        "inflection": "drar, dro, har dratt"
     },
     {
-        "word":"drikke",
-        "name":"å drikke",
-        "audio_name":"aa_drikke",
-        "trans":"v, to drink",
-        "inflection":"drikker, drakk, har drukket"
+        "word": "drikke",
+        "name": "å drikke",
+        "audio_name": "aa_drikke",
+        "trans": "v, to drink",
+        "inflection": "drikker, drakk, har drukket"
     },
     {
-        "word":"drikke",
-        "name":"å drikke",
-        "audio_name":"drikke",
-        "trans":"v, to drink",
-        "inflection":"drikker, drakk, har drukket"
+        "word": "drikke",
+        "name": "å drikke",
+        "audio_name": "drikke",
+        "trans": "v, to drink",
+        "inflection": "drikker, drakk, har drukket"
     },
     {
-        "word":"endelig",
-        "name":"endelig",
-        "audio_name":"endelig",
-        "trans":"a, finally",
-        "inflection":""
+        "word": "endelig",
+        "name": "endelig",
+        "audio_name": "endelig",
+        "trans": "a, finally",
+        "inflection": ""
     },
     {
-        "word":"ett",
-        "name":"ett",
-        "audio_name":"ett",
-        "trans":"one",
-        "inflection":""
+        "word": "ett",
+        "name": "ett",
+        "audio_name": "ett",
+        "trans": "one",
+        "inflection": ""
     },
     {
-        "word":"ettermiddag",
-        "name":"en ettermiddag",
-        "audio_name":"en_ettermiddag",
-        "trans":"n, an afternoon",
-        "inflection":"ettermiddagen, ettermiddager, ettermiddagene"
+        "word": "ettermiddag",
+        "name": "en ettermiddag",
+        "audio_name": "en_ettermiddag",
+        "trans": "n, an afternoon",
+        "inflection": "ettermiddagen, ettermiddager, ettermiddagene"
     },
     {
-        "word":"etterpå",
-        "name":"etterpå",
-        "audio_name":"etterpaa",
-        "trans":"d, afterwards",
-        "inflection":""
+        "word": "etterpå",
+        "name": "etterpå",
+        "audio_name": "etterpaa",
+        "trans": "d, afterwards",
+        "inflection": ""
     },
     {
-        "word":"finne",
-        "name":"å finne",
-        "audio_name":"aa_finne",
-        "trans":"v, to find",
-        "inflection":"finner, fant, har funnet"
+        "word": "finne",
+        "name": "å finne",
+        "audio_name": "aa_finne",
+        "trans": "v, to find",
+        "inflection": "finner, fant, har funnet"
     },
     {
-        "word":"flott",
-        "name":"flott",
-        "audio_name":"flott",
-        "trans":"a, great, good",
-        "inflection":"flott, flotte"
+        "word": "flott",
+        "name": "flott",
+        "audio_name": "flott",
+        "trans": "a, great, good",
+        "inflection": "flott, flotte"
     },
     {
-        "word":"flybuss",
-        "name":"en flybuss",
-        "audio_name":"en_flybuss",
-        "trans":"n, an airport express coach",
-        "inflection":"flybussen, flybusser, flybussene"
+        "word": "flybuss",
+        "name": "en flybuss",
+        "audio_name": "en_flybuss",
+        "trans": "n, an airport express coach",
+        "inflection": "flybussen, flybusser, flybussene"
     },
     {
-        "word":"for",
-        "name":"for",
-        "audio_name":"for",
-        "trans":"for, because",
-        "inflection":""
+        "word": "for",
+        "name": "for",
+        "audio_name": "for",
+        "trans": "for, because",
+        "inflection": ""
     },
     {
-        "word":"forbi",
-        "name":"forbi",
-        "audio_name":"forbi",
-        "trans":"past, by",
-        "inflection":""
+        "word": "forbi",
+        "name": "forbi",
+        "audio_name": "forbi",
+        "trans": "past, by",
+        "inflection": ""
     },
     {
-        "word":"fram",
-        "name":"fram",
-        "audio_name":"fram",
-        "trans":"a, ahead, on",
-        "inflection":""
+        "word": "fram",
+        "name": "fram",
+        "audio_name": "fram",
+        "trans": "a, ahead, on",
+        "inflection": ""
     },
     {
-        "word":"først",
-        "name":"først",
-        "audio_name":"foerst",
-        "trans":"d, first",
-        "inflection":""
+        "word": "først",
+        "name": "først",
+        "audio_name": "foerst",
+        "trans": "d, first",
+        "inflection": ""
     },
     {
-        "word":"få",
-        "name":"å få",
-        "audio_name":"aa_faa",
-        "trans":"v, to get, receive",
-        "inflection":"får, fikk, har fått"
+        "word": "få",
+        "name": "å få",
+        "audio_name": "aa_faa",
+        "trans": "v, to get, receive",
+        "inflection": "får, fikk, har fått"
     },
     {
-        "word":"få",
-        "name":"å få",
-        "audio_name":"faa",
-        "trans":"v, to get, receive",
-        "inflection":"får, fikk, har fått"
+        "word": "få",
+        "name": "å få",
+        "audio_name": "faa",
+        "trans": "v, to get, receive",
+        "inflection": "får, fikk, har fått"
     },
     {
-        "word":"gjerne",
-        "name":"gjerne",
-        "audio_name":"gjerne",
-        "trans":"d, rather, would like",
-        "inflection":""
+        "word": "gjerne",
+        "name": "gjerne",
+        "audio_name": "gjerne",
+        "trans": "d, rather, would like",
+        "inflection": ""
     },
     {
-        "word":"gå",
-        "name":"å gå",
-        "audio_name":"aa_gaa",
-        "trans":"v, to walk, go",
-        "inflection":"går, gikk, har gått"
+        "word": "gå",
+        "name": "å gå",
+        "audio_name": "aa_gaa",
+        "trans": "v, to walk, go",
+        "inflection": "går, gikk, har gått"
     },
     {
-        "word":"halv",
-        "name":"halv",
-        "audio_name":"halv",
-        "trans":"half",
-        "inflection":""
+        "word": "halv",
+        "name": "halv",
+        "audio_name": "halv",
+        "trans": "half",
+        "inflection": ""
     },
     {
-        "word":"ham",
-        "name":"ham",
-        "audio_name":"ham",
-        "trans":"him",
-        "inflection":""
+        "word": "ham",
+        "name": "ham",
+        "audio_name": "ham",
+        "trans": "him",
+        "inflection": ""
     },
     {
-        "word":"hei",
-        "name":"hei",
-        "audio_name":"hei",
-        "trans":"hi",
-        "inflection":""
+        "word": "hei",
+        "name": "hei",
+        "audio_name": "hei",
+        "trans": "hi",
+        "inflection": ""
     },
     {
-        "word":"hjelp",
-        "name":"en hjelp",
-        "audio_name":"en_hjelp",
-        "trans":"n, a help",
-        "inflection":"hjelpen"
+        "word": "hjelp",
+        "name": "en hjelp",
+        "audio_name": "en_hjelp",
+        "trans": "n, a help",
+        "inflection": "hjelpen"
     },
     {
-        "word":"hjelpe",
-        "name":"å hjelpe",
-        "audio_name":"aa_hjelpe",
-        "trans":"v, to help",
-        "inflection":"hjelper, hjalp, har hjulpet"
+        "word": "hjelpe",
+        "name": "å hjelpe",
+        "audio_name": "aa_hjelpe",
+        "trans": "v, to help",
+        "inflection": "hjelper, hjalp, har hjulpet"
     },
     {
-        "word":"hvilken",
-        "name":"hvilken",
-        "audio_name":"hvilken",
-        "trans":"which, what",
-        "inflection":""
+        "word": "hvilken",
+        "name": "hvilken",
+        "audio_name": "hvilken",
+        "trans": "which, what",
+        "inflection": ""
     },
     {
-        "word":"høyre",
-        "name":"høyre",
-        "audio_name":"hoeyre",
-        "trans":"right",
-        "inflection":""
+        "word": "høyre",
+        "name": "høyre",
+        "audio_name": "hoeyre",
+        "trans": "right",
+        "inflection": ""
     },
     {
-        "word":"inn",
-        "name":"inn",
-        "audio_name":"inn",
-        "trans":"d, in, inside, into",
-        "inflection":""
+        "word": "inn",
+        "name": "inn",
+        "audio_name": "inn",
+        "trans": "d, in, inside, into",
+        "inflection": ""
     },
     {
-        "word":"kafé",
-        "name":"en kafé",
-        "audio_name":"en_kafe",
-        "trans":"n, a café",
-        "inflection":"kaféen, kaféer, kaféene"
+        "word": "kafé",
+        "name": "en kafé",
+        "audio_name": "en_kafe",
+        "trans": "n, a café",
+        "inflection": "kaféen, kaféer, kaféene"
     },
     {
-        "word":"kaffe",
-        "name":"en kaffe",
-        "audio_name":"en_kaffe",
-        "trans":"n, a coffee",
-        "inflection":"kaffen"
+        "word": "kaffe",
+        "name": "en kaffe",
+        "audio_name": "en_kaffe",
+        "trans": "n, a coffee",
+        "inflection": "kaffen"
     },
     {
-        "word":"kan (å kunne)",
-        "name":"kan (å kunne)",
-        "audio_name":"kan",
-        "trans":"v, can, be able to",
-        "inflection":""
+        "word": "kan (å kunne)",
+        "name": "kan (å kunne)",
+        "audio_name": "kan",
+        "trans": "v, can, be able to",
+        "inflection": ""
     },
     {
-        "word":"kjøpe",
-        "name":"å kjøpe",
-        "audio_name":"aa_kjoepe",
-        "trans":"v, to buy",
-        "inflection":"kjøper, kjøpte, har kjøpt"
+        "word": "kjøpe",
+        "name": "å kjøpe",
+        "audio_name": "aa_kjoepe",
+        "trans": "v, to buy",
+        "inflection": "kjøper, kjøpte, har kjøpt"
     },
     {
-        "word":"kjøpesenter",
-        "name":"et kjøpesenter",
-        "audio_name":"et_kjoepesenter",
-        "trans":"n, a shopping centre",
-        "inflection":"kjøpesenteret, kjøpesentre, kjøpesentrene"
+        "word": "kjøpesenter",
+        "name": "et kjøpesenter",
+        "audio_name": "et_kjoepesenter",
+        "trans": "n, a shopping centre",
+        "inflection": "kjøpesenteret, kjøpesentre, kjøpesentrene"
     },
     {
-        "word":"kjøre",
-        "name":"å kjøre",
-        "audio_name":"aa_kjoere",
-        "trans":"v, to drive",
-        "inflection":"kjører, kjørte, har kjørt"
+        "word": "kjøre",
+        "name": "å kjøre",
+        "audio_name": "aa_kjoere",
+        "trans": "v, to drive",
+        "inflection": "kjører, kjørte, har kjørt"
     },
     {
-        "word":"klokka er…",
-        "name":"klokka er…",
-        "audio_name":"klokka_er",
-        "trans":"the time is…",
-        "inflection":"klokka er…"
+        "word": "klokka er…",
+        "name": "klokka er…",
+        "audio_name": "klokka_er",
+        "trans": "the time is…",
+        "inflection": "klokka er…"
     },
     {
-        "word":"klokke",
-        "name":"ei klokke",
-        "audio_name":"ei_klokke",
-        "trans":"n, a clock, watch",
-        "inflection":"klokka, klokker,  klokkene"
+        "word": "klokke",
+        "name": "ei klokke",
+        "audio_name": "ei_klokke",
+        "trans": "n, a clock, watch",
+        "inflection": "klokka, klokker,  klokkene"
     },
     {
-        "word":"koffert",
-        "name":"en koffert",
-        "audio_name":"en_koffert",
-        "trans":"n, a suitcase",
-        "inflection":"kofferten, kofferter, koffertene"
+        "word": "koffert",
+        "name": "en koffert",
+        "audio_name": "en_koffert",
+        "trans": "n, a suitcase",
+        "inflection": "kofferten, kofferter, koffertene"
     },
     {
-        "word":"kopp",
-        "name":"en kopp",
-        "audio_name":"en_kopp",
-        "trans":"n, a cup",
-        "inflection":"koppen, kopper, koppene"
+        "word": "kopp",
+        "name": "en kopp",
+        "audio_name": "en_kopp",
+        "trans": "n, a cup",
+        "inflection": "koppen, kopper, koppene"
     },
     {
-        "word":"kort",
-        "name":"et kort",
-        "audio_name":"et_kort",
-        "trans":"n, a card",
-        "inflection":"kortet, kort, kortene"
+        "word": "kort",
+        "name": "et kort",
+        "audio_name": "et_kort",
+        "trans": "n, a card",
+        "inflection": "kortet, kort, kortene"
     },
     {
-        "word":"kunne",
-        "name":"å kunne",
-        "audio_name":"aa_kunne",
-        "trans":"v, (the infinitive of) can, be able to",
-        "inflection":"kan, kunne, har kunnet"
+        "word": "kunne",
+        "name": "å kunne",
+        "audio_name": "aa_kunne",
+        "trans": "v, (the infinitive of) can, be able to",
+        "inflection": "kan, kunne, har kunnet"
     },
     {
-        "word":"kvart",
-        "name":"kvart",
-        "audio_name":null,
-        "trans":"quarter",
-        "inflection":""
+        "word": "kvart",
+        "name": "kvart",
+        "audio_name": null,
+        "trans": "quarter",
+        "inflection": ""
     },
     {
-        "word":"lande",
-        "name":"å lande",
-        "audio_name":"aa_lande",
-        "trans":"v, to land",
-        "inflection":"lander, landet, har landet"
+        "word": "lande",
+        "name": "å lande",
+        "audio_name": "aa_lande",
+        "trans": "v, to land",
+        "inflection": "lander, landet, har landet"
     },
     {
-        "word":"ligge",
-        "name":"å ligge",
-        "audio_name":"aa_ligge",
-        "trans":"v, to stand, lie",
-        "inflection":"ligger, lå, har ligget"
+        "word": "ligge",
+        "name": "å ligge",
+        "audio_name": "aa_ligge",
+        "trans": "v, to stand, lie",
+        "inflection": "ligger, lå, har ligget"
     },
     {
-        "word":"mandag",
-        "name":"en mandag",
-        "audio_name":"en_mandag",
-        "trans":"n, a Monday",
-        "inflection":"mandagen,  mandager,  mandagene"
+        "word": "mandag",
+        "name": "en mandag",
+        "audio_name": "en_mandag",
+        "trans": "n, a Monday",
+        "inflection": "mandagen,  mandager,  mandagene"
     },
     {
-        "word":"meg",
-        "name":"meg",
-        "audio_name":"meg",
-        "trans":"me",
-        "inflection":""
+        "word": "meg",
+        "name": "meg",
+        "audio_name": "meg",
+        "trans": "me",
+        "inflection": ""
     },
     {
-        "word":"mye",
-        "name":"mye",
-        "audio_name":"mye",
-        "trans":"a, much, a lot, plenty",
-        "inflection":""
+        "word": "mye",
+        "name": "mye",
+        "audio_name": "mye",
+        "trans": "a, much, a lot, plenty",
+        "inflection": ""
     },
     {
-        "word":"må (å måtte)",
-        "name":"må (å måtte)",
-        "audio_name":"maa",
-        "trans":"v, have to, must",
-        "inflection":"må, måtte, har måttet"
+        "word": "må (å måtte)",
+        "name": "må (å måtte)",
+        "audio_name": "maa",
+        "trans": "v, have to, must",
+        "inflection": "må, måtte, har måttet"
     },
     {
-        "word":"ni",
-        "name":"ni",
-        "audio_name":"ni",
-        "trans":"nine",
-        "inflection":""
+        "word": "ni",
+        "name": "ni",
+        "audio_name": "ni",
+        "trans": "nine",
+        "inflection": ""
     },
     {
-        "word":"noen",
-        "name":"noen",
-        "audio_name":"noen",
-        "trans":"some, somebody, any, anybody",
-        "inflection":""
+        "word": "noen",
+        "name": "noen",
+        "audio_name": "noen",
+        "trans": "some, somebody, any, anybody",
+        "inflection": ""
     },
     {
-        "word":"nummer",
-        "name":"et nummer",
-        "audio_name":"et_nummer",
-        "trans":"n, a number",
-        "inflection":"nummeret, nummer\/numre, numrene"
+        "word": "nummer",
+        "name": "et nummer",
+        "audio_name": "et_nummer",
+        "trans": "n, a number",
+        "inflection": "nummeret, nummer\/numre, numrene"
     },
     {
-        "word":"når",
-        "name":"når",
-        "audio_name":"naar",
-        "trans":"when",
-        "inflection":""
+        "word": "når",
+        "name": "når",
+        "audio_name": "naar",
+        "trans": "when",
+        "inflection": ""
     },
     {
-        "word":"onsdag",
-        "name":"en onsdag",
-        "audio_name":"en_onsdag",
-        "trans":"n, a Wednesday",
-        "inflection":"onsdagen, onsdager, onsdagene"
+        "word": "onsdag",
+        "name": "en onsdag",
+        "audio_name": "en_onsdag",
+        "trans": "n, a Wednesday",
+        "inflection": "onsdagen, onsdager, onsdagene"
     },
     {
-        "word":"oss",
-        "name":"oss",
-        "audio_name":"oss",
-        "trans":"us",
-        "inflection":""
+        "word": "oss",
+        "name": "oss",
+        "audio_name": "oss",
+        "trans": "us",
+        "inflection": ""
     },
     {
-        "word":"overgang",
-        "name":"en overgang",
-        "audio_name":"en_overgang",
-        "trans":"n, a transition",
-        "inflection":"overgangen, overganger, overgangene"
+        "word": "overgang",
+        "name": "en overgang",
+        "audio_name": "en_overgang",
+        "trans": "n, a transition",
+        "inflection": "overgangen, overganger, overgangene"
     },
     {
-        "word":"parkere",
-        "name":"å parkere",
-        "audio_name":"aa_parkere",
-        "trans":"v, to park",
-        "inflection":"parkerer, parkerte, har parkert"
+        "word": "parkere",
+        "name": "å parkere",
+        "audio_name": "aa_parkere",
+        "trans": "v, to park",
+        "inflection": "parkerer, parkerte, har parkert"
     },
     {
-        "word":"parkeringsplass",
-        "name":"en parkeringsplass",
-        "audio_name":"en_parkeringsplass",
-        "trans":"n, a parking lot",
-        "inflection":"parkeringsplassen,parkeringsplasser, parkeringsplassene"
+        "word": "parkeringsplass",
+        "name": "en parkeringsplass",
+        "audio_name": "en_parkeringsplass",
+        "trans": "n, a parking lot",
+        "inflection": "parkeringsplassen,parkeringsplasser, parkeringsplassene"
     },
     {
-        "word":"pose",
-        "name":"en pose",
-        "audio_name":"en_pose",
-        "trans":"n, a bag",
-        "inflection":"posen, poser, posene"
+        "word": "pose",
+        "name": "en pose",
+        "audio_name": "en_pose",
+        "trans": "n, a bag",
+        "inflection": "posen, poser, posene"
     },
     {
-        "word":"resepsjon",
-        "name":"en resepsjon",
-        "audio_name":"en_resepsjon",
-        "trans":"n, a reception",
-        "inflection":"resepsjonen, resepsjoner,  resepsjonene"
+        "word": "resepsjon",
+        "name": "en resepsjon",
+        "audio_name": "en_resepsjon",
+        "trans": "n, a reception",
+        "inflection": "resepsjonen, resepsjoner,  resepsjonene"
     },
     {
-        "word":"rett",
-        "name":"rett",
-        "audio_name":"rett",
-        "trans":"a, straight, directly",
-        "inflection":""
+        "word": "rett",
+        "name": "rett",
+        "audio_name": "rett",
+        "trans": "a, straight, directly",
+        "inflection": ""
     },
     {
-        "word":"rett",
-        "name":"rett",
-        "audio_name":"en_rett",
-        "trans":"a, straight, directly",
-        "inflection":""
+        "word": "rett",
+        "name": "rett",
+        "audio_name": "en_rett",
+        "trans": "a, straight, directly",
+        "inflection": ""
     },
     {
-        "word":"rope",
-        "name":"å rope",
-        "audio_name":"aa_rope",
-        "trans":"v, to call, cry, shout",
-        "inflection":"roper, ropte, har ropt"
+        "word": "rope",
+        "name": "å rope",
+        "audio_name": "aa_rope",
+        "trans": "v, to call, cry, shout",
+        "inflection": "roper, ropte, har ropt"
     },
     {
-        "word":"rundstykke",
-        "name":"et rundstykke",
-        "audio_name":"et_rundstykke",
-        "trans":"n, a roll",
-        "inflection":"rundstykket, rundstykker, rundstykkene"
+        "word": "rundstykke",
+        "name": "et rundstykke",
+        "audio_name": "et_rundstykke",
+        "trans": "n, a roll",
+        "inflection": "rundstykket, rundstykker, rundstykkene"
     },
     {
-        "word":"se",
-        "name":"å se",
-        "audio_name":"aa_se",
-        "trans":"v, to see",
-        "inflection":"ser, så, har sett"
+        "word": "se",
+        "name": "å se",
+        "audio_name": "aa_se",
+        "trans": "v, to see",
+        "inflection": "ser, så, har sett"
     },
     {
-        "word":"selvfølgelig",
-        "name":"selvfølgelig",
-        "audio_name":"selvfoelgelig",
-        "trans":"a, of course",
-        "inflection":""
+        "word": "selvfølgelig",
+        "name": "selvfølgelig",
+        "audio_name": "selvfoelgelig",
+        "trans": "a, of course",
+        "inflection": ""
     },
     {
-        "word":"sentralstasjon",
-        "name":"en sentralstasjon",
-        "audio_name":"en_sentralstasjon",
-        "trans":"n, a central station",
-        "inflection":" sentralstasjonen, sentralstasjoner, sentralstasjonene"
+        "word": "sentralstasjon",
+        "name": "en sentralstasjon",
+        "audio_name": "en_sentralstasjon",
+        "trans": "n, a central station",
+        "inflection": " sentralstasjonen, sentralstasjoner, sentralstasjonene"
     },
     {
-        "word":"sentrum",
-        "name":"et sentrum",
-        "audio_name":"et_sentrum",
-        "trans":"n, a (town) centre",
-        "inflection":"sentret, sentre, sentrene"
+        "word": "sentrum",
+        "name": "et sentrum",
+        "audio_name": "et_sentrum",
+        "trans": "n, a (town) centre",
+        "inflection": "sentret, sentre, sentrene"
     },
     {
-        "word":"sjekke",
-        "name":"å sjekke",
-        "audio_name":"aa_sjekke",
-        "trans":"v, to check",
-        "inflection":"sjekker, sjekket, har sjekket"
+        "word": "sjekke",
+        "name": "å sjekke",
+        "audio_name": "aa_sjekke",
+        "trans": "v, to check",
+        "inflection": "sjekker, sjekket, har sjekket"
     },
     {
-        "word":"skal (å skulle)",
-        "name":"skal (å skulle)",
-        "audio_name":"skal",
-        "trans":"v, will, shall, is going to",
-        "inflection":""
+        "word": "skal (å skulle)",
+        "name": "skal (å skulle)",
+        "audio_name": "skal",
+        "trans": "v, will, shall, is going to",
+        "inflection": ""
     },
     {
-        "word":"skilt",
-        "name":"et skilt",
-        "audio_name":"et_skilt",
-        "trans":"n, a sign, signpost",
-        "inflection":"skiltet, skilt, skiltene"
+        "word": "skilt",
+        "name": "et skilt",
+        "audio_name": "et_skilt",
+        "trans": "n, a sign, signpost",
+        "inflection": "skiltet, skilt, skiltene"
     },
     {
-        "word":"skulle",
-        "name":"å skulle",
-        "audio_name":"aa_skulle",
-        "trans":"v, will, shall",
-        "inflection":"skal, skulle, har skullet"
+        "word": "skulle",
+        "name": "å skulle",
+        "audio_name": "aa_skulle",
+        "trans": "v, will, shall",
+        "inflection": "skal, skulle, har skullet"
     },
     {
-        "word":"spise",
-        "name":"å spise",
-        "audio_name":"aa_spise",
-        "trans":"v, to eat",
-        "inflection":"spiser, spiste, har spist"
+        "word": "spise",
+        "name": "å spise",
+        "audio_name": "aa_spise",
+        "trans": "v, to eat",
+        "inflection": "spiser, spiste, har spist"
     },
     {
-        "word":"spør (å spørre)",
-        "name":"spør (å spørre)",
-        "audio_name":"spoer",
-        "trans":"v, ask(s)",
-        "inflection":""
+        "word": "spør (å spørre)",
+        "name": "spør (å spørre)",
+        "audio_name": "spoer",
+        "trans": "v, ask(s)",
+        "inflection": ""
     },
     {
-        "word":"spørre",
-        "name":"å spørre",
-        "audio_name":"aa_spoerre",
-        "trans":"v, to ask",
-        "inflection":"spør, spurte, har spurt"
+        "word": "spørre",
+        "name": "å spørre",
+        "audio_name": "aa_spoerre",
+        "trans": "v, to ask",
+        "inflection": "spør, spurte, har spurt"
     },
     {
-        "word":"stenge",
-        "name":"å stenge",
-        "audio_name":"aa_stenge",
-        "trans":"v, to close",
-        "inflection":"stenger, stengte, har stengt"
+        "word": "stenge",
+        "name": "å stenge",
+        "audio_name": "aa_stenge",
+        "trans": "v, to close",
+        "inflection": "stenger, stengte, har stengt"
     },
     {
-        "word":"studentby",
-        "name":"en studentby",
-        "audio_name":"en_studentby",
-        "trans":"n, a student village",
-        "inflection":"studentbyen, studentbyer, studentbyene"
+        "word": "studentby",
+        "name": "en studentby",
+        "audio_name": "en_studentby",
+        "trans": "n, a student village",
+        "inflection": "studentbyen, studentbyer, studentbyene"
     },
     {
-        "word":"stå",
-        "name":"å stå",
-        "audio_name":"aa_staa",
-        "trans":"v, to stand",
-        "inflection":"står, sto, har stått"
+        "word": "stå",
+        "name": "å stå",
+        "audio_name": "aa_staa",
+        "trans": "v, to stand",
+        "inflection": "står, sto, har stått"
     },
     {
-        "word":"sulten",
-        "name":"sulten",
-        "audio_name":"sulten",
-        "trans":"a, hungry",
-        "inflection":"sultent, sultne"
+        "word": "sulten",
+        "name": "sulten",
+        "audio_name": "sulten",
+        "trans": "a, hungry",
+        "inflection": "sultent, sultne"
     },
     {
-        "word":"takke",
-        "name":"å takke",
-        "audio_name":"aa_takke",
-        "trans":"v, to thank",
-        "inflection":"takker, takket, har takket"
+        "word": "takke",
+        "name": "å takke",
+        "audio_name": "aa_takke",
+        "trans": "v, to thank",
+        "inflection": "takker, takket, har takket"
     },
     {
-        "word":"taxi",
-        "name":"en taxi",
-        "audio_name":"en_taxi",
-        "trans":"n, a taxi",
-        "inflection":"taxien, taxier, taxiene"
+        "word": "taxi",
+        "name": "en taxi",
+        "audio_name": "en_taxi",
+        "trans": "n, a taxi",
+        "inflection": "taxien, taxier, taxiene"
     },
     {
-        "word":"taxisjåfør",
-        "name":"en taxisjåfør",
-        "audio_name":"en_taxisjaafoer",
-        "trans":"n, a taxi driver",
-        "inflection":"taxisjåføren, taxisjåfører, taxisjåførene"
+        "word": "taxisjåfør",
+        "name": "en taxisjåfør",
+        "audio_name": "en_taxisjaafoer",
+        "trans": "n, a taxi driver",
+        "inflection": "taxisjåføren, taxisjåfører, taxisjåførene"
     },
     {
-        "word":"ti",
-        "name":"ti",
-        "audio_name":"ti",
-        "trans":"ten",
-        "inflection":""
+        "word": "ti",
+        "name": "ti",
+        "audio_name": "ti",
+        "trans": "ten",
+        "inflection": ""
     },
     {
-        "word":"time",
-        "name":"en time",
-        "audio_name":"en_time",
-        "trans":"n, an hour, appointment, lesson",
-        "inflection":"timen, timer, timene"
+        "word": "time",
+        "name": "en time",
+        "audio_name": "en_time",
+        "trans": "n, an hour, appointment, lesson",
+        "inflection": "timen, timer, timene"
     },
     {
-        "word":"time",
-        "name":"en time",
-        "audio_name":"en_time",
-        "trans":"n, an hour, appointment, lesson",
-        "inflection":"timen, timer, timene"
+        "word": "time",
+        "name": "en time",
+        "audio_name": "en_time",
+        "trans": "n, an hour, appointment, lesson",
+        "inflection": "timen, timer, timene"
     },
     {
-        "word":"tirsdag",
-        "name":"en tirsdag",
-        "audio_name":"en_tirsdag",
-        "trans":"n, a Tuesday",
-        "inflection":"tirsdagen, tirsdager, tirsdagene"
+        "word": "tirsdag",
+        "name": "en tirsdag",
+        "audio_name": "en_tirsdag",
+        "trans": "n, a Tuesday",
+        "inflection": "tirsdagen, tirsdager, tirsdagene"
     },
     {
-        "word":"to",
-        "name":"to",
-        "audio_name":"to",
-        "trans":"two",
-        "inflection":""
+        "word": "to",
+        "name": "to",
+        "audio_name": "to",
+        "trans": "two",
+        "inflection": ""
     },
     {
-        "word":"torsdag",
-        "name":"en torsdag",
-        "audio_name":"en_torsdag",
-        "trans":"n, a Thursday",
-        "inflection":"torsdagen, torsdager, torsdagene"
+        "word": "torsdag",
+        "name": "en torsdag",
+        "audio_name": "en_torsdag",
+        "trans": "n, a Thursday",
+        "inflection": "torsdagen, torsdager, torsdagene"
     },
     {
-        "word":"tre",
-        "name":"tre",
-        "audio_name":"tre",
-        "trans":"three",
-        "inflection":""
+        "word": "tre",
+        "name": "tre",
+        "audio_name": "tre",
+        "trans": "three",
+        "inflection": ""
     },
     {
-        "word":"tre",
-        "name":"tre",
-        "audio_name":"et_tre",
-        "trans":"three",
-        "inflection":""
+        "word": "tre",
+        "name": "tre",
+        "audio_name": "et_tre",
+        "trans": "three",
+        "inflection": ""
     },
     {
-        "word":"utenfor",
-        "name":"utenfor",
-        "audio_name":"utenfor",
-        "trans":"p, outside",
-        "inflection":""
+        "word": "utenfor",
+        "name": "utenfor",
+        "audio_name": "utenfor",
+        "trans": "p, outside",
+        "inflection": ""
     },
     {
-        "word":"vei",
-        "name":"en vei",
-        "audio_name":"en_vei",
-        "trans":"n, a road",
-        "inflection":"veien, veier, veiene"
+        "word": "vei",
+        "name": "en vei",
+        "audio_name": "en_vei",
+        "trans": "n, a road",
+        "inflection": "veien, veier, veiene"
     },
     {
-        "word":"venstre",
-        "name":"venstre",
-        "audio_name":"venstre",
-        "trans":"d, left",
-        "inflection":""
+        "word": "venstre",
+        "name": "venstre",
+        "audio_name": "venstre",
+        "trans": "d, left",
+        "inflection": ""
     },
     {
-        "word":"vente",
-        "name":"å vente",
-        "audio_name":"aa_vente",
-        "trans":"v, to wait",
-        "inflection":"venter, ventet, har ventet"
+        "word": "vente",
+        "name": "å vente",
+        "audio_name": "aa_vente",
+        "trans": "v, to wait",
+        "inflection": "venter, ventet, har ventet"
     },
     {
-        "word":"veske",
-        "name":"ei veske",
-        "audio_name":"ei_veske",
-        "trans":"n, a handbag",
-        "inflection":"veska, vesker, veskene"
+        "word": "veske",
+        "name": "ei veske",
+        "audio_name": "ei_veske",
+        "trans": "n, a handbag",
+        "inflection": "veska, vesker, veskene"
     },
     {
-        "word":"vil (å ville)",
-        "name":"vil (å ville)",
-        "audio_name":"vil",
-        "trans":"v, wants to, will",
-        "inflection":""
+        "word": "vil (å ville)",
+        "name": "vil (å ville)",
+        "audio_name": "vil",
+        "trans": "v, wants to, will",
+        "inflection": ""
     },
     {
-        "word":"ville",
-        "name":"å ville",
-        "audio_name":"aa_ville",
-        "trans":"v, wants to, will",
-        "inflection":"vil, ville, har villet"
+        "word": "ville",
+        "name": "å ville",
+        "audio_name": "aa_ville",
+        "trans": "v, wants to, will",
+        "inflection": "vil, ville, har villet"
     },
     {
-        "word":"øst",
-        "name":"øst",
-        "audio_name":"oest",
-        "trans":"east",
-        "inflection":""
+        "word": "øst",
+        "name": "øst",
+        "audio_name": "oest",
+        "trans": "east",
+        "inflection": ""
     },
     {
-        "word":"øyeblikk",
-        "name":"et øyeblikk",
-        "audio_name":"et_oeyeblikk",
-        "trans":"n, a moment",
-        "inflection":"øyeblikket, øyeblikk, øyeblikkene"
+        "word": "øyeblikk",
+        "name": "et øyeblikk",
+        "audio_name": "et_oeyeblikk",
+        "trans": "n, a moment",
+        "inflection": "øyeblikket, øyeblikk, øyeblikkene"
     },
     {
-        "word":"åtte",
-        "name":"åtte",
-        "audio_name":"aatte",
-        "trans":"a, eight",
-        "inflection":""
+        "word": "åtte",
+        "name": "åtte",
+        "audio_name": "aatte",
+        "trans": "a, eight",
+        "inflection": ""
     }
 ]
