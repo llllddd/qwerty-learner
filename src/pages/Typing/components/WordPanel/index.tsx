@@ -179,6 +179,12 @@ export default function WordPanel() {
                 onMouseEnter={() => handleShowTranslation(true)}
                 onMouseLeave={() => handleShowTranslation(false)}
               />
+              <Translation
+                trans={currentWord.inflection ?? ' '}
+                showTrans={shouldShowTranslation}
+                onMouseEnter={() => handleShowTranslation(true)}
+                onMouseLeave={() => handleShowTranslation(false)}
+              />
             </div>
           </div>
         )}

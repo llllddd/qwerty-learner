@@ -30,7 +30,7 @@ export default function Translation({ trans, showTrans = true, onMouseEnter, onM
         className={`max-w-4xl text-center font-sans transition-colors duration-300 dark:text-white dark:text-opacity-80 ${
           isShowTransRead && 'pl-8'
         } ${isTextSelectable && 'select-text'}`}
-        style={{ fontSize: fontSizeConfig.translateFont.toString() + 'px' }}
+        style={{ fontSize: fontSizeConfig.translateFont.toString() + 'px', color: '#ff0000' }}
       >
         {showTrans ? trans : '\u00A0'}
       </span>
