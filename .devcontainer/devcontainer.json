@@ -1,37 +1,75 @@
 {
-  "name": "Node.js Dev Environment",
-  // 引用你项目根目录下的 Dockerfile
-  "build": {
-    "dockerfile": "../Dockerfile",
-    "context": ".."
-  },
-
-  // 设置容器内的工作目录
-  "workspaceFolder": "/workspaces/qwerty-learner",
-
-  // 这里的配置会让容器启动后自动映射端口
-  "forwardPorts": [5173],
-  "portsAttributes": {
-    "5173": {
-      "label": "Vite Dev Server",
-      "onAutoForward": "notify"
+  "name": "node-python-environment",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "remoteUser": "vscode",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "20",
+      "yarn": "latest"
+    },
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "3.12"
     }
   },
-
-  // 容器内 VS Code 的个性化配置
+  "mounts": [
+    "source=devcache-npm,target=/home/vscode/.npm,type=volume",
+    "source=devcache-pip,target=/home/vscode/.cache/pip,type=volume",
+    "source=devcache-yarn,target=/home/vscode/.cache/yarn,type=volume",
+    "source=devcache-corepack,target=/home/vscode/.cache/corepack,type=volume"
+  ],
+  "onCreateCommand": "sudo chown -R vscode:vscode /home/vscode/.cache",
+  "postCreateCommand": "yarn install",
   "customizations": {
     "vscode": {
-      "extensions": [
-        "dbaeumer.vscode-eslint", // 代码校验
-        "esbenp.prettier-vscode", // 代码格式化
-        "dsznajder.es7-react-js-snippets" // React 常用代码段
-      ]
+      "extensions": ["dbaeumer.vscode-eslint", "esbenp.prettier-vscode", "ms-python.python", "ms-python.vscode-pylance"],
+      "settings": {
+        "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python"
+      }
     }
   },
-
-  // 容器创建后的回调（可以在这里自动安装依赖）
-  "postCreateCommand": "yarn install",
-
-  // 以 root 身份运行（或者你可以根据 Dockerfile 调整为 node 用户）
-  "remoteUser": "root"
+  // XDG_CACHE_HOME 是一个 Linux 标准环境变量。
+  "containerEnv": {
+    "COREPACK_HOME": "/home/vscode/.cache/corepack",
+    "XDG_CACHE_HOME": "/home/vscode/.cache"
+  }
 }
+
+//通过dockerfile配置
+
+// {
+//   "name": "Node.js Dev Environment",
+//   // 引用你项目根目录下的 Dockerfile
+//   "build": {
+//     "dockerfile": "../Dockerfile",
+//     "context": ".."
+//   },
+
+//   // 设置容器内的工作目录
+//   "workspaceFolder": "/workspaces/qwerty-learner",
+
+//   // 这里的配置会让容器启动后自动映射端口
+//   "forwardPorts": [5173],
+//   "portsAttributes": {
+//     "5173": {
+//       "label": "Vite Dev Server",
+//       "onAutoForward": "notify"
+//     }
+//   },
+
+//   // 容器内 VS Code 的个性化配置
+//   "customizations": {
+//     "vscode": {
+//       "extensions": [
+//         "dbaeumer.vscode-eslint", // 代码校验
+//         "esbenp.prettier-vscode", // 代码格式化
+//         "dsznajder.es7-react-js-snippets" // React 常用代码段
+//       ]
+//     }
+//   },
+
+//   // 容器创建后的回调（可以在这里自动安装依赖）
+//   "postCreateCommand": "yarn install",
+
+//   // 以 root 身份运行（或者你可以根据 Dockerfile 调整为 node 用户）
+//   "remoteUser": "root"
+// }
